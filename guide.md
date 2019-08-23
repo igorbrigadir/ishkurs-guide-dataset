@@ -23,6 +23,7 @@ If you are a longtime visitor of this guide, read the tutorial anyway, or go pok
 	- [300 BC](#300-bc)
 	- [65,000 BC](#65000-bc)
 	- [The Music](#the-music)
+----------------------------------------------------
 - [Gear](#gear)
 	- [Tech 12: *Technics SL-1200 Turntable*](#tech-12-technics-sl-1200-turntable)
 	- [TB-303: *Roland TB-303 Bassline*](#tb-303-roland-tb-303-bassline)
@@ -34,6 +35,7 @@ If you are a longtime visitor of this guide, read the tutorial anyway, or go pok
 - [Sounds](#sounds)
 	- [Hoover](#hoover)
 	- [MC](#mc)
+----------------------------------------------------
 - [House](#house)
 - [Trance](#trance)
 - [Techno](#techno)
@@ -41,6 +43,7 @@ If you are a longtime visitor of this guide, read the tutorial anyway, or go pok
 - [Jungle](#jungle)
 - [Hardcore](#hardcore)
 - [Downtempo](#downtempo)
+----------------------------------------------------
 - [Disclaimer](#disclaimer)
 - [Credits](#credits)
 
@@ -80,7 +83,7 @@ MIDI also allowed one other important thing to happen: continuous music in video
 
 So now you understand why the electronic music industry will always triumph over the computer industry, because the computer industry is dumb. And it all started in 1982, with the creation of MIDI, that allowed electronic instruments to hook up with one another, and finally free themselves from the bonds of you filthy humans.
 
-[HEAR Stupid Geocities MIDI music](guide_data/sounds/)
+[HEAR Stupid Geocities MIDI music](guide_data/sounds/56.mp3)
 
 ## 1970
 
@@ -98,7 +101,7 @@ This sounds like a broken record, but once again the brother saves humanity from
 
 From here, things would only get better, and by better I mean blacker. There are lots of great exceptions, but generally white people just suck at making electronic music.
 
-[HEAR The Funky Worm]()
+[HEAR The Funky Worm](guide_data/sounds/72.mp3)
 
 ## 1955
 
@@ -142,7 +145,7 @@ Organs are all about size. The bigger the organ, the fuller the sound, the more 
 
 But it started here. With the foreknowledge that electronics could improve and probably replace the boisterousness of the gigantic organs. Boy, were they ever right.
 
-[HEAR the Hammond B-3]()
+[HEAR the Hammond B-3](guide_data/sounds/110.mp3)
 
 ## 1917
 
@@ -158,7 +161,7 @@ But perhaps it's crowning achievement was when the Beach Boys insisted on using 
 
 So here's to the Theremin: the most frustrating musical instrument of all time, and the first entirely electronic instrument, ever.
 
-[HEAR The Theremin]()
+[HEAR The Theremin](guide_data/sounds/126.mp3)
 
 ## 1897
 
