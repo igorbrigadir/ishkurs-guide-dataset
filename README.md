@@ -1,4 +1,4 @@
-# Ishkur's Guide v2.5 Dataset:
+# Ishkur's Guide to Electronic Music v2.5 Dataset:
 
 Structured Data from v2.5 of Ishkur's Guide to Electronic Music. I wanted to preserve the information in the guide, without relying on flash, and have a good dataset to experiment with. Extracted largely manually, if you spot a missing data point, let me know.
 
@@ -24,7 +24,7 @@ Structured Data from v2.5 of Ishkur's Guide to Electronic Music. I wanted to pre
   - `file`: name of swf and txt file with description.
 
 * `edges.csv` Data:
-  - `source,target`: source and target are based on `file` name without extension. A link between nodes (in the guide, dashed lines link across genres, and solid lines within genres).
+  - `source,target`: source and target are based on `file` name without extension. An undirected link between nodes (in the guide, dashed lines link across genres, and solid lines within genres).
   
 * `tracks.csv` Data:
   - `file`: matches `genres.csv`
