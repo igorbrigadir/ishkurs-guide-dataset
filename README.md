@@ -22,6 +22,7 @@ Structured Data from v2.5 of Ishkur's Guide to Electronic Music. I wanted to pre
   - `group`: the "group" the genres are in, eg: "funk".
   - `decade`: 70s, 80s, 90s, etc.
   - `file`: name of swf and txt file with description.
+  - `description`: The text description of the genre.
 
 * `edges.csv` Data:
   - `source,target`: source and target are based on `file` name without extension. An undirected link between nodes (in the guide, dashed lines link across genres, and solid lines within genres).
@@ -31,5 +32,8 @@ Structured Data from v2.5 of Ishkur's Guide to Electronic Music. I wanted to pre
   - `number`: Order in playlist
   - `artist`: Artist
   - `track`: Track Title
-  
+
+* `guide.md` Data:
+  - This is all the text in the "Tutorial", "Equipment", Credits, Disclaimer.
+
 Version 3.0 of the guide is out now: http://music.ishkur.com/ and has even more data, i'll try to save and structure that too.
