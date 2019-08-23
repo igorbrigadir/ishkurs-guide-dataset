@@ -1,5 +1,7 @@
 # Welcome to Ishkur's Guide to Electronic Music. v2.5
 
+![](guide_data/images/0.png)
+
 If you've never been here before, you may find this thing a bit daunting at first glance, unsure where to go and how to begin. So I have made a tutorial to get you aquainted with what this music is and where it came from. I recommend you start there.
 
 If you are a longtime visitor of this guide, read the tutorial anyway, or go poke around at your leasure. You don't need my help. Just make sure your head is completely pulled out of your ass before proceeding.
@@ -265,17 +267,25 @@ There. You got all that? Now that you know where it came from, it's up to you to
 
 ## Tech 12: *Technics SL-1200 Turntable*
 
+![](guide_data/images/279.jpg)
+
 There it is. The wheels of steel. The #1 prime application by which all music is mixed. Plug two of them into a mixer and you got yourself a very expensive hobby. This sumbitch has yet to be largely improved upon since its inception in 1972. Yeah--that's 30 years of being the undisputed, dead solid, ever dependable standard. Eons in an age where technological advancements are just fleeting excuses inbetween more technological advancements. So why is it still preferred after all these years? Because its built like a fucking tank, that's why. I've seen Tech 12s dropped down whole flights of stairs, fallen off balconies, off moving cars, get hosed on, puked on, bottles broken over, set on fire, even buried under 3 feet of sand--and still work flawlessly. The Technics SL-1200 turntable is more reliable and loyal than the family dog. Likened to the AK-47, it was built to last. It never jams, never breaks down, rarely needs maintenance, and its design is so stupidly simple (3 buttons, a knob and a slider) everyone in the industry knows how to use one. It has an average lifespan of 10 DJ careers. You could drop it in a river of molten lava and it would still work. When other tables might sputter or crumble to pieces if you even touch them, the Technics platter can be pushed, back-spinned, stopped, slowed, and manually manipulated to your hearts content, and it will always bounce right back to its regular speed. This durability allows people to practically play it like an instrument, as its solely responsible for the rise of hip hop and DMC battles, and the Disc Jockey as a self-contained musician in his own right.
 
 ## TB-303: *Roland TB-303 Bassline*
+
+![](guide_data/images/285.jpg)
 
 Yes. The sound that launched an entire cultural movement. Given that this device was originally intended to sound like a bass guitar, I would say that the engineers completely missed the mark. And that may have been the best thing that's ever happened to music. This little box (only 30cm long) makes the First Sound of Electronica, and the loveliest, most versatile sound of all time: acid. Through proper tweaking, it can be warm, cold, stiff, funky, dark, happy, soft, fuzzy, trippy, screaming, squelching, driving, pulsing, rubbery, or anything you've ever possibly heard of (and even things you haven't). It can be smooth and bubbly, like a drinking fountain or boiling hot springs. Or it can be cold and mechanical, like an automotive assembly line on the bridge of the Star Trek Enterprise. But perhaps the most important thing about its mutated, alien-like din is that its really really cool to listen to on drugs. That combination--warped acid music and amphetamines--has gone on to spawn the greatest single form of all-night recreation yet conceived of by man.
 
 ## TR-808: *Roland TR-808 Drum Machine*
 
+![](guide_data/images/282.jpg)
+
 The infamous drum machine responsible for techno, electro, and the entire decade of 80s music sounding all tinny and raspy. The problem with the 808 is that it doesn't sound anywhere close to real drums (was it trying to?). It doesn't have a bassdrum--that sound you hear is just bass, something so deep it makes the cat run around the house in utter confusion. And what the hell is that ticky noise? Is that electronic twerp supposed to be a cowbell? Christopher Walken would not approve. These don't sound anything like.....well, like anything. Yet somehow, this machine released soulless, mechanical hell upon an unsuspecting music industry and, much like all the other equipment detailed on here, was rediscovered well after the company discontinued making them by an electronic arm of musicians who consider those quirky noises happy accidents. 
 
 ## TR-909: *Roland TR-909 Drum Machine*
+
+![](guide_data/images/288.jpg)
 
 House, trance and techno start here. The 909 is the yin to the 808's yang. Where the 808 is tinny, mechanical, raspy and twitchy, the 909 is heavier (physically and sonically), deeper and fuller. The standard setup is to employ the 909 for the groove, and the 808 for the percussion. The 909 doesn't have a bassdrum--that's just a weird thud emanating from the box that has launched a million dance records. Stick a guitar distortion pedal on it and you have hardcore. Add some decks and effects and you have Richie Hawtin. If there's one great signature sound about this beast, it's definitely the handclaps. The 808 may have the cowbell. But The 909 is ALL about the handclaps.
 
@@ -283,9 +293,13 @@ House, trance and techno start here. The 909 is the yin to the 808's yang. Where
 
 ## Amen Break
 
+![](guide_data/images/291.jpg)
+
 The Winstons were just a soul/RnB group with one hit record: a single in 1969 called "Color Me Father". So what, you think. A one-hit wonder because you wonder how they got the one hit. Yet it was the B-side of that single that contained something strangely extraordinary: an instrumental called "Amen Brother" that was all about its spastic drum solo. And when I say 'spastic drum solo' I mean wave your arms in the air like Grover, make some noise, and get ready fo' da rewind, Boh! My Selectah! Yup. That's it right there; the infamous Amen Break, staple sample of every breakbeat and jungle producer's arsenal. Without this, junglists would not exist. *gasp* God forbid!
 
 ## Funky Drummer
+
+![](guide_data/images/297.jpg)
 
 It's not even a very good or popular track. It certainly didn't make any compilations or "Best of..." lists years later. It was just standard James Brown fair, him doing his thing like only he can. It sounds like a track he probably made in the span of about 5 minutes, while making breakfast one morning ("Makin' some hotcakes....gots ta flip 'em over....gots ta flip 'em over...gots ta flip 'em over....hotcakes! Smokin'! With tha bacon on the siiide! aiiiigh!"). Near the end, however, is a very special moment where he tells the band to shut up and just listen to what the drummer is doing. Something very monumental, he notices. A catchy drum riff that years later would propel hip hop and breakbeat to the heights of the music world, and make James Brown the most sampled man in the history of music. For sample-happy artists like The KLF, there was only one thing to do then: snub the Godfather of Soul and rip off Gary Glitter instead. For the rest of the rap world: you niggas owe the hardest working man in show business your bling bling. All of it.
 
@@ -293,9 +307,13 @@ It's not even a very good or popular track. It certainly didn't make any compila
 
 ## Hoover
 
+![](guide_data/images/294.jpg)
+
 Most every popular sound in electronic music has come about because of a mistake. Nothing is ever made in this music scene deliberately or through conscious, premeditated effort. Everything is discovered by accident, used because it sounds cool, becomes popular, and is ripped off for other tracks, crafting entire genres in their wake. The hoover is the jetfighter wooshing, beehive buzzing, race car driving wall of sound made popular by the Roland Alpha Juno series of synthesizers. Hell, on the Roland Alpha Juno-2 it's listed as Patch-86, titled "What the...". Early on, was referred to as Mentasm or Reese after popular tracks and producers who employed it, but the name that's stuck after all these years is the one afforded by the lowly vacuum cleaner. Ha ha ha.
 
 ## MC
+
+![](guide_data/images/300.jpg)
 
 The Master of Ceremonies first got his start as a conductor of sorts, introducing the musical talent and becoming the host of the party. The practice started off fairly benign in--where else--Jamaica, where the MC would add his voice as a freestyle adlib singer, becoming part of the music. Then it was exported to New York where it became Hip Hop, and as time went on Hip Hop MCs decided that they were more important than the music, and then later on declared that they were more important than everything. Jungle and Breaks MCs tried to do the same, with limited amounts of success and bravado. But the important part to remember is that an MC is not supposed to transcend the music or even compete with it. That's when everything goes to shit. The original Jamaicans didn't do that. They understood that the object was to liven the party atmosphere, not to become the centre of attention. They were simply Toastmasters, which is something that modern MCs rarely do anymore. Toasting. I like that word. Who toasts anymore? It seems like every freestyler today is trying too hard to be some sharp-tongues, insult-armed "lyrical assassin" rather than someone who actually wants to improve the quality of the party.
 
