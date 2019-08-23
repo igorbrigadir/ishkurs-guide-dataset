@@ -1,16 +1,16 @@
 # Ishkur's Guide to Electronic Music v2.5 Dataset:
 
-Structured Data from v2.5 of Ishkur's Guide to Electronic Music. I wanted to preserve the information in the guide, without relying on flash, and have a good dataset to experiment with. Extracted largely manually, if you spot a missing data point, let me know.
+Structured Data from v2.5 of Ishkur's Guide to Electronic Music. I wanted to preserve the information in the guide, without relying on flash, and have a good dataset to experiment with. Extracted largely manually, if you spot a missing data point, let me know. This is a relatively small dataset, but might be interesting to use as an example in hirarchical community detection, or some other network analysis.
+
+## Data Cleaning Steps:
 
 * Load up http://techno.org/electronic-music-guide/ with dev tools on.
-
 * Click on everything that loads resources (each main page and genre)
-
 * Extract HAR files: https://github.com/azu/har-extractor
-
 * Extract SWF Files texts (tracks): https://github.com/jindrapetrik/jpexs-decompiler
-
 * Extract connections: SWF is a nightmare. Connections extractred manually.
+
+## Data Dictionary:
 
 * `data/`: Contains all swf and txt files from http://techno.org/electronic-music-guide/
 
@@ -36,4 +36,10 @@ Structured Data from v2.5 of Ishkur's Guide to Electronic Music. I wanted to pre
 * `guide.md` Data:
   - This is all the text in the "Tutorial", "Equipment", Credits, Disclaimer.
 
+## See Also:
+
 Version 3.0 of the guide is out now: http://music.ishkur.com/ and has even more data, i'll try to save and structure that too.
+
+## Contributing:
+
+If you make something with this let me know.
