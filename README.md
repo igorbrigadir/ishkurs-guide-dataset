@@ -1,2 +1,35 @@
-# ishkurs-guide-dataset
-Structured Data from v2.5 of Ishkur's Guide to Electronic Music.
+# Ishkur's Guide v2.5 Dataset:
+
+Structured Data from v2.5 of Ishkur's Guide to Electronic Music. I wanted to preserve the information in the guide, without relying on flash, and have a good dataset to experiment with. Extracted largely manually, if you spot a missing data point, let me know.
+
+* Load up http://techno.org/electronic-music-guide/ with dev tools on.
+
+* Click on everything that loads resources (each main page and genre)
+
+* Extract HAR files: https://github.com/azu/har-extractor
+
+* Extract SWF Files texts (tracks): https://github.com/jindrapetrik/jpexs-decompiler
+
+* Extract connections: SWF is a nightmare. Connections extractred manually.
+
+* `data/`: Contains all swf and txt files from http://techno.org/electronic-music-guide/
+
+* `genres.csv` Data:
+  - `genre`: the visible label on the button.
+  - `title`: what loads in description box.
+  - `aka`: if available, aka label.
+  - `type`: main section, eg: house, techno.
+  - `group`: the "group" the genres are in, eg: "funk".
+  - `decade`: 70s, 80s, 90s, etc.
+  - `file`: name of swf and txt file with description.
+
+* `edges.csv` Data:
+  - `source,target`: source and target are based on `file` name without extension. A link between nodes (in the guide, dashed lines link across genres, and solid lines within genres).
+  
+* `tracks.csv` Data:
+  - `file`: matches `genres.csv`
+  - `number`: Order in playlist
+  - `artist`: Artist
+  - `track`: Track Title
+  
+Version 3.0 of the guide is out now: http://music.ishkur.com/ and has even more data, i'll try to save and structure that too.
