@@ -12,7 +12,8 @@ Structured Data from v2.5 of Ishkur's Guide to Electronic Music. I wanted to pre
 
 ## Data Dictionary:
 
-* `data/`: Contains all swf and txt files from http://techno.org/electronic-music-guide/
+* `raw_data/`: Contains all swf and txt files from http://techno.org/electronic-music-guide/
+* `swf_data/`: Contains extracted text objects from swf files.
 
 * `genres.csv` Data:
   - `genre`: the visible label on the button.
