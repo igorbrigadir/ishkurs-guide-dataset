@@ -16,13 +16,13 @@ Structured Data from v2.5 of Ishkur's Guide to Electronic Music. I wanted to pre
 * `swf_data/`: Contains extracted text objects from swf files.
 
 * `genres.csv` Data:
-  - `genre`: the visible label on the button.
-  - `title`: what loads in description box.
-  - `aka`: if available, aka label.
-  - `type`: main section, eg: house, techno.
-  - `group`: the "group" the genres are in, eg: "funk".
-  - `decade`: 70s, 80s, 90s, etc.
-  - `file`: name of swf and txt file with description.
+  - `node`: The visible label on the button, sometimes different to Title.
+  - `title`: What loads in description box.
+  - `aka`: If available, aka label.
+  - `type`: Main section, eg: house, techno, hardcore etc.
+  - `group`: The "group" the genres are in, eg: "funk".
+  - `decade`: 70s, 80s, 90s, etc. Roughly, some nodes are on the border in swf
+  - `file`: Name of swf and txt file with description.
   - `description`: The text description of the genre.
 
 * `edges.csv` Data:
@@ -30,12 +30,14 @@ Structured Data from v2.5 of Ishkur's Guide to Electronic Music. I wanted to pre
   
 * `tracks.csv` Data:
   - `file`: matches `genres.csv`
-  - `number`: Order in playlist
+  - `number`: Order in playlist (Does not match the SWF order)
   - `artist`: Artist
   - `track`: Track Title
 
 * `guide.md` Data:
-  - This is all the text in the "Tutorial", "Equipment", Credits, Disclaimer.
+  - This is all the text in the "Tutorial", "Equipment", Credits, Disclaimer etc.
+
+* `preprocessing`: Contains scripts used to help clean up decompiled swfs.
 
 ## See Also:
 
@@ -43,4 +45,4 @@ Version 3.0 of the guide is out now: http://music.ishkur.com/ and has even more 
 
 ## Contributing:
 
-If you make something with this let me know.
+If you make something with this, or find it useful, let me know.
