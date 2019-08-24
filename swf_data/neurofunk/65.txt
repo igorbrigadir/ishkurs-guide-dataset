@@ -1,0 +1,3 @@
+artist: WRISK
+--- RECORDSEPARATOR ---
+track: DICED TURKEY

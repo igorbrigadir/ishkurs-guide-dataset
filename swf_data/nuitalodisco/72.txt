@@ -1,0 +1,3 @@
+artist: FUNNY
+--- RECORDSEPARATOR ---
+track: SING A SONG

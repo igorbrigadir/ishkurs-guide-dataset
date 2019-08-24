@@ -1,0 +1,3 @@
+artist: LORDS OF ACID
+--- RECORDSEPARATOR ---
+track: I SIT ON ACID

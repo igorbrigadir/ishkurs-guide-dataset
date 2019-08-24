@@ -1,0 +1,3 @@
+artist: BEL BIV DEVOE
+--- RECORDSEPARATOR ---
+track: POISON

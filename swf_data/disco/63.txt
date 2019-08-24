@@ -1,0 +1,3 @@
+artist: AMANDA LEAR
+--- RECORDSEPARATOR ---
+track: FOLLOW ME

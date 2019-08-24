@@ -1,0 +1,3 @@
+artist: CAPITAL SOUND
+--- RECORDSEPARATOR ---
+track: DESIRE

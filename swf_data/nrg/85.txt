@@ -1,0 +1,3 @@
+artist: STEVE THOMAS
+--- RECORDSEPARATOR ---
+track: HIGHER

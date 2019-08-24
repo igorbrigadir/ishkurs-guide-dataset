@@ -1,0 +1,3 @@
+artist: KMFDM
+--- RECORDSEPARATOR ---
+track: ANARCHY

@@ -1,0 +1,3 @@
+artist: FUNKER VOGT
+--- RECORDSEPARATOR ---
+track: WARTIME

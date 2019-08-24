@@ -1,0 +1,3 @@
+artist: DIVINE
+--- RECORDSEPARATOR ---
+track: SHOOT YOUR SHOT

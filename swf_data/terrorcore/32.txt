@@ -1,0 +1,3 @@
+artist: DELTA 9
+--- RECORDSEPARATOR ---
+track: REAL HARDCORE

@@ -1,0 +1,3 @@
+artist: KRAFTWERK
+--- RECORDSEPARATOR ---
+track: AUTOBAHN

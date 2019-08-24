@@ -1,0 +1,3 @@
+artist: METEK
+--- RECORDSEPARATOR ---
+track: FONCTION RADICALE

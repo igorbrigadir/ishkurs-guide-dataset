@@ -1,0 +1,3 @@
+artist: USUAL SUSPECTS
+--- RECORDSEPARATOR ---
+track: SYNAPSE

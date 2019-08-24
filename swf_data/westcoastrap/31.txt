@@ -1,0 +1,3 @@
+artist: NWA
+--- RECORDSEPARATOR ---
+track: STRAIGHT OUTTA COMPTON

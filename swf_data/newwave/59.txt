@@ -1,0 +1,3 @@
+artist: VANGELIS
+--- RECORDSEPARATOR ---
+track: ALPHA

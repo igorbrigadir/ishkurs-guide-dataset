@@ -1,0 +1,3 @@
+artist: YOUNG MC
+--- RECORDSEPARATOR ---
+track: BUST A MOVE

@@ -1,0 +1,3 @@
+artist: WUMPSCUT
+--- RECORDSEPARATOR ---
+track: WULF

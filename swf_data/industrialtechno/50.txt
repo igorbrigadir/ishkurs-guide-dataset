@@ -1,0 +1,3 @@
+artist: PUNCH INC.
+--- RECORDSEPARATOR ---
+track: DESERT STORM

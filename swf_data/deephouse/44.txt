@@ -1,0 +1,3 @@
+artist: SECOND SHIFT
+--- RECORDSEPARATOR ---
+track: SOMETHIN' ELSE

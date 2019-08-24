@@ -1,0 +1,3 @@
+artist: HOCICO
+--- RECORDSEPARATOR ---
+track: BLOODSHED

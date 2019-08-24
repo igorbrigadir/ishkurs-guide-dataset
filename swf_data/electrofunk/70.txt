@@ -1,0 +1,3 @@
+artist: FUNKADELIC
+--- RECORDSEPARATOR ---
+track: ELECTRO-CUTIES

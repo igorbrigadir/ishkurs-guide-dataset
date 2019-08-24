@@ -1,0 +1,3 @@
+artist: PLASTIC ANGEL
+--- RECORDSEPARATOR ---
+track: HARDWIRED

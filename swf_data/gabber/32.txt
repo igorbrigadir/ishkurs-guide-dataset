@@ -1,0 +1,3 @@
+artist: DJ PROMO
+--- RECORDSEPARATOR ---
+track: MADMAN

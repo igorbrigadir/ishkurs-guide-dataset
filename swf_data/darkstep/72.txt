@@ -1,0 +1,3 @@
+artist: LEON SWITCH
+--- RECORDSEPARATOR ---
+track: LUCKY STAR

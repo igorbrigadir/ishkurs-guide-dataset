@@ -1,0 +1,3 @@
+artist: MAJISTRATE
+--- RECORDSEPARATOR ---
+track: PROHIBITED

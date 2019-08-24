@@ -1,0 +1,3 @@
+artist: WAY OUT WEST
+--- RECORDSEPARATOR ---
+track: MINDCIRCUS

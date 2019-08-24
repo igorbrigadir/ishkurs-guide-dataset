@@ -1,0 +1,3 @@
+artist: RAMMSTEIN
+--- RECORDSEPARATOR ---
+track: DU HAST

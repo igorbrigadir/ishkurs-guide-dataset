@@ -1,0 +1,3 @@
+artist: NEW MIND
+--- RECORDSEPARATOR ---
+track: LOVE MISSILE F1-11

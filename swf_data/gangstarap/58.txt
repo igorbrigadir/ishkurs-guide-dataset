@@ -1,0 +1,3 @@
+artist: NOTORIOUS B.I.G.
+--- RECORDSEPARATOR ---
+track: BIG POPPA

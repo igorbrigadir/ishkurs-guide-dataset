@@ -1,0 +1,3 @@
+artist: APHRODITE
+--- RECORDSEPARATOR ---
+track: THE BOMBER STYLE

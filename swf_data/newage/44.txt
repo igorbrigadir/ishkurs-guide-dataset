@@ -1,0 +1,3 @@
+artist: ENYA
+--- RECORDSEPARATOR ---
+track: ONLY TIME

@@ -1,0 +1,3 @@
+artist: 101
+--- RECORDSEPARATOR ---
+track: ROCK TO THE BEAT

@@ -1,0 +1,3 @@
+artist: TEMPO
+--- RECORDSEPARATOR ---
+track: EVERYBODY GET UP

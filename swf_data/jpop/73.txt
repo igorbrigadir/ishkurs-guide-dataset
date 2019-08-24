@@ -1,0 +1,3 @@
+artist: MEGUMI HAYASHIBARA
+--- RECORDSEPARATOR ---
+track: BREEZE

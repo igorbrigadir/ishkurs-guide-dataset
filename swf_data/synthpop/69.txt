@@ -1,0 +1,3 @@
+artist: EURYTHMICS
+--- RECORDSEPARATOR ---
+track: SWEET DREAMS

@@ -1,0 +1,3 @@
+artist: DISCO D
+--- RECORDSEPARATOR ---
+track: YOU NEED ANOTHER DRINK
