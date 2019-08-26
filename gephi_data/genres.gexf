@@ -1,0 +1,2026 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gexf xmlns="http://www.gexf.net/1.3" version="1.3" xmlns:viz="http://www.gexf.net/1.3/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.3 http://www.gexf.net/1.3/gexf.xsd">
+  <meta lastmodifieddate="2019-08-26">
+    <creator>Gephi 0.9</creator>
+    <description></description>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static">
+    <attributes class="node" mode="static">
+      <attribute id="type" title="type" type="string"></attribute>
+      <attribute id="scene" title="scene" type="string"></attribute>
+      <attribute id="decade" title="decade" type="string"></attribute>
+    </attributes>
+    <nodes>
+      <node id="house" label="House">
+        <attvalues>
+          <attvalue for="type" value="House"></attvalue>
+        </attvalues>
+        <viz:size value="300.0"></viz:size>
+        <viz:position x="345.83206" y="-628.8495"></viz:position>
+        <viz:color r="105" g="196" b="4"></viz:color>
+      </node>
+      <node id="stupidhouse" label="Stupid House">
+        <attvalues>
+          <attvalue for="type" value="House"></attvalue>
+          <attvalue for="scene" value="Hard Dance"></attvalue>
+          <attvalue for="decade" value="90s"></attvalue>
+        </attvalues>
+        <viz:size value="83.33333"></viz:size>
+        <viz:position x="-3760.0142" y="-232.30444"></viz:position>
+        <viz:color r="105" g="196" b="4"></viz:color>
+      </node>
+      <node id="deephouse" label="Deep House">
+        <attvalues>
+          <attvalue for="type" value="House"></attvalue>
+          <attvalue for="scene" value="Funk"></attvalue>
+          <attvalue for="decade" value="90s"></attvalue>
+        </attvalues>
+        <viz:size value="83.33333"></viz:size>
+        <viz:position x="-472.1056" y="-2089.758"></viz:position>
+        <viz:color r="105" g="196" b="4"></viz:color>
+      </node>
+      <node id="discohouse" label="Disco House">
+        <attvalues>
+          <attvalue for="type" value="House"></attvalue>
+          <attvalue for="scene" value="Funk"></attvalue>
+          <attvalue for="decade" value="90s"></attvalue>
+        </attvalues>
+        <viz:size value="83.33333"></viz:size>
+        <viz:position x="-1058.6503" y="-3367.6875"></viz:position>
+        <viz:color r="105" g="196" b="4"></viz:color>
+      </node>
+      <node id="frenchhouse" label="French House">
+        <attvalues>
+          <attvalue for="type" value="House"></attvalue>
+          <attvalue for="scene" value="Funk"></attvalue>
+          <attvalue for="decade" value="90s"></attvalue>
+        </attvalues>
+        <viz:size value="83.33333"></viz:size>
+        <viz:position x="-1310.9872" y="-3000.7573"></viz:position>
+        <viz:color r="105" g="196" b="4"></viz:color>
+      </node>
+      <node id="funkyhouse" label="Funky House">
+        <attvalues>
+          <attvalue for="type" value="House"></attvalue>
+          <attvalue for="scene" value="Funk"></attvalue>
+          <attvalue for="decade" value="90s"></attvalue>
+        </attvalues>
+        <viz:size value="116.666664"></viz:size>
+        <viz:position x="-736.3975" y="-2861.6338"></viz:position>
+        <viz:color r="105" g="196" b="4"></viz:color>
+      </node>
+      <node id="latinhouse" label="Latin House">
+        <attvalues>
+          <attvalue for="type" value="House"></attvalue>
+          <attvalue for="scene" value="Funk"></attvalue>
+          <attvalue for="decade" value="90s"></attvalue>
+        </attvalues>
+        <viz:size value="66.666664"></viz:size>
+        <viz:position x="-798.57324" y="-3254.122"></viz:position>
+        <viz:color r="105" g="196" b="4"></viz:color>
+      </node>
+      <node id="anthemhouse" label="Anthem House">
+        <attvalues>
+          <attvalue for="type" value="House"></attvalue>
+          <attvalue for="scene" value="Europop"></attvalue>
+          <attvalue for="decade" value="90s"></attvalue>
+        </attvalues>
+        <viz:size value="83.33333"></viz:size>
+        <viz:position x="-965.4216" y="-2217.0798"></viz:position>
+        <viz:color r="105" g="196" b="4"></viz:color>
+      </node>
+      <node id="epichouse" label="Epic House">
+        <attvalues>
+          <attvalue for="type" value="House"></attvalue>
+          <attvalue for="scene" value="Europop"></attvalue>
+          <attvalue for="decade" value="90s"></attvalue>
+        </attvalues>
+        <viz:size value="83.33333"></viz:size>
+        <viz:position x="-1306.838" y="-2343.2275"></viz:position>
+        <viz:color r="105" g="196" b="4"></viz:color>
+      </node>
+      <node id="eurobeat" label="Eurobeat">
+        <attvalues>
+          <attvalue for="type" value="House"></attvalue>
+          <attvalue for="scene" value="Europop"></attvalue>
+          <attvalue for="decade" value="90s"></attvalue>
+        </attvalues>
+        <viz:size value="83.33333"></viz:size>
+        <viz:position x="235.31862" y="-3422.896"></viz:position>
+        <viz:color r="105" g="196" b="4"></viz:color>
+      </node>
+      <node id="eurodance" label="Eurodance">
+        <attvalues>
+          <attvalue for="type" value="House"></attvalue>
+          <attvalue for="scene" value="Europop"></attvalue>
+          <attvalue for="decade" value="90s"></attvalue>
+        </attvalues>
+        <viz:size value="150.0"></viz:size>
+        <viz:position x="9.124864" y="-2988.728"></viz:position>
+        <viz:color r="105" g="196" b="4"></viz:color>
+      </node>
+      <node id="happyhouse" label="Happy House">
+        <attvalues>
+          <attvalue for="type" value="House"></attvalue>
+          <attvalue for="scene" value="Europop"></attvalue>
+          <attvalue for="decade" value="90s"></attvalue>
+        </attvalues>
+        <viz:size value="66.666664"></viz:size>
+        <viz:position x="-434.9201" y="-3128.3608"></viz:position>
+        <viz:color r="105" g="196" b="4"></viz:color>
+      </node>
+      <node id="jpop" label="Jpop">
+        <attvalues>
+          <attvalue for="type" value="House"></attvalue>
+          <attvalue for="scene" value="Europop"></attvalue>
+          <attvalue for="decade" value="90s"></attvalue>
+        </attvalues>
+        <viz:size value="83.33333"></viz:size>
+        <viz:position x="-287.3925" y="-3468.778"></viz:position>
+        <viz:color r="105" g="196" b="4"></viz:color>
+      </node>
+      <node id="nuitalodisco" label="Nu Italo Disco">
+        <attvalues>
+          <attvalue for="type" value="House"></attvalue>
+          <attvalue for="scene" value="Europop"></attvalue>
+          <attvalue for="decade" value="90s"></attvalue>
+        </attvalues>
+        <viz:size value="66.666664"></viz:size>
+        <viz:position x="455.85077" y="-3260.336"></viz:position>
+        <viz:color r="105" g="196" b="4"></viz:color>
+      </node>
+      <node id="vocalhouse" label="Vocal House">
+        <attvalues>
+          <attvalue for="type" value="House"></attvalue>
+          <attvalue for="scene" value="Europop"></attvalue>
+          <attvalue for="decade" value="90s"></attvalue>
+        </attvalues>
+        <viz:size value="83.33333"></viz:size>
+        <viz:position x="-393.58478" y="-2612.2803"></viz:position>
+        <viz:color r="105" g="196" b="4"></viz:color>
+      </node>
+      <node id="technodance" label="Techno Dance">
+        <attvalues>
+          <attvalue for="type" value="House"></attvalue>
+          <attvalue for="scene" value="Europop"></attvalue>
+          <attvalue for="decade" value="80s"></attvalue>
+        </attvalues>
+        <viz:size value="183.33333"></viz:size>
+        <viz:position x="176.58806" y="-2217.2244"></viz:position>
+        <viz:color r="105" g="196" b="4"></viz:color>
+      </node>
+      <node id="italodisco" label="Italo Disco">
+        <attvalues>
+          <attvalue for="type" value="House"></attvalue>
+          <attvalue for="scene" value="Eurodisco"></attvalue>
+          <attvalue for="decade" value="80s"></attvalue>
+        </attvalues>
+        <viz:size value="133.33334"></viz:size>
+        <viz:position x="-1297.0378" y="-267.64795"></viz:position>
+        <viz:color r="105" g="196" b="4"></viz:color>
+      </node>
+      <node id="newwave" label="New Wave">
+        <attvalues>
+          <attvalue for="type" value="House"></attvalue>
+          <attvalue for="scene" value="Eurodisco"></attvalue>
+          <attvalue for="decade" value="80s"></attvalue>
+        </attvalues>
+        <viz:size value="116.666664"></viz:size>
+        <viz:position x="-177.61813" y="295.47498"></viz:position>
+        <viz:color r="105" g="196" b="4"></viz:color>
+      </node>
+      <node id="synthpop" label="Synthpop">
+        <attvalues>
+          <attvalue for="type" value="House"></attvalue>
+          <attvalue for="scene" value="Eurodisco"></attvalue>
+          <attvalue for="decade" value="80s"></attvalue>
+        </attvalues>
+        <viz:size value="133.33334"></viz:size>
+        <viz:position x="-909.07196" y="363.52493"></viz:position>
+        <viz:color r="105" g="196" b="4"></viz:color>
+      </node>
+      <node id="disco" label="Disco">
+        <attvalues>
+          <attvalue for="type" value="House"></attvalue>
+          <attvalue for="scene" value="Eurodisco"></attvalue>
+          <attvalue for="decade" value="70s"></attvalue>
+        </attvalues>
+        <viz:size value="116.666664"></viz:size>
+        <viz:position x="-768.6532" y="-487.65356"></viz:position>
+        <viz:color r="105" g="196" b="4"></viz:color>
+      </node>
+      <node id="acidhouse" label="Acid House">
+        <attvalues>
+          <attvalue for="type" value="House"></attvalue>
+          <attvalue for="scene" value="Chicago"></attvalue>
+          <attvalue for="decade" value="80s"></attvalue>
+        </attvalues>
+        <viz:size value="116.666664"></viz:size>
+        <viz:position x="-1781.8422" y="85.32857"></viz:position>
+        <viz:color r="105" g="196" b="4"></viz:color>
+      </node>
+      <node id="classichouse" label="Classic House">
+        <attvalues>
+          <attvalue for="type" value="House"></attvalue>
+          <attvalue for="scene" value="Chicago"></attvalue>
+          <attvalue for="decade" value="80s"></attvalue>
+        </attvalues>
+        <viz:size value="200.0"></viz:size>
+        <viz:position x="-910.8077" y="-1199.5032"></viz:position>
+        <viz:color r="105" g="196" b="4"></viz:color>
+      </node>
+      <node id="garage" label="Garage">
+        <attvalues>
+          <attvalue for="type" value="House"></attvalue>
+          <attvalue for="scene" value="Chicago"></attvalue>
+          <attvalue for="decade" value="80s"></attvalue>
+        </attvalues>
+        <viz:size value="100.0"></viz:size>
+        <viz:position x="736.03485" y="-1935.2856"></viz:position>
+        <viz:color r="105" g="196" b="4"></viz:color>
+      </node>
+      <node id="hiphouse" label="Hip House">
+        <attvalues>
+          <attvalue for="type" value="House"></attvalue>
+          <attvalue for="scene" value="Chicago"></attvalue>
+          <attvalue for="decade" value="80s"></attvalue>
+        </attvalues>
+        <viz:size value="83.33333"></viz:size>
+        <viz:position x="-705.51" y="-1833.2324"></viz:position>
+        <viz:color r="105" g="196" b="4"></viz:color>
+      </node>
+      <node id="bootyhouse" label="Booty House">
+        <attvalues>
+          <attvalue for="type" value="House"></attvalue>
+          <attvalue for="scene" value="Booty Bass"></attvalue>
+          <attvalue for="decade" value="90s"></attvalue>
+        </attvalues>
+        <viz:size value="100.0"></viz:size>
+        <viz:position x="2424.0063" y="-1529.218"></viz:position>
+        <viz:color r="105" g="196" b="4"></viz:color>
+      </node>
+      <node id="darkhouse" label="Dark House">
+        <attvalues>
+          <attvalue for="type" value="House"></attvalue>
+          <attvalue for="decade" value="90s"></attvalue>
+        </attvalues>
+        <viz:size value="66.666664"></viz:size>
+        <viz:position x="-1644.0674" y="-3113.4392"></viz:position>
+        <viz:color r="105" g="196" b="4"></viz:color>
+      </node>
+      <node id="hardhouse" label="Hard House">
+        <attvalues>
+          <attvalue for="type" value="House"></attvalue>
+          <attvalue for="decade" value="90s"></attvalue>
+        </attvalues>
+        <viz:size value="83.33333"></viz:size>
+        <viz:position x="2057.8008" y="-1740.842"></viz:position>
+        <viz:color r="105" g="196" b="4"></viz:color>
+      </node>
+      <node id="microhouse" label="Microhouse">
+        <attvalues>
+          <attvalue for="type" value="House"></attvalue>
+          <attvalue for="decade" value="90s"></attvalue>
+        </attvalues>
+        <viz:size value="83.33333"></viz:size>
+        <viz:position x="1361.4313" y="-330.67377"></viz:position>
+        <viz:color r="105" g="196" b="4"></viz:color>
+      </node>
+      <node id="progressivehouse" label="Progressive House">
+        <attvalues>
+          <attvalue for="type" value="House"></attvalue>
+          <attvalue for="decade" value="90s"></attvalue>
+        </attvalues>
+        <viz:size value="83.33333"></viz:size>
+        <viz:position x="-660.18994" y="-2482.7683"></viz:position>
+        <viz:color r="105" g="196" b="4"></viz:color>
+      </node>
+      <node id="speedgarage" label="Speed Garage">
+        <attvalues>
+          <attvalue for="type" value="House"></attvalue>
+          <attvalue for="decade" value="90s"></attvalue>
+        </attvalues>
+        <viz:size value="83.33333"></viz:size>
+        <viz:position x="562.9919" y="-2628.3013"></viz:position>
+        <viz:color r="105" g="196" b="4"></viz:color>
+      </node>
+      <node id="synthtron" label="Synthtron">
+        <attvalues>
+          <attvalue for="type" value="House"></attvalue>
+          <attvalue for="decade" value="90s"></attvalue>
+        </attvalues>
+        <viz:size value="66.666664"></viz:size>
+        <viz:position x="-1350.122" y="217.5462"></viz:position>
+        <viz:color r="105" g="196" b="4"></viz:color>
+      </node>
+      <node id="techhouse" label="Tech House">
+        <attvalues>
+          <attvalue for="type" value="House"></attvalue>
+          <attvalue for="decade" value="90s"></attvalue>
+        </attvalues>
+        <viz:size value="100.0"></viz:size>
+        <viz:position x="1204.4884" y="-1255.1466"></viz:position>
+        <viz:color r="105" g="196" b="4"></viz:color>
+      </node>
+      <node id="tribalhouse" label="Tribal House">
+        <attvalues>
+          <attvalue for="type" value="House"></attvalue>
+          <attvalue for="decade" value="90s"></attvalue>
+        </attvalues>
+        <viz:size value="66.666664"></viz:size>
+        <viz:position x="-1173.1798" y="-1960.0223"></viz:position>
+        <viz:color r="105" g="196" b="4"></viz:color>
+      </node>
+      <node id="dubhouse" label="Dub">
+        <attvalues>
+          <attvalue for="type" value="House"></attvalue>
+          <attvalue for="decade" value="70s"></attvalue>
+        </attvalues>
+        <viz:size value="100.0"></viz:size>
+        <viz:position x="-262.94443" y="-1706.9932"></viz:position>
+        <viz:color r="105" g="196" b="4"></viz:color>
+      </node>
+      <node id="ukhouse" label="Brit House">
+        <attvalues>
+          <attvalue for="type" value="House"></attvalue>
+          <attvalue for="decade" value="00s"></attvalue>
+        </attvalues>
+        <viz:size value="100.0"></viz:size>
+        <viz:position x="-1439.7052" y="-2721.829"></viz:position>
+        <viz:color r="105" g="196" b="4"></viz:color>
+      </node>
+      <node id="trance" label="Trance">
+        <attvalues>
+          <attvalue for="type" value="Trance"></attvalue>
+        </attvalues>
+        <viz:size value="300.0"></viz:size>
+        <viz:position x="-2120.0159" y="-1658.2578"></viz:position>
+        <viz:color r="226" g="139" b="255"></viz:color>
+      </node>
+      <node id="buttrockgoa" label="Buttrock Goa">
+        <attvalues>
+          <attvalue for="type" value="Trance"></attvalue>
+          <attvalue for="scene" value="Psy"></attvalue>
+          <attvalue for="decade" value="90s"></attvalue>
+        </attvalues>
+        <viz:size value="66.666664"></viz:size>
+        <viz:position x="-2444.4768" y="871.8353"></viz:position>
+        <viz:color r="226" g="139" b="255"></viz:color>
+      </node>
+      <node id="deathtrance" label="Death Trance">
+        <attvalues>
+          <attvalue for="type" value="Trance"></attvalue>
+          <attvalue for="scene" value="Psy"></attvalue>
+          <attvalue for="decade" value="90s"></attvalue>
+        </attvalues>
+        <viz:size value="66.666664"></viz:size>
+        <viz:position x="-2342.3188" y="554.26025"></viz:position>
+        <viz:color r="226" g="139" b="255"></viz:color>
+      </node>
+      <node id="goatrance" label="Goa Trance">
+        <attvalues>
+          <attvalue for="type" value="Trance"></attvalue>
+          <attvalue for="scene" value="Psy"></attvalue>
+          <attvalue for="decade" value="90s"></attvalue>
+        </attvalues>
+        <viz:size value="100.0"></viz:size>
+        <viz:position x="-2257.337" y="258.9318"></viz:position>
+        <viz:color r="226" g="139" b="255"></viz:color>
+      </node>
+      <node id="psychedelictrance" label="Psychedelic Trance">
+        <attvalues>
+          <attvalue for="type" value="Trance"></attvalue>
+          <attvalue for="scene" value="Psy"></attvalue>
+          <attvalue for="decade" value="90s"></attvalue>
+        </attvalues>
+        <viz:size value="133.33334"></viz:size>
+        <viz:position x="-1900.4845" y="695.42426"></viz:position>
+        <viz:color r="226" g="139" b="255"></viz:color>
+      </node>
+      <node id="psytekk" label="Psytekk">
+        <attvalues>
+          <attvalue for="type" value="Trance"></attvalue>
+          <attvalue for="scene" value="Psy"></attvalue>
+          <attvalue for="decade" value="90s"></attvalue>
+        </attvalues>
+        <viz:size value="66.666664"></viz:size>
+        <viz:position x="-2136.523" y="977.3886"></viz:position>
+        <viz:color r="226" g="139" b="255"></viz:color>
+      </node>
+      <node id="ebm" label="Ebm">
+        <attvalues>
+          <attvalue for="type" value="Trance"></attvalue>
+          <attvalue for="scene" value="Industrial"></attvalue>
+          <attvalue for="decade" value="90s"></attvalue>
+        </attvalues>
+        <viz:size value="166.66667"></viz:size>
+        <viz:position x="-1192.2242" y="1103.3132"></viz:position>
+        <viz:color r="226" g="139" b="255"></viz:color>
+      </node>
+      <node id="electroindustrial" label="Electro-Industrial">
+        <attvalues>
+          <attvalue for="type" value="Trance"></attvalue>
+          <attvalue for="scene" value="Industrial"></attvalue>
+          <attvalue for="decade" value="90s"></attvalue>
+        </attvalues>
+        <viz:size value="66.666664"></viz:size>
+        <viz:position x="-1642.456" y="1197.9083"></viz:position>
+        <viz:color r="226" g="139" b="255"></viz:color>
+      </node>
+      <node id="futurepop" label="Futurepop">
+        <attvalues>
+          <attvalue for="type" value="Trance"></attvalue>
+          <attvalue for="scene" value="Industrial"></attvalue>
+          <attvalue for="decade" value="90s"></attvalue>
+        </attvalues>
+        <viz:size value="66.666664"></viz:size>
+        <viz:position x="-1462.604" y="1496.5295"></viz:position>
+        <viz:color r="226" g="139" b="255"></viz:color>
+      </node>
+      <node id="coldwave" label="Coldwave">
+        <attvalues>
+          <attvalue for="type" value="Trance"></attvalue>
+          <attvalue for="scene" value="Industrial"></attvalue>
+          <attvalue for="decade" value="80s"></attvalue>
+        </attvalues>
+        <viz:size value="83.33333"></viz:size>
+        <viz:position x="-67.75078" y="2277.8306"></viz:position>
+        <viz:color r="226" g="139" b="255"></viz:color>
+      </node>
+      <node id="darksynth" label="Darksynth">
+        <attvalues>
+          <attvalue for="type" value="Trance"></attvalue>
+          <attvalue for="scene" value="Industrial"></attvalue>
+          <attvalue for="decade" value="80s"></attvalue>
+        </attvalues>
+        <viz:size value="83.33333"></viz:size>
+        <viz:position x="-798.7938" y="827.1844"></viz:position>
+        <viz:color r="226" g="139" b="255"></viz:color>
+      </node>
+      <node id="darkwave" label="Darkwave">
+        <attvalues>
+          <attvalue for="type" value="Trance"></attvalue>
+          <attvalue for="scene" value="Industrial"></attvalue>
+          <attvalue for="decade" value="80s"></attvalue>
+        </attvalues>
+        <viz:size value="100.0"></viz:size>
+        <viz:position x="997.6741" y="2531.2551"></viz:position>
+        <viz:color r="226" g="139" b="255"></viz:color>
+      </node>
+      <node id="industrialexperimental" label="Industrial Experimental">
+        <attvalues>
+          <attvalue for="type" value="Trance"></attvalue>
+          <attvalue for="scene" value="Industrial"></attvalue>
+          <attvalue for="decade" value="80s"></attvalue>
+        </attvalues>
+        <viz:size value="66.666664"></viz:size>
+        <viz:position x="440.64066" y="2403.518"></viz:position>
+        <viz:color r="226" g="139" b="255"></viz:color>
+      </node>
+      <node id="industrialrock" label="Industrial Rock">
+        <attvalues>
+          <attvalue for="type" value="Trance"></attvalue>
+          <attvalue for="scene" value="Industrial"></attvalue>
+          <attvalue for="decade" value="80s"></attvalue>
+        </attvalues>
+        <viz:size value="100.0"></viz:size>
+        <viz:position x="-262.6424" y="1826.3489"></viz:position>
+        <viz:color r="226" g="139" b="255"></viz:color>
+      </node>
+      <node id="goth" label="Goth">
+        <attvalues>
+          <attvalue for="type" value="Trance"></attvalue>
+          <attvalue for="scene" value="Industrial"></attvalue>
+          <attvalue for="decade" value="70s"></attvalue>
+        </attvalues>
+        <viz:size value="83.33333"></viz:size>
+        <viz:position x="988.57477" y="2838.37"></viz:position>
+        <viz:color r="226" g="139" b="255"></viz:color>
+      </node>
+      <node id="industrial" label="Industrial">
+        <attvalues>
+          <attvalue for="type" value="Trance"></attvalue>
+          <attvalue for="scene" value="Industrial"></attvalue>
+          <attvalue for="decade" value="70s"></attvalue>
+        </attvalues>
+        <viz:size value="116.666664"></viz:size>
+        <viz:position x="292.46112" y="1710.6882"></viz:position>
+        <viz:color r="226" g="139" b="255"></viz:color>
+      </node>
+      <node id="hardtrance" label="Hard Trance">
+        <attvalues>
+          <attvalue for="type" value="Trance"></attvalue>
+          <attvalue for="scene" value="Hard Dance"></attvalue>
+          <attvalue for="decade" value="90s"></attvalue>
+        </attvalues>
+        <viz:size value="83.33333"></viz:size>
+        <viz:position x="-2873.1912" y="382.65012"></viz:position>
+        <viz:color r="226" g="139" b="255"></viz:color>
+      </node>
+      <node id="hardacidtrance" label="Hard Acid Trance">
+        <attvalues>
+          <attvalue for="type" value="Trance"></attvalue>
+          <attvalue for="scene" value="Hard Dance"></attvalue>
+          <attvalue for="decade" value="90s"></attvalue>
+        </attvalues>
+        <viz:size value="116.666664"></viz:size>
+        <viz:position x="-2877.977" y="-66.51422"></viz:position>
+        <viz:color r="226" g="139" b="255"></viz:color>
+      </node>
+      <node id="nrg" label="NRG">
+        <attvalues>
+          <attvalue for="type" value="Trance"></attvalue>
+          <attvalue for="scene" value="Hard Dance"></attvalue>
+          <attvalue for="decade" value="90s"></attvalue>
+        </attvalues>
+        <viz:size value="83.33333"></viz:size>
+        <viz:position x="-3273.651" y="-405.07516"></viz:position>
+        <viz:color r="226" g="139" b="255"></viz:color>
+      </node>
+      <node id="hardstyle" label="Hardstyle">
+        <attvalues>
+          <attvalue for="type" value="Trance"></attvalue>
+          <attvalue for="scene" value="Hard Dance"></attvalue>
+          <attvalue for="decade" value="00s"></attvalue>
+        </attvalues>
+        <viz:size value="83.33333"></viz:size>
+        <viz:position x="-2960.1672" y="764.24457"></viz:position>
+        <viz:color r="226" g="139" b="255"></viz:color>
+      </node>
+      <node id="anthemtrance" label="Anthem Trance">
+        <attvalues>
+          <attvalue for="type" value="Trance"></attvalue>
+          <attvalue for="scene" value="Eurotrance"></attvalue>
+          <attvalue for="decade" value="90s"></attvalue>
+        </attvalues>
+        <viz:size value="133.33334"></viz:size>
+        <viz:position x="-2745.4907" y="-2468.4895"></viz:position>
+        <viz:color r="226" g="139" b="255"></viz:color>
+      </node>
+      <node id="dreamtrance" label="Dream Trance">
+        <attvalues>
+          <attvalue for="type" value="Trance"></attvalue>
+          <attvalue for="scene" value="Eurotrance"></attvalue>
+          <attvalue for="decade" value="90s"></attvalue>
+        </attvalues>
+        <viz:size value="83.33333"></viz:size>
+        <viz:position x="-3288.7363" y="-2355.156"></viz:position>
+        <viz:color r="226" g="139" b="255"></viz:color>
+      </node>
+      <node id="epictrance" label="Epic Trance">
+        <attvalues>
+          <attvalue for="type" value="Trance"></attvalue>
+          <attvalue for="scene" value="Eurotrance"></attvalue>
+          <attvalue for="decade" value="90s"></attvalue>
+        </attvalues>
+        <viz:size value="133.33334"></viz:size>
+        <viz:position x="-2103.6064" y="-2596.1304"></viz:position>
+        <viz:color r="226" g="139" b="255"></viz:color>
+      </node>
+      <node id="ibizatrance" label="Ibiza Trance">
+        <attvalues>
+          <attvalue for="type" value="Trance"></attvalue>
+          <attvalue for="scene" value="Eurotrance"></attvalue>
+          <attvalue for="decade" value="90s"></attvalue>
+        </attvalues>
+        <viz:size value="116.666664"></viz:size>
+        <viz:position x="-3067.0195" y="-2013.8114"></viz:position>
+        <viz:color r="226" g="139" b="255"></viz:color>
+      </node>
+      <node id="progressivetrance" label="Progressive House">
+        <attvalues>
+          <attvalue for="type" value="Trance"></attvalue>
+          <attvalue for="scene" value="Eurotrance"></attvalue>
+          <attvalue for="decade" value="90s"></attvalue>
+        </attvalues>
+        <viz:size value="100.0"></viz:size>
+        <viz:position x="-3125.1277" y="-1436.9318"></viz:position>
+        <viz:color r="226" g="139" b="255"></viz:color>
+      </node>
+      <node id="symphonictrance" label="Symphonic Trance">
+        <attvalues>
+          <attvalue for="type" value="Trance"></attvalue>
+          <attvalue for="scene" value="Eurotrance"></attvalue>
+          <attvalue for="decade" value="90s"></attvalue>
+        </attvalues>
+        <viz:size value="83.33333"></viz:size>
+        <viz:position x="-3300.9902" y="-1083.0297"></viz:position>
+        <viz:color r="226" g="139" b="255"></viz:color>
+      </node>
+      <node id="nottrance" label="Dutch Trance">
+        <attvalues>
+          <attvalue for="type" value="Trance"></attvalue>
+          <attvalue for="scene" value="Eurotrance"></attvalue>
+          <attvalue for="decade" value="00s"></attvalue>
+        </attvalues>
+        <viz:size value="66.666664"></viz:size>
+        <viz:position x="-2371.1511" y="-2950.6768"></viz:position>
+        <viz:color r="226" g="139" b="255"></viz:color>
+      </node>
+      <node id="bootytrance" label="Booty Trance???">
+        <attvalues>
+          <attvalue for="type" value="Trance"></attvalue>
+          <attvalue for="decade" value="90s"></attvalue>
+        </attvalues>
+        <viz:size value="66.666664"></viz:size>
+        <viz:position x="-4110.5625" y="-548.7196"></viz:position>
+        <viz:color r="226" g="139" b="255"></viz:color>
+      </node>
+      <node id="breaktrance" label="Breaktrance">
+        <attvalues>
+          <attvalue for="type" value="Trance"></attvalue>
+          <attvalue for="decade" value="90s"></attvalue>
+        </attvalues>
+        <viz:size value="66.666664"></viz:size>
+        <viz:position x="-3066.3442" y="-2715.3157"></viz:position>
+        <viz:color r="226" g="139" b="255"></viz:color>
+      </node>
+      <node id="darktrance" label="Dark Trance">
+        <attvalues>
+          <attvalue for="type" value="Trance"></attvalue>
+          <attvalue for="decade" value="90s"></attvalue>
+        </attvalues>
+        <viz:size value="66.666664"></viz:size>
+        <viz:position x="-2564.3013" y="107.6991"></viz:position>
+        <viz:color r="226" g="139" b="255"></viz:color>
+      </node>
+      <node id="deeptrance" label="Deep Trance">
+        <attvalues>
+          <attvalue for="type" value="Trance"></attvalue>
+          <attvalue for="decade" value="90s"></attvalue>
+        </attvalues>
+        <viz:size value="83.33333"></viz:size>
+        <viz:position x="-1897.7175" y="-3241.4321"></viz:position>
+        <viz:color r="226" g="139" b="255"></viz:color>
+      </node>
+      <node id="techtrance" label="Tech Trance">
+        <attvalues>
+          <attvalue for="type" value="Trance"></attvalue>
+          <attvalue for="decade" value="90s"></attvalue>
+        </attvalues>
+        <viz:size value="66.666664"></viz:size>
+        <viz:position x="-2761.0718" y="-3063.3025"></viz:position>
+        <viz:color r="226" g="139" b="255"></viz:color>
+      </node>
+      <node id="tribaltrance" label="Tribal Trance">
+        <attvalues>
+          <attvalue for="type" value="Trance"></attvalue>
+          <attvalue for="decade" value="90s"></attvalue>
+        </attvalues>
+        <viz:size value="66.666664"></viz:size>
+        <viz:position x="-3379.2393" y="-1709.0745"></viz:position>
+        <viz:color r="226" g="139" b="255"></viz:color>
+      </node>
+      <node id="acidtrance" label="Acid">
+        <attvalues>
+          <attvalue for="type" value="Trance"></attvalue>
+          <attvalue for="decade" value="80s"></attvalue>
+        </attvalues>
+        <viz:size value="133.33334"></viz:size>
+        <viz:position x="-1967.2518" y="-401.39056"></viz:position>
+        <viz:color r="226" g="139" b="255"></viz:color>
+      </node>
+      <node id="classictrance" label="Classic Trance">
+        <attvalues>
+          <attvalue for="type" value="Trance"></attvalue>
+          <attvalue for="decade" value="80s"></attvalue>
+        </attvalues>
+        <viz:size value="150.0"></viz:size>
+        <viz:position x="-2847.3572" y="-700.49506"></viz:position>
+        <viz:color r="226" g="139" b="255"></viz:color>
+      </node>
+      <node id="germantrance" label="German Trance">
+        <attvalues>
+          <attvalue for="type" value="Trance"></attvalue>
+          <attvalue for="decade" value="80s"></attvalue>
+        </attvalues>
+        <viz:size value="100.0"></viz:size>
+        <viz:position x="-2503.108" y="-288.51944"></viz:position>
+        <viz:color r="226" g="139" b="255"></viz:color>
+      </node>
+      <node id="hinrg" label="Hi NRG">
+        <attvalues>
+          <attvalue for="type" value="Trance"></attvalue>
+          <attvalue for="decade" value="80s"></attvalue>
+        </attvalues>
+        <viz:size value="83.33333"></viz:size>
+        <viz:position x="-1608.1544" y="-670.5246"></viz:position>
+        <viz:color r="226" g="139" b="255"></viz:color>
+      </node>
+      <node id="techno" label="Techno">
+        <attvalues>
+          <attvalue for="type" value="Techno"></attvalue>
+        </attvalues>
+        <viz:size value="300.0"></viz:size>
+        <viz:position x="2552.5535" y="-549.93616"></viz:position>
+        <viz:color r="128" g="107" b="104"></viz:color>
+      </node>
+      <node id="bangintechno" label="Bangin' Techno">
+        <attvalues>
+          <attvalue for="type" value="Techno"></attvalue>
+          <attvalue for="scene" value="Detroit"></attvalue>
+          <attvalue for="decade" value="90s"></attvalue>
+        </attvalues>
+        <viz:size value="100.0"></viz:size>
+        <viz:position x="907.33246" y="228.22926"></viz:position>
+        <viz:color r="128" g="107" b="104"></viz:color>
+      </node>
+      <node id="deeptechno" label="Deep Techno">
+        <attvalues>
+          <attvalue for="type" value="Techno"></attvalue>
+          <attvalue for="scene" value="Detroit"></attvalue>
+          <attvalue for="decade" value="90s"></attvalue>
+        </attvalues>
+        <viz:size value="66.666664"></viz:size>
+        <viz:position x="1776.2863" y="31.74712"></viz:position>
+        <viz:color r="128" g="107" b="104"></viz:color>
+      </node>
+      <node id="dubtechno" label="Dub Techno">
+        <attvalues>
+          <attvalue for="type" value="Techno"></attvalue>
+          <attvalue for="scene" value="Detroit"></attvalue>
+          <attvalue for="decade" value="90s"></attvalue>
+        </attvalues>
+        <viz:size value="66.666664"></viz:size>
+        <viz:position x="1941.6512" y="137.68478"></viz:position>
+        <viz:color r="128" g="107" b="104"></viz:color>
+      </node>
+      <node id="gloomcore" label="Gloomcore">
+        <attvalues>
+          <attvalue for="type" value="Techno"></attvalue>
+          <attvalue for="scene" value="Detroit"></attvalue>
+          <attvalue for="decade" value="90s"></attvalue>
+        </attvalues>
+        <viz:size value="66.666664"></viz:size>
+        <viz:position x="1660.996" y="-168.13629"></viz:position>
+        <viz:color r="128" g="107" b="104"></viz:color>
+      </node>
+      <node id="minimaltechno" label="Minimal Techno">
+        <attvalues>
+          <attvalue for="type" value="Techno"></attvalue>
+          <attvalue for="scene" value="Detroit"></attvalue>
+          <attvalue for="decade" value="90s"></attvalue>
+        </attvalues>
+        <viz:size value="166.66667"></viz:size>
+        <viz:position x="1403.2023" y="600.4518"></viz:position>
+        <viz:color r="128" g="107" b="104"></viz:color>
+      </node>
+      <node id="classictechno" label="Classic Techno">
+        <attvalues>
+          <attvalue for="type" value="Techno"></attvalue>
+          <attvalue for="scene" value="Detroit"></attvalue>
+          <attvalue for="decade" value="80s"></attvalue>
+        </attvalues>
+        <viz:size value="116.666664"></viz:size>
+        <viz:position x="1566.9994" y="-806.5891"></viz:position>
+        <viz:color r="128" g="107" b="104"></viz:color>
+      </node>
+      <node id="detroittechno" label="Detroit Techno">
+        <attvalues>
+          <attvalue for="type" value="Techno"></attvalue>
+          <attvalue for="scene" value="Detroit"></attvalue>
+          <attvalue for="decade" value="80s"></attvalue>
+        </attvalues>
+        <viz:size value="133.33334"></viz:size>
+        <viz:position x="364.8054" y="472.5071"></viz:position>
+        <viz:color r="128" g="107" b="104"></viz:color>
+      </node>
+      <node id="detroithouse" label="Detroit House">
+        <attvalues>
+          <attvalue for="type" value="Techno"></attvalue>
+          <attvalue for="scene" value="Detroit"></attvalue>
+          <attvalue for="decade" value="80s"></attvalue>
+        </attvalues>
+        <viz:size value="100.0"></viz:size>
+        <viz:position x="1103.6422" y="-1724.0441"></viz:position>
+        <viz:color r="128" g="107" b="104"></viz:color>
+      </node>
+      <node id="acidtechno" label="Acid Techno">
+        <attvalues>
+          <attvalue for="type" value="Techno"></attvalue>
+          <attvalue for="decade" value="90s"></attvalue>
+        </attvalues>
+        <viz:size value="100.0"></viz:size>
+        <viz:position x="-449.07584" y="3.6245227"></viz:position>
+        <viz:color r="128" g="107" b="104"></viz:color>
+      </node>
+      <node id="casiocore" label="Casiocore">
+        <attvalues>
+          <attvalue for="type" value="Techno"></attvalue>
+          <attvalue for="decade" value="90s"></attvalue>
+        </attvalues>
+        <viz:size value="66.666664"></viz:size>
+        <viz:position x="2270.1262" y="231.22238"></viz:position>
+        <viz:color r="128" g="107" b="104"></viz:color>
+      </node>
+      <node id="germantechno" label="German Techno">
+        <attvalues>
+          <attvalue for="type" value="Techno"></attvalue>
+          <attvalue for="decade" value="90s"></attvalue>
+        </attvalues>
+        <viz:size value="100.0"></viz:size>
+        <viz:position x="-509.2295" y="1540.8066"></viz:position>
+        <viz:color r="128" g="107" b="104"></viz:color>
+      </node>
+      <node id="hardtechno" label="Hard Techno">
+        <attvalues>
+          <attvalue for="type" value="Techno"></attvalue>
+          <attvalue for="decade" value="90s"></attvalue>
+        </attvalues>
+        <viz:size value="83.33333"></viz:size>
+        <viz:position x="-854.7721" y="1656.5231"></viz:position>
+        <viz:color r="128" g="107" b="104"></viz:color>
+      </node>
+      <node id="hardacidtechno" label="Hard Acid Techno">
+        <attvalues>
+          <attvalue for="type" value="Techno"></attvalue>
+          <attvalue for="decade" value="90s"></attvalue>
+        </attvalues>
+        <viz:size value="66.666664"></viz:size>
+        <viz:position x="-886.2243" y="-108.606636"></viz:position>
+        <viz:color r="128" g="107" b="104"></viz:color>
+      </node>
+      <node id="industrialtechno" label="Industrial Techno">
+        <attvalues>
+          <attvalue for="type" value="Techno"></attvalue>
+          <attvalue for="decade" value="90s"></attvalue>
+        </attvalues>
+        <viz:size value="66.666664"></viz:size>
+        <viz:position x="1085.022" y="-74.434265"></viz:position>
+        <viz:color r="128" g="107" b="104"></viz:color>
+      </node>
+      <node id="italiantechno" label="Italian Techno">
+        <attvalues>
+          <attvalue for="type" value="Techno"></attvalue>
+          <attvalue for="decade" value="90s"></attvalue>
+        </attvalues>
+        <viz:size value="83.33333"></viz:size>
+        <viz:position x="-1025.8557" y="2647.295"></viz:position>
+        <viz:color r="128" g="107" b="104"></viz:color>
+      </node>
+      <node id="jtek" label="Jtek">
+        <attvalues>
+          <attvalue for="type" value="Techno"></attvalue>
+          <attvalue for="decade" value="90s"></attvalue>
+        </attvalues>
+        <viz:size value="83.33333"></viz:size>
+        <viz:position x="-779.9777" y="1941.0294"></viz:position>
+        <viz:color r="128" g="107" b="104"></viz:color>
+      </node>
+      <node id="latintechno" label="Latin Techno">
+        <attvalues>
+          <attvalue for="type" value="Techno"></attvalue>
+          <attvalue for="decade" value="90s"></attvalue>
+        </attvalues>
+        <viz:size value="83.33333"></viz:size>
+        <viz:position x="-550.9983" y="2771.567"></viz:position>
+        <viz:color r="128" g="107" b="104"></viz:color>
+      </node>
+      <node id="swedishtechno" label="Swedish Techno">
+        <attvalues>
+          <attvalue for="type" value="Techno"></attvalue>
+          <attvalue for="decade" value="90s"></attvalue>
+        </attvalues>
+        <viz:size value="116.666664"></viz:size>
+        <viz:position x="-846.0456" y="2360.9316"></viz:position>
+        <viz:color r="128" g="107" b="104"></viz:color>
+      </node>
+      <node id="tribaltechno" label="Tribal Techno">
+        <attvalues>
+          <attvalue for="type" value="Techno"></attvalue>
+          <attvalue for="decade" value="90s"></attvalue>
+        </attvalues>
+        <viz:size value="66.666664"></viz:size>
+        <viz:position x="687.65814" y="695.3434"></viz:position>
+        <viz:color r="128" g="107" b="104"></viz:color>
+      </node>
+      <node id="eurotechno" label="Euro Techno">
+        <attvalues>
+          <attvalue for="type" value="Techno"></attvalue>
+          <attvalue for="decade" value="80s"></attvalue>
+        </attvalues>
+        <viz:size value="116.666664"></viz:size>
+        <viz:position x="-495.33392" y="996.1058"></viz:position>
+        <viz:color r="128" g="107" b="104"></viz:color>
+      </node>
+      <node id="vgm" label="Vgm">
+        <attvalues>
+          <attvalue for="type" value="Techno"></attvalue>
+          <attvalue for="decade" value="80s"></attvalue>
+        </attvalues>
+        <viz:size value="66.666664"></viz:size>
+        <viz:position x="2583.7156" y="338.30112"></viz:position>
+        <viz:color r="128" g="107" b="104"></viz:color>
+      </node>
+      <node id="experimentaltechno" label="Experimental Techno">
+        <attvalues>
+          <attvalue for="type" value="Techno"></attvalue>
+          <attvalue for="decade" value="00s"></attvalue>
+        </attvalues>
+        <viz:size value="66.666664"></viz:size>
+        <viz:position x="1862.2954" y="826.5234"></viz:position>
+        <viz:color r="128" g="107" b="104"></viz:color>
+      </node>
+      <node id="breakbeat" label="Breakbeat">
+        <attvalues>
+          <attvalue for="type" value="Breakbeat"></attvalue>
+        </attvalues>
+        <viz:size value="300.0"></viz:size>
+        <viz:position x="1766.0209" y="-2575.8638"></viz:position>
+        <viz:color r="0" g="199" b="255"></viz:color>
+      </node>
+      <node id="2stepgarage" label="2-Step Garage">
+        <attvalues>
+          <attvalue for="type" value="Breakbeat"></attvalue>
+          <attvalue for="scene" value="Urban"></attvalue>
+          <attvalue for="decade" value="90s"></attvalue>
+        </attvalues>
+        <viz:size value="83.33333"></viz:size>
+        <viz:position x="636.8548" y="-3119.3774"></viz:position>
+        <viz:color r="0" g="199" b="255"></viz:color>
+      </node>
+      <node id="nusoul" label="Nu Soul">
+        <attvalues>
+          <attvalue for="type" value="Breakbeat"></attvalue>
+          <attvalue for="scene" value="Urban"></attvalue>
+          <attvalue for="decade" value="90s"></attvalue>
+        </attvalues>
+        <viz:size value="100.0"></viz:size>
+        <viz:position x="1395.2743" y="-3605.8691"></viz:position>
+        <viz:color r="0" g="199" b="255"></viz:color>
+      </node>
+      <node id="newjackswing" label="New Jack Swing">
+        <attvalues>
+          <attvalue for="type" value="Breakbeat"></attvalue>
+          <attvalue for="scene" value="Urban"></attvalue>
+          <attvalue for="decade" value="80s"></attvalue>
+        </attvalues>
+        <viz:size value="66.666664"></viz:size>
+        <viz:position x="1690.3191" y="-3376.4097"></viz:position>
+        <viz:color r="0" g="199" b="255"></viz:color>
+      </node>
+      <node id="abstracthiphop" label="Abstract Hip Hop">
+        <attvalues>
+          <attvalue for="type" value="Breakbeat"></attvalue>
+          <attvalue for="scene" value="Hip Hop"></attvalue>
+          <attvalue for="decade" value="90s"></attvalue>
+        </attvalues>
+        <viz:size value="100.0"></viz:size>
+        <viz:position x="3577.2415" y="-785.5405"></viz:position>
+        <viz:color r="0" g="199" b="255"></viz:color>
+      </node>
+      <node id="gfunk" label="G-Funk">
+        <attvalues>
+          <attvalue for="type" value="Breakbeat"></attvalue>
+          <attvalue for="scene" value="Hip Hop"></attvalue>
+          <attvalue for="decade" value="90s"></attvalue>
+        </attvalues>
+        <viz:size value="83.33333"></viz:size>
+        <viz:position x="2506.495" y="-3206.4436"></viz:position>
+        <viz:color r="0" g="199" b="255"></viz:color>
+      </node>
+      <node id="gangstarap" label="Gangsta Rap">
+        <attvalues>
+          <attvalue for="type" value="Breakbeat"></attvalue>
+          <attvalue for="scene" value="Hip Hop"></attvalue>
+          <attvalue for="decade" value="90s"></attvalue>
+        </attvalues>
+        <viz:size value="100.0"></viz:size>
+        <viz:position x="2305.8635" y="-3520.121"></viz:position>
+        <viz:color r="0" g="199" b="255"></viz:color>
+      </node>
+      <node id="eastcoastrap" label="East Coast Rap">
+        <attvalues>
+          <attvalue for="type" value="Breakbeat"></attvalue>
+          <attvalue for="scene" value="Hip Hop"></attvalue>
+          <attvalue for="decade" value="80s"></attvalue>
+        </attvalues>
+        <viz:size value="83.33333"></viz:size>
+        <viz:position x="2535.2397" y="-2759.798"></viz:position>
+        <viz:color r="0" g="199" b="255"></viz:color>
+      </node>
+      <node id="hiphop" label="Hip Hop">
+        <attvalues>
+          <attvalue for="type" value="Breakbeat"></attvalue>
+          <attvalue for="scene" value="Hip Hop"></attvalue>
+          <attvalue for="decade" value="80s"></attvalue>
+        </attvalues>
+        <viz:size value="183.33333"></viz:size>
+        <viz:position x="2735.6897" y="-2176.7322"></viz:position>
+        <viz:color r="0" g="199" b="255"></viz:color>
+      </node>
+      <node id="progressivehop" label="Progressive Hop">
+        <attvalues>
+          <attvalue for="type" value="Breakbeat"></attvalue>
+          <attvalue for="scene" value="Hip Hop"></attvalue>
+          <attvalue for="decade" value="80s"></attvalue>
+        </attvalues>
+        <viz:size value="83.33333"></viz:size>
+        <viz:position x="3364.0115" y="-1161.3625"></viz:position>
+        <viz:color r="0" g="199" b="255"></viz:color>
+      </node>
+      <node id="turntablism" label="Turntablism">
+        <attvalues>
+          <attvalue for="type" value="Breakbeat"></attvalue>
+          <attvalue for="scene" value="Hip Hop"></attvalue>
+          <attvalue for="decade" value="80s"></attvalue>
+        </attvalues>
+        <viz:size value="100.0"></viz:size>
+        <viz:position x="3049.7317" y="-1402.1558"></viz:position>
+        <viz:color r="0" g="199" b="255"></viz:color>
+      </node>
+      <node id="westcoastrap" label="West Coast Rap">
+        <attvalues>
+          <attvalue for="type" value="Breakbeat"></attvalue>
+          <attvalue for="scene" value="Hip Hop"></attvalue>
+          <attvalue for="decade" value="80s"></attvalue>
+        </attvalues>
+        <viz:size value="83.33333"></viz:size>
+        <viz:position x="2760.6152" y="-3078.6187"></viz:position>
+        <viz:color r="0" g="199" b="255"></viz:color>
+      </node>
+      <node id="electro" label="Electro">
+        <attvalues>
+          <attvalue for="type" value="Breakbeat"></attvalue>
+          <attvalue for="scene" value="Hip Hop"></attvalue>
+          <attvalue for="decade" value="70s"></attvalue>
+        </attvalues>
+        <viz:size value="133.33334"></viz:size>
+        <viz:position x="1725.8252" y="-1442.9546"></viz:position>
+        <viz:color r="0" g="199" b="255"></viz:color>
+      </node>
+      <node id="crunk" label="Crunk">
+        <attvalues>
+          <attvalue for="type" value="Breakbeat"></attvalue>
+          <attvalue for="scene" value="Booty Bass"></attvalue>
+          <attvalue for="decade" value="90s"></attvalue>
+        </attvalues>
+        <viz:size value="66.666664"></viz:size>
+        <viz:position x="3603.3254" y="-2008.5344"></viz:position>
+        <viz:color r="0" g="199" b="255"></viz:color>
+      </node>
+      <node id="ghettotech" label="Ghetto Tech">
+        <attvalues>
+          <attvalue for="type" value="Breakbeat"></attvalue>
+          <attvalue for="scene" value="Booty Bass"></attvalue>
+          <attvalue for="decade" value="90s"></attvalue>
+        </attvalues>
+        <viz:size value="66.666664"></viz:size>
+        <viz:position x="2851.7346" y="-1655.6769"></viz:position>
+        <viz:color r="0" g="199" b="255"></viz:color>
+      </node>
+      <node id="dirtysouthrap" label="Dirty South Rap">
+        <attvalues>
+          <attvalue for="type" value="Breakbeat"></attvalue>
+          <attvalue for="scene" value="Booty Bass"></attvalue>
+          <attvalue for="decade" value="80s"></attvalue>
+        </attvalues>
+        <viz:size value="116.666664"></viz:size>
+        <viz:position x="3318.8413" y="-1783.211"></viz:position>
+        <viz:color r="0" g="199" b="255"></viz:color>
+      </node>
+      <node id="miamibass" label="Miami Bass">
+        <attvalues>
+          <attvalue for="type" value="Breakbeat"></attvalue>
+          <attvalue for="scene" value="Booty Bass"></attvalue>
+          <attvalue for="decade" value="80s"></attvalue>
+        </attvalues>
+        <viz:size value="116.666664"></viz:size>
+        <viz:position x="3374.995" y="-2302.6113"></viz:position>
+        <viz:color r="0" g="199" b="255"></viz:color>
+      </node>
+      <node id="acidbreaks" label="Acid Breaks">
+        <attvalues>
+          <attvalue for="type" value="Breakbeat"></attvalue>
+          <attvalue for="decade" value="90s"></attvalue>
+        </attvalues>
+        <viz:size value="83.33333"></viz:size>
+        <viz:position x="3369.97" y="-3322.61"></viz:position>
+        <viz:color r="0" g="199" b="255"></viz:color>
+      </node>
+      <node id="bigbeat" label="Big Beat">
+        <attvalues>
+          <attvalue for="type" value="Breakbeat"></attvalue>
+          <attvalue for="decade" value="90s"></attvalue>
+        </attvalues>
+        <viz:size value="100.0"></viz:size>
+        <viz:position x="3744.1648" y="-3142.5432"></viz:position>
+        <viz:color r="0" g="199" b="255"></viz:color>
+      </node>
+      <node id="chemicalbreaks" label="Chemical Breaks">
+        <attvalues>
+          <attvalue for="type" value="Breakbeat"></attvalue>
+          <attvalue for="decade" value="90s"></attvalue>
+        </attvalues>
+        <viz:size value="83.33333"></viz:size>
+        <viz:position x="3652.486" y="-3550.546"></viz:position>
+        <viz:color r="0" g="199" b="255"></viz:color>
+      </node>
+      <node id="darkbreaks" label="Dark Breaks">
+        <attvalues>
+          <attvalue for="type" value="Breakbeat"></attvalue>
+          <attvalue for="decade" value="90s"></attvalue>
+        </attvalues>
+        <viz:size value="66.666664"></viz:size>
+        <viz:position x="4761.836" y="-3076.1035"></viz:position>
+        <viz:color r="0" g="199" b="255"></viz:color>
+      </node>
+      <node id="floridabreaks" label="Florida Breaks">
+        <attvalues>
+          <attvalue for="type" value="Breakbeat"></attvalue>
+          <attvalue for="decade" value="90s"></attvalue>
+        </attvalues>
+        <viz:size value="83.33333"></viz:size>
+        <viz:position x="3925.304" y="-2634.232"></viz:position>
+        <viz:color r="0" g="199" b="255"></viz:color>
+      </node>
+      <node id="funkybreaks" label="Funky Breaks">
+        <attvalues>
+          <attvalue for="type" value="Breakbeat"></attvalue>
+          <attvalue for="decade" value="90s"></attvalue>
+        </attvalues>
+        <viz:size value="116.666664"></viz:size>
+        <viz:position x="3241.0596" y="-2940.5151"></viz:position>
+        <viz:color r="0" g="199" b="255"></viz:color>
+      </node>
+      <node id="nuelectro" label="Nu Electro">
+        <attvalues>
+          <attvalue for="type" value="Breakbeat"></attvalue>
+          <attvalue for="decade" value="90s"></attvalue>
+        </attvalues>
+        <viz:size value="66.666664"></viz:size>
+        <viz:position x="2128.271" y="-1328.1301"></viz:position>
+        <viz:color r="0" g="199" b="255"></viz:color>
+      </node>
+      <node id="nuskoolbreaks" label="Nu Skool Breaks">
+        <attvalues>
+          <attvalue for="type" value="Breakbeat"></attvalue>
+          <attvalue for="decade" value="90s"></attvalue>
+        </attvalues>
+        <viz:size value="100.0"></viz:size>
+        <viz:position x="4699.134" y="-2747.9004"></viz:position>
+        <viz:color r="0" g="199" b="255"></viz:color>
+      </node>
+      <node id="progressivebreaks" label="Progressive Breaks">
+        <attvalues>
+          <attvalue for="type" value="Breakbeat"></attvalue>
+          <attvalue for="decade" value="90s"></attvalue>
+        </attvalues>
+        <viz:size value="66.666664"></viz:size>
+        <viz:position x="4919.354" y="-2900.1597"></viz:position>
+        <viz:color r="0" g="199" b="255"></viz:color>
+      </node>
+      <node id="riofunk" label="Rio Funk">
+        <attvalues>
+          <attvalue for="type" value="Breakbeat"></attvalue>
+          <attvalue for="decade" value="90s"></attvalue>
+        </attvalues>
+        <viz:size value="66.666664"></viz:size>
+        <viz:position x="3995.454" y="-2417.1328"></viz:position>
+        <viz:color r="0" g="199" b="255"></viz:color>
+      </node>
+      <node id="tribalbreaks" label="Tribal Breaks">
+        <attvalues>
+          <attvalue for="type" value="Breakbeat"></attvalue>
+          <attvalue for="decade" value="90s"></attvalue>
+        </attvalues>
+        <viz:size value="66.666664"></viz:size>
+        <viz:position x="3678.9644" y="-2815.1084"></viz:position>
+        <viz:color r="0" g="199" b="255"></viz:color>
+      </node>
+      <node id="freestyle" label="Freestyle">
+        <attvalues>
+          <attvalue for="type" value="Breakbeat"></attvalue>
+          <attvalue for="decade" value="80s"></attvalue>
+        </attvalues>
+        <viz:size value="83.33333"></viz:size>
+        <viz:position x="435.76666" y="-1596.4866"></viz:position>
+        <viz:color r="0" g="199" b="255"></viz:color>
+      </node>
+      <node id="electrofunk" label="Electro Funk">
+        <attvalues>
+          <attvalue for="type" value="Breakbeat"></attvalue>
+          <attvalue for="decade" value="70s"></attvalue>
+        </attvalues>
+        <viz:size value="66.666664"></viz:size>
+        <viz:position x="2349.3906" y="-1868.7323"></viz:position>
+        <viz:color r="0" g="199" b="255"></viz:color>
+      </node>
+      <node id="anthembreaks" label="Anthem Breaks">
+        <attvalues>
+          <attvalue for="type" value="Breakbeat"></attvalue>
+          <attvalue for="decade" value="00s"></attvalue>
+        </attvalues>
+        <viz:size value="66.666664"></viz:size>
+        <viz:position x="3971.4377" y="-3437.6404"></viz:position>
+        <viz:color r="0" g="199" b="255"></viz:color>
+      </node>
+      <node id="jungle" label="Jungle">
+        <attvalues>
+          <attvalue for="type" value="Jungle"></attvalue>
+        </attvalues>
+        <viz:size value="300.0"></viz:size>
+        <viz:position x="-196.74988" y="3773.1978"></viz:position>
+        <viz:color r="255" g="93" b="133"></viz:color>
+      </node>
+      <node id="experimentaljungle" label="Experimental Jungle">
+        <attvalues>
+          <attvalue for="type" value="Jungle"></attvalue>
+          <attvalue for="scene" value="Braindance"></attvalue>
+          <attvalue for="decade" value="90s"></attvalue>
+        </attvalues>
+        <viz:size value="83.33333"></viz:size>
+        <viz:position x="648.1585" y="2149.7078"></viz:position>
+        <viz:color r="255" g="93" b="133"></viz:color>
+      </node>
+      <node id="glitch" label="Glitch">
+        <attvalues>
+          <attvalue for="type" value="Jungle"></attvalue>
+          <attvalue for="scene" value="Braindance"></attvalue>
+          <attvalue for="decade" value="90s"></attvalue>
+        </attvalues>
+        <viz:size value="83.33333"></viz:size>
+        <viz:position x="1337.6869" y="1880.9938"></viz:position>
+        <viz:color r="255" g="93" b="133"></viz:color>
+      </node>
+      <node id="idm" label="IDM">
+        <attvalues>
+          <attvalue for="type" value="Jungle"></attvalue>
+          <attvalue for="scene" value="Braindance"></attvalue>
+          <attvalue for="decade" value="90s"></attvalue>
+        </attvalues>
+        <viz:size value="100.0"></viz:size>
+        <viz:position x="1250.5157" y="1563.4929"></viz:position>
+        <viz:color r="255" g="93" b="133"></viz:color>
+      </node>
+      <node id="industrialdnb" label="Industrial Dnb">
+        <attvalues>
+          <attvalue for="type" value="Jungle"></attvalue>
+          <attvalue for="scene" value="Braindance"></attvalue>
+          <attvalue for="decade" value="90s"></attvalue>
+        </attvalues>
+        <viz:size value="100.0"></viz:size>
+        <viz:position x="231.80956" y="2658.0981"></viz:position>
+        <viz:color r="255" g="93" b="133"></viz:color>
+      </node>
+      <node id="atmosphericjungle" label="Atmospheric Jungle">
+        <attvalues>
+          <attvalue for="type" value="Jungle"></attvalue>
+          <attvalue for="decade" value="90s"></attvalue>
+        </attvalues>
+        <viz:size value="66.666664"></viz:size>
+        <viz:position x="-534.8538" y="4314.8994"></viz:position>
+        <viz:color r="255" g="93" b="133"></viz:color>
+      </node>
+      <node id="darkcore" label="Darkcore">
+        <attvalues>
+          <attvalue for="type" value="Jungle"></attvalue>
+          <attvalue for="decade" value="90s"></attvalue>
+        </attvalues>
+        <viz:size value="100.0"></viz:size>
+        <viz:position x="-1093.9559" y="3004.877"></viz:position>
+        <viz:color r="255" g="93" b="133"></viz:color>
+      </node>
+      <node id="darkstep" label="Darkstep">
+        <attvalues>
+          <attvalue for="type" value="Jungle"></attvalue>
+          <attvalue for="decade" value="90s"></attvalue>
+        </attvalues>
+        <viz:size value="83.33333"></viz:size>
+        <viz:position x="-743.3161" y="3112.231"></viz:position>
+        <viz:color r="255" g="93" b="133"></viz:color>
+      </node>
+      <node id="drumnbass" label="Drum N Bass">
+        <attvalues>
+          <attvalue for="type" value="Jungle"></attvalue>
+          <attvalue for="decade" value="90s"></attvalue>
+        </attvalues>
+        <viz:size value="100.0"></viz:size>
+        <viz:position x="-1495.5975" y="3789.157"></viz:position>
+        <viz:color r="255" g="93" b="133"></viz:color>
+      </node>
+      <node id="hardstep" label="Hardstep">
+        <attvalues>
+          <attvalue for="type" value="Jungle"></attvalue>
+          <attvalue for="decade" value="90s"></attvalue>
+        </attvalues>
+        <viz:size value="83.33333"></viz:size>
+        <viz:position x="-653.3869" y="3406.79"></viz:position>
+        <viz:color r="255" g="93" b="133"></viz:color>
+      </node>
+      <node id="jazzstep" label="Jazzstep">
+        <attvalues>
+          <attvalue for="type" value="Jungle"></attvalue>
+          <attvalue for="decade" value="90s"></attvalue>
+        </attvalues>
+        <viz:size value="100.0"></viz:size>
+        <viz:position x="-671.12445" y="3995.9153"></viz:position>
+        <viz:color r="255" g="93" b="133"></viz:color>
+      </node>
+      <node id="jumpup" label="Jump Up">
+        <attvalues>
+          <attvalue for="type" value="Jungle"></attvalue>
+          <attvalue for="decade" value="90s"></attvalue>
+        </attvalues>
+        <viz:size value="66.666664"></viz:size>
+        <viz:position x="-2079.9272" y="3726.2937"></viz:position>
+        <viz:color r="255" g="93" b="133"></viz:color>
+      </node>
+      <node id="neurofunk" label="Neurofunk">
+        <attvalues>
+          <attvalue for="type" value="Jungle"></attvalue>
+          <attvalue for="decade" value="90s"></attvalue>
+        </attvalues>
+        <viz:size value="83.33333"></viz:size>
+        <viz:position x="-1116.7181" y="4010.5447"></viz:position>
+        <viz:color r="255" g="93" b="133"></viz:color>
+      </node>
+      <node id="oldskoolravehardcore" label="Oldskool Rave Hardcore">
+        <attvalues>
+          <attvalue for="type" value="Jungle"></attvalue>
+          <attvalue for="decade" value="90s"></attvalue>
+        </attvalues>
+        <viz:size value="133.33334"></viz:size>
+        <viz:position x="-1543.5138" y="2897.43"></viz:position>
+        <viz:color r="255" g="93" b="133"></viz:color>
+      </node>
+      <node id="techstep" label="Techstep">
+        <attvalues>
+          <attvalue for="type" value="Jungle"></attvalue>
+          <attvalue for="decade" value="90s"></attvalue>
+        </attvalues>
+        <viz:size value="100.0"></viz:size>
+        <viz:position x="-205.0558" y="2976.417"></viz:position>
+        <viz:color r="255" g="93" b="133"></viz:color>
+      </node>
+      <node id="subjungle" label="Jungle">
+        <attvalues>
+          <attvalue for="type" value="Jungle"></attvalue>
+          <attvalue for="decade" value="80s"></attvalue>
+        </attvalues>
+        <viz:size value="116.666664"></viz:size>
+        <viz:position x="-1741.8922" y="3400.994"></viz:position>
+        <viz:color r="255" g="93" b="133"></viz:color>
+      </node>
+      <node id="raggajungle" label="Ragga Jungle">
+        <attvalues>
+          <attvalue for="type" value="Jungle"></attvalue>
+          <attvalue for="decade" value="80s"></attvalue>
+        </attvalues>
+        <viz:size value="100.0"></viz:size>
+        <viz:position x="-945.05774" y="3527.2964"></viz:position>
+        <viz:color r="255" g="93" b="133"></viz:color>
+      </node>
+      <node id="liquidfunk" label="Liquid Funk">
+        <attvalues>
+          <attvalue for="type" value="Jungle"></attvalue>
+          <attvalue for="decade" value="00s"></attvalue>
+        </attvalues>
+        <viz:size value="66.666664"></viz:size>
+        <viz:position x="-1440.1569" y="4452.581"></viz:position>
+        <viz:color r="255" g="93" b="133"></viz:color>
+      </node>
+      <node id="trancestep" label="Trancestep">
+        <attvalues>
+          <attvalue for="type" value="Jungle"></attvalue>
+          <attvalue for="decade" value="00s"></attvalue>
+        </attvalues>
+        <viz:size value="66.666664"></viz:size>
+        <viz:position x="-1483.6255" y="4113.93"></viz:position>
+        <viz:color r="255" g="93" b="133"></viz:color>
+      </node>
+      <node id="hardcore" label="Hardcore">
+        <attvalues>
+          <attvalue for="type" value="Hardcore"></attvalue>
+        </attvalues>
+        <viz:size value="300.0"></viz:size>
+        <viz:position x="-2568.7937" y="2177.6316"></viz:position>
+        <viz:color r="0" g="175" b="135"></viz:color>
+      </node>
+      <node id="happyhardcore" label="Happy Hardcore">
+        <attvalues>
+          <attvalue for="type" value="Hardcore"></attvalue>
+          <attvalue for="scene" value="Hard Dance"></attvalue>
+          <attvalue for="decade" value="90s"></attvalue>
+        </attvalues>
+        <viz:size value="116.666664"></viz:size>
+        <viz:position x="-2089.718" y="3002.2363"></viz:position>
+        <viz:color r="0" g="175" b="135"></viz:color>
+      </node>
+      <node id="happygabber" label="Happy Gabber">
+        <attvalues>
+          <attvalue for="type" value="Hardcore"></attvalue>
+          <attvalue for="scene" value="Hard Dance"></attvalue>
+          <attvalue for="decade" value="90s"></attvalue>
+        </attvalues>
+        <viz:size value="83.33333"></viz:size>
+        <viz:position x="-1856.6382" y="2595.6443"></viz:position>
+        <viz:color r="0" g="175" b="135"></viz:color>
+      </node>
+      <node id="nustylegabber" label="Nu Style Gabber">
+        <attvalues>
+          <attvalue for="type" value="Hardcore"></attvalue>
+          <attvalue for="scene" value="Hard Dance"></attvalue>
+          <attvalue for="decade" value="90s"></attvalue>
+        </attvalues>
+        <viz:size value="83.33333"></viz:size>
+        <viz:position x="-2759.6072" y="1186.0271"></viz:position>
+        <viz:color r="0" g="175" b="135"></viz:color>
+      </node>
+      <node id="trancecore" label="Trancecore">
+        <attvalues>
+          <attvalue for="type" value="Hardcore"></attvalue>
+          <attvalue for="scene" value="Hard Dance"></attvalue>
+          <attvalue for="decade" value="90s"></attvalue>
+        </attvalues>
+        <viz:size value="83.33333"></viz:size>
+        <viz:position x="-2748.69" y="3293.2788"></viz:position>
+        <viz:color r="0" g="175" b="135"></viz:color>
+      </node>
+      <node id="freeform" label="Freeform">
+        <attvalues>
+          <attvalue for="type" value="Hardcore"></attvalue>
+          <attvalue for="scene" value="Hard Dance"></attvalue>
+          <attvalue for="decade" value="00s"></attvalue>
+        </attvalues>
+        <viz:size value="83.33333"></viz:size>
+        <viz:position x="-2455.669" y="3197.3142"></viz:position>
+        <viz:color r="0" g="175" b="135"></viz:color>
+      </node>
+      <node id="digitalhardcore" label="Digital Hardcore">
+        <attvalues>
+          <attvalue for="type" value="Hardcore"></attvalue>
+          <attvalue for="decade" value="90s"></attvalue>
+        </attvalues>
+        <viz:size value="83.33333"></viz:size>
+        <viz:position x="-3382.9512" y="1803.1765"></viz:position>
+        <viz:color r="0" g="175" b="135"></viz:color>
+      </node>
+      <node id="gabber" label="Gabber">
+        <attvalues>
+          <attvalue for="type" value="Hardcore"></attvalue>
+          <attvalue for="decade" value="90s"></attvalue>
+        </attvalues>
+        <viz:size value="100.0"></viz:size>
+        <viz:position x="-1541.2261" y="2391.175"></viz:position>
+        <viz:color r="0" g="175" b="135"></viz:color>
+      </node>
+      <node id="gabberhouse" label="Gabber House">
+        <attvalues>
+          <attvalue for="type" value="Hardcore"></attvalue>
+          <attvalue for="decade" value="90s"></attvalue>
+        </attvalues>
+        <viz:size value="66.666664"></viz:size>
+        <viz:position x="-2926.702" y="1371.9146"></viz:position>
+        <viz:color r="0" g="175" b="135"></viz:color>
+      </node>
+      <node id="metalcore" label="Metalcore">
+        <attvalues>
+          <attvalue for="type" value="Hardcore"></attvalue>
+          <attvalue for="decade" value="90s"></attvalue>
+        </attvalues>
+        <viz:size value="83.33333"></viz:size>
+        <viz:position x="-3415.9905" y="2344.2888"></viz:position>
+        <viz:color r="0" g="175" b="135"></viz:color>
+      </node>
+      <node id="noizecore" label="Noizecore">
+        <attvalues>
+          <attvalue for="type" value="Hardcore"></attvalue>
+          <attvalue for="decade" value="90s"></attvalue>
+        </attvalues>
+        <viz:size value="116.666664"></viz:size>
+        <viz:position x="-1659.0206" y="1743.6016"></viz:position>
+        <viz:color r="0" g="175" b="135"></viz:color>
+      </node>
+      <node id="powerelectronics" label="Power Electronics">
+        <attvalues>
+          <attvalue for="type" value="Hardcore"></attvalue>
+          <attvalue for="decade" value="90s"></attvalue>
+        </attvalues>
+        <viz:size value="83.33333"></viz:size>
+        <viz:position x="-1868.9073" y="1390.1196"></viz:position>
+        <viz:color r="0" g="175" b="135"></viz:color>
+      </node>
+      <node id="rave" label="Rave">
+        <attvalues>
+          <attvalue for="type" value="Hardcore"></attvalue>
+          <attvalue for="decade" value="90s"></attvalue>
+        </attvalues>
+        <viz:size value="150.0"></viz:size>
+        <viz:position x="-1182.6178" y="2018.4569"></viz:position>
+        <viz:color r="0" g="175" b="135"></viz:color>
+      </node>
+      <node id="rotterdam" label="Rotterdam">
+        <attvalues>
+          <attvalue for="type" value="Hardcore"></attvalue>
+          <attvalue for="decade" value="90s"></attvalue>
+        </attvalues>
+        <viz:size value="116.666664"></viz:size>
+        <viz:position x="-2250.0303" y="1294.8074"></viz:position>
+        <viz:color r="0" g="175" b="135"></viz:color>
+      </node>
+      <node id="speedbass" label="Speedbass">
+        <attvalues>
+          <attvalue for="type" value="Hardcore"></attvalue>
+          <attvalue for="decade" value="90s"></attvalue>
+        </attvalues>
+        <viz:size value="50.0"></viz:size>
+        <viz:position x="-3456.1982" y="3428.9868"></viz:position>
+        <viz:color r="0" g="175" b="135"></viz:color>
+      </node>
+      <node id="speedcore" label="Speedcore">
+        <attvalues>
+          <attvalue for="type" value="Hardcore"></attvalue>
+          <attvalue for="decade" value="90s"></attvalue>
+        </attvalues>
+        <viz:size value="66.666664"></viz:size>
+        <viz:position x="-3204.7551" y="2765.295"></viz:position>
+        <viz:color r="0" g="175" b="135"></viz:color>
+      </node>
+      <node id="terrorcore" label="Terrorcore">
+        <attvalues>
+          <attvalue for="type" value="Hardcore"></attvalue>
+          <attvalue for="decade" value="90s"></attvalue>
+        </attvalues>
+        <viz:size value="116.666664"></viz:size>
+        <viz:position x="-3005.632" y="2992.7114"></viz:position>
+        <viz:color r="0" g="175" b="135"></viz:color>
+      </node>
+      <node id="newbeat" label="New Beat">
+        <attvalues>
+          <attvalue for="type" value="Hardcore"></attvalue>
+          <attvalue for="decade" value="80s"></attvalue>
+        </attvalues>
+        <viz:size value="116.666664"></viz:size>
+        <viz:position x="-3285.4402" y="1466.9718"></viz:position>
+        <viz:color r="0" g="175" b="135"></viz:color>
+      </node>
+      <node id="downtempo" label="Downtempo">
+        <attvalues>
+          <attvalue for="type" value="Downtempo"></attvalue>
+        </attvalues>
+        <viz:size value="300.0"></viz:size>
+        <viz:position x="2638.27" y="1279.6261"></viz:position>
+        <viz:color r="250" g="146" b="0"></viz:color>
+      </node>
+      <node id="ambient" label="Ambient">
+        <attvalues>
+          <attvalue for="type" value="Downtempo"></attvalue>
+          <attvalue for="scene" value="Electronic Pioneers"></attvalue>
+          <attvalue for="decade" value="70s"></attvalue>
+        </attvalues>
+        <viz:size value="116.666664"></viz:size>
+        <viz:position x="1646.9185" y="1523.5303"></viz:position>
+        <viz:color r="250" g="146" b="0"></viz:color>
+      </node>
+      <node id="electronicclassical" label="Electronic Classical">
+        <attvalues>
+          <attvalue for="type" value="Downtempo"></attvalue>
+          <attvalue for="scene" value="Electronic Pioneers"></attvalue>
+          <attvalue for="decade" value="60s-70s"></attvalue>
+        </attvalues>
+        <viz:size value="116.666664"></viz:size>
+        <viz:position x="381.12436" y="1111.9192"></viz:position>
+        <viz:color r="250" g="146" b="0"></viz:color>
+      </node>
+      <node id="frenchpop" label="French Pop">
+        <attvalues>
+          <attvalue for="type" value="Downtempo"></attvalue>
+          <attvalue for="scene" value="Electronic Pioneers"></attvalue>
+          <attvalue for="decade" value="60s-70s"></attvalue>
+        </attvalues>
+        <viz:size value="83.33333"></viz:size>
+        <viz:position x="-477.62622" y="615.39404"></viz:position>
+        <viz:color r="250" g="146" b="0"></viz:color>
+      </node>
+      <node id="minimalism" label="Minimalism">
+        <attvalues>
+          <attvalue for="type" value="Downtempo"></attvalue>
+          <attvalue for="scene" value="Electronic Pioneers"></attvalue>
+          <attvalue for="decade" value="60s-70s"></attvalue>
+        </attvalues>
+        <viz:size value="100.0"></viz:size>
+        <viz:position x="846.2588" y="1333.8481"></viz:position>
+        <viz:color r="250" g="146" b="0"></viz:color>
+      </node>
+      <node id="electronicpsychedelia" label="Electronic Psychedelia">
+        <attvalues>
+          <attvalue for="type" value="Downtempo"></attvalue>
+          <attvalue for="scene" value="Electronic Pioneers"></attvalue>
+          <attvalue for="decade" value="60s-70s"></attvalue>
+        </attvalues>
+        <viz:size value="83.33333"></viz:size>
+        <viz:position x="1013.9029" y="957.00574"></viz:position>
+        <viz:color r="250" g="146" b="0"></viz:color>
+      </node>
+      <node id="earlysynth" label="Early Synth">
+        <attvalues>
+          <attvalue for="type" value="Downtempo"></attvalue>
+          <attvalue for="scene" value="Electronic Pioneers"></attvalue>
+          <attvalue for="decade" value="60s-70s"></attvalue>
+        </attvalues>
+        <viz:size value="100.0"></viz:size>
+        <viz:position x="-59.670067" y="794.255"></viz:position>
+        <viz:color r="250" g="146" b="0"></viz:color>
+      </node>
+      <node id="musiqueconcrete" label="Musique Concrete">
+        <attvalues>
+          <attvalue for="type" value="Downtempo"></attvalue>
+          <attvalue for="scene" value="Electronic Pioneers"></attvalue>
+          <attvalue for="decade" value="50s"></attvalue>
+        </attvalues>
+        <viz:size value="116.666664"></viz:size>
+        <viz:position x="2106.5664" y="2045.5923"></viz:position>
+        <viz:color r="250" g="146" b="0"></viz:color>
+      </node>
+      <node id="acidjazz" label="Acid Jazz">
+        <attvalues>
+          <attvalue for="type" value="Downtempo"></attvalue>
+          <attvalue for="scene" value="Chillout"></attvalue>
+          <attvalue for="decade" value="90s"></attvalue>
+        </attvalues>
+        <viz:size value="116.666664"></viz:size>
+        <viz:position x="3315.37" y="307.6251"></viz:position>
+        <viz:color r="250" g="146" b="0"></viz:color>
+      </node>
+      <node id="ambientbreaks" label="Ambient Breaks">
+        <attvalues>
+          <attvalue for="type" value="Downtempo"></attvalue>
+          <attvalue for="scene" value="Chillout"></attvalue>
+          <attvalue for="decade" value="90s"></attvalue>
+        </attvalues>
+        <viz:size value="116.666664"></viz:size>
+        <viz:position x="2902.4006" y="443.3457"></viz:position>
+        <viz:color r="250" g="146" b="0"></viz:color>
+      </node>
+      <node id="downbeat" label="Downbeat">
+        <attvalues>
+          <attvalue for="type" value="Downtempo"></attvalue>
+          <attvalue for="scene" value="Chillout"></attvalue>
+          <attvalue for="decade" value="90s"></attvalue>
+        </attvalues>
+        <viz:size value="83.33333"></viz:size>
+        <viz:position x="3649.8428" y="531.3851"></viz:position>
+        <viz:color r="250" g="146" b="0"></viz:color>
+      </node>
+      <node id="illbient" label="Illbient">
+        <attvalues>
+          <attvalue for="type" value="Downtempo"></attvalue>
+          <attvalue for="scene" value="Chillout"></attvalue>
+          <attvalue for="decade" value="90s"></attvalue>
+        </attvalues>
+        <viz:size value="116.666664"></viz:size>
+        <viz:position x="3569.9841" y="-194.87946"></viz:position>
+        <viz:color r="250" g="146" b="0"></viz:color>
+      </node>
+      <node id="triphop" label="Trip Hop">
+        <attvalues>
+          <attvalue for="type" value="Downtempo"></attvalue>
+          <attvalue for="scene" value="Chillout"></attvalue>
+          <attvalue for="decade" value="90s"></attvalue>
+        </attvalues>
+        <viz:size value="83.33333"></viz:size>
+        <viz:position x="3346.0125" y="724.65076"></viz:position>
+        <viz:color r="250" g="146" b="0"></viz:color>
+      </node>
+      <node id="nujazz" label="Nu Jazz">
+        <attvalues>
+          <attvalue for="type" value="Downtempo"></attvalue>
+          <attvalue for="scene" value="Chillout"></attvalue>
+          <attvalue for="decade" value="00s"></attvalue>
+        </attvalues>
+        <viz:size value="83.33333"></viz:size>
+        <viz:position x="3805.853" y="166.30406"></viz:position>
+        <viz:color r="250" g="146" b="0"></viz:color>
+      </node>
+      <node id="ambientpsy" label="Ambient Psy">
+        <attvalues>
+          <attvalue for="type" value="Downtempo"></attvalue>
+          <attvalue for="decade" value="90s"></attvalue>
+        </attvalues>
+        <viz:size value="66.666664"></viz:size>
+        <viz:position x="3435.1658" y="1667.464"></viz:position>
+        <viz:color r="250" g="146" b="0"></viz:color>
+      </node>
+      <node id="ambienttechno" label="Ambient Techno">
+        <attvalues>
+          <attvalue for="type" value="Downtempo"></attvalue>
+          <attvalue for="decade" value="90s"></attvalue>
+        </attvalues>
+        <viz:size value="100.0"></viz:size>
+        <viz:position x="1526.5682" y="1132.8247"></viz:position>
+        <viz:color r="250" g="146" b="0"></viz:color>
+      </node>
+      <node id="ambienttrance" label="Ambient Trance">
+        <attvalues>
+          <attvalue for="type" value="Downtempo"></attvalue>
+          <attvalue for="decade" value="90s"></attvalue>
+        </attvalues>
+        <viz:size value="83.33333"></viz:size>
+        <viz:position x="3427.2576" y="1384.2222"></viz:position>
+        <viz:color r="250" g="146" b="0"></viz:color>
+      </node>
+      <node id="darkambient" label="Dark Ambient">
+        <attvalues>
+          <attvalue for="type" value="Downtempo"></attvalue>
+          <attvalue for="decade" value="90s"></attvalue>
+        </attvalues>
+        <viz:size value="66.666664"></viz:size>
+        <viz:position x="1596.6224" y="2952.3513"></viz:position>
+        <viz:color r="250" g="146" b="0"></viz:color>
+      </node>
+      <node id="electronica" label="Electronica">
+        <attvalues>
+          <attvalue for="type" value="Downtempo"></attvalue>
+          <attvalue for="decade" value="90s"></attvalue>
+        </attvalues>
+        <viz:size value="50.0"></viz:size>
+        <viz:position x="3877.6956" y="1219.4174"></viz:position>
+        <viz:color r="250" g="146" b="0"></viz:color>
+      </node>
+      <node id="soundcollage" label="Sound Collage">
+        <attvalues>
+          <attvalue for="type" value="Downtempo"></attvalue>
+          <attvalue for="decade" value="90s"></attvalue>
+        </attvalues>
+        <viz:size value="83.33333"></viz:size>
+        <viz:position x="943.8209" y="2000.062"></viz:position>
+        <viz:color r="250" g="146" b="0"></viz:color>
+      </node>
+      <node id="worldbeat" label="Worldbeat">
+        <attvalues>
+          <attvalue for="type" value="Downtempo"></attvalue>
+          <attvalue for="decade" value="90s"></attvalue>
+        </attvalues>
+        <viz:size value="66.666664"></viz:size>
+        <viz:position x="1861.9138" y="2389.2998"></viz:position>
+        <viz:color r="250" g="146" b="0"></viz:color>
+      </node>
+      <node id="ambienthouse" label="Ambient House">
+        <attvalues>
+          <attvalue for="type" value="Downtempo"></attvalue>
+          <attvalue for="decade" value="80s"></attvalue>
+        </attvalues>
+        <viz:size value="116.666664"></viz:size>
+        <viz:position x="2035.5277" y="505.12314"></viz:position>
+        <viz:color r="250" g="146" b="0"></viz:color>
+      </node>
+      <node id="ethereal" label="Ethereal">
+        <attvalues>
+          <attvalue for="type" value="Downtempo"></attvalue>
+          <attvalue for="decade" value="80s"></attvalue>
+        </attvalues>
+        <viz:size value="116.666664"></viz:size>
+        <viz:position x="1587.2638" y="2645.135"></viz:position>
+        <viz:color r="250" g="146" b="0"></viz:color>
+      </node>
+      <node id="newage" label="New Age">
+        <attvalues>
+          <attvalue for="type" value="Downtempo"></attvalue>
+          <attvalue for="decade" value="80s"></attvalue>
+        </attvalues>
+        <viz:size value="100.0"></viz:size>
+        <viz:position x="1536.7172" y="2163.846"></viz:position>
+        <viz:color r="250" g="146" b="0"></viz:color>
+      </node>
+    </nodes>
+    <edges>
+      <edge id="305" source="house" target="disco"></edge>
+      <edge id="916" source="house" target="dubhouse"></edge>
+      <edge id="307" source="stupidhouse" target="nrg"></edge>
+      <edge id="308" source="deephouse" target="funkyhouse"></edge>
+      <edge id="309" source="discohouse" target="frenchhouse"></edge>
+      <edge id="311" source="funkyhouse" target="frenchhouse"></edge>
+      <edge id="312" source="funkyhouse" target="discohouse"></edge>
+      <edge id="313" source="latinhouse" target="funkyhouse"></edge>
+      <edge id="314" source="anthemhouse" target="epichouse"></edge>
+      <edge id="315" source="epichouse" target="epictrance"></edge>
+      <edge id="317" source="eurodance" target="nuitalodisco"></edge>
+      <edge id="318" source="eurodance" target="happyhouse"></edge>
+      <edge id="319" source="eurodance" target="eurobeat"></edge>
+      <edge id="320" source="eurodance" target="jpop"></edge>
+      <edge id="322" source="jpop" target="eurobeat"></edge>
+      <edge id="324" source="vocalhouse" target="eurodance"></edge>
+      <edge id="325" source="technodance" target="progressivehouse"></edge>
+      <edge id="326" source="technodance" target="eurodance"></edge>
+      <edge id="327" source="technodance" target="vocalhouse"></edge>
+      <edge id="328" source="technodance" target="anthemhouse"></edge>
+      <edge id="329" source="technodance" target="freestyle"></edge>
+      <edge id="330" source="italodisco" target="synthpop"></edge>
+      <edge id="331" source="italodisco" target="hinrg"></edge>
+      <edge id="332" source="italodisco" target="classichouse"></edge>
+      <edge id="333" source="newwave" target="synthpop"></edge>
+      <edge id="334" source="synthpop" target="synthtron"></edge>
+      <edge id="335" source="disco" target="newwave"></edge>
+      <edge id="336" source="disco" target="italodisco"></edge>
+      <edge id="337" source="disco" target="classichouse"></edge>
+      <edge id="339" source="classichouse" target="hiphouse"></edge>
+      <edge id="340" source="classichouse" target="technodance"></edge>
+      <edge id="341" source="classichouse" target="tribalhouse"></edge>
+      <edge id="342" source="classichouse" target="acidhouse"></edge>
+      <edge id="343" source="classichouse" target="garage"></edge>
+      <edge id="344" source="classichouse" target="deephouse"></edge>
+      <edge id="345" source="garage" target="speedgarage"></edge>
+      <edge id="346" source="hiphouse" target="technodance"></edge>
+      <edge id="347" source="bootyhouse" target="dirtysouthrap"></edge>
+      <edge id="348" source="bootyhouse" target="ghettotech"></edge>
+      <edge id="350" source="hardhouse" target="bootyhouse"></edge>
+      <edge id="351" source="microhouse" target="minimaltechno"></edge>
+      <edge id="352" source="progressivehouse" target="ukhouse"></edge>
+      <edge id="353" source="speedgarage" target="2stepgarage"></edge>
+      <edge id="355" source="techhouse" target="detroithouse"></edge>
+      <edge id="356" source="techhouse" target="microhouse"></edge>
+      <edge id="357" source="techhouse" target="hardhouse"></edge>
+      <edge id="359" source="dubhouse" target="classichouse"></edge>
+      <edge id="360" source="dubhouse" target="garage"></edge>
+      <edge id="361" source="ukhouse" target="darkhouse"></edge>
+      <edge id="362" source="trance" target="italodisco"></edge>
+      <edge id="365" source="goatrance" target="darktrance"></edge>
+      <edge id="366" source="psychedelictrance" target="buttrockgoa"></edge>
+      <edge id="367" source="psychedelictrance" target="psytekk"></edge>
+      <edge id="368" source="psychedelictrance" target="deathtrance"></edge>
+      <edge id="369" source="psychedelictrance" target="goatrance"></edge>
+      <edge id="371" source="ebm" target="electroindustrial"></edge>
+      <edge id="372" source="ebm" target="futurepop"></edge>
+      <edge id="373" source="ebm" target="psychedelictrance"></edge>
+      <edge id="376" source="coldwave" target="industrialrock"></edge>
+      <edge id="377" source="darksynth" target="ebm"></edge>
+      <edge id="378" source="darksynth" target="synthpop"></edge>
+      <edge id="379" source="darkwave" target="coldwave"></edge>
+      <edge id="380" source="darkwave" target="ethereal"></edge>
+      <edge id="382" source="industrialrock" target="ebm"></edge>
+      <edge id="383" source="goth" target="darkwave"></edge>
+      <edge id="384" source="goth" target="ethereal"></edge>
+      <edge id="385" source="industrial" target="industrialexperimental"></edge>
+      <edge id="386" source="industrial" target="industrialrock"></edge>
+      <edge id="387" source="hardtrance" target="hardstyle"></edge>
+      <edge id="388" source="hardacidtrance" target="nrg"></edge>
+      <edge id="389" source="hardacidtrance" target="hardtrance"></edge>
+      <edge id="391" source="hardstyle" target="nustylegabber"></edge>
+      <edge id="392" source="anthemtrance" target="epictrance"></edge>
+      <edge id="393" source="anthemtrance" target="deeptrance"></edge>
+      <edge id="394" source="anthemtrance" target="techtrance"></edge>
+      <edge id="395" source="anthemtrance" target="breaktrance"></edge>
+      <edge id="396" source="dreamtrance" target="epictrance"></edge>
+      <edge id="397" source="epictrance" target="nottrance"></edge>
+      <edge id="398" source="ibizatrance" target="dreamtrance"></edge>
+      <edge id="399" source="ibizatrance" target="epictrance"></edge>
+      <edge id="400" source="progressivetrance" target="anthemtrance"></edge>
+      <edge id="401" source="symphonictrance" target="progressivetrance"></edge>
+      <edge id="403" source="bootytrance" target="stupidhouse"></edge>
+      <edge id="406" source="deeptrance" target="ukhouse"></edge>
+      <edge id="408" source="tribaltrance" target="ibizatrance"></edge>
+      <edge id="409" source="acidtrance" target="hardacidtrance"></edge>
+      <edge id="410" source="acidtrance" target="goatrance"></edge>
+      <edge id="411" source="acidtrance" target="acidhouse"></edge>
+      <edge id="412" source="classictrance" target="acidtrance"></edge>
+      <edge id="413" source="classictrance" target="ibizatrance"></edge>
+      <edge id="414" source="classictrance" target="progressivetrance"></edge>
+      <edge id="415" source="classictrance" target="symphonictrance"></edge>
+      <edge id="416" source="classictrance" target="germantrance"></edge>
+      <edge id="417" source="germantrance" target="acidtrance"></edge>
+      <edge id="418" source="germantrance" target="hardacidtrance"></edge>
+      <edge id="419" source="hinrg" target="classictrance"></edge>
+      <edge id="420" source="techno" target="classictechno"></edge>
+      <edge id="421" source="bangintechno" target="industrialtechno"></edge>
+      <edge id="422" source="bangintechno" target="tribaltechno"></edge>
+      <edge id="426" source="minimaltechno" target="deeptechno"></edge>
+      <edge id="428" source="minimaltechno" target="experimentaltechno"></edge>
+      <edge id="429" source="minimaltechno" target="dubtechno"></edge>
+      <edge id="430" source="minimaltechno" target="gloomcore"></edge>
+      <edge id="431" source="classictechno" target="electro"></edge>
+      <edge id="432" source="classictechno" target="detroithouse"></edge>
+      <edge id="433" source="classictechno" target="detroittechno"></edge>
+      <edge id="434" source="detroittechno" target="acidtechno"></edge>
+      <edge id="435" source="detroittechno" target="minimaltechno"></edge>
+      <edge id="436" source="detroittechno" target="bangintechno"></edge>
+      <edge id="437" source="detroittechno" target="eurotechno"></edge>
+      <edge id="439" source="detroithouse" target="technodance"></edge>
+      <edge id="440" source="acidtechno" target="hardacidtechno"></edge>
+      <edge id="441" source="acidtechno" target="acidhouse"></edge>
+      <edge id="443" source="germantechno" target="jtek"></edge>
+      <edge id="444" source="germantechno" target="swedishtechno"></edge>
+      <edge id="449" source="jtek" target="swedishtechno"></edge>
+      <edge id="450" source="latintechno" target="italiantechno"></edge>
+      <edge id="451" source="swedishtechno" target="latintechno"></edge>
+      <edge id="452" source="swedishtechno" target="italiantechno"></edge>
+      <edge id="454" source="eurotechno" target="germantechno"></edge>
+      <edge id="455" source="eurotechno" target="hardtechno"></edge>
+      <edge id="456" source="eurotechno" target="rave"></edge>
+      <edge id="457" source="rave" target="hardtechno"></edge>
+      <edge id="458" source="vgm" target="casiocore"></edge>
+      <edge id="460" source="breakbeat" target="hiphop"></edge>
+      <edge id="462" source="nusoul" target="2stepgarage"></edge>
+      <edge id="463" source="newjackswing" target="nusoul"></edge>
+      <edge id="465" source="gfunk" target="gangstarap"></edge>
+      <edge id="466" source="gangstarap" target="nusoul"></edge>
+      <edge id="467" source="eastcoastrap" target="gangstarap"></edge>
+      <edge id="468" source="hiphop" target="electro"></edge>
+      <edge id="469" source="hiphop" target="turntablism"></edge>
+      <edge id="470" source="hiphop" target="eastcoastrap"></edge>
+      <edge id="471" source="hiphop" target="westcoastrap"></edge>
+      <edge id="472" source="hiphop" target="funkybreaks"></edge>
+      <edge id="473" source="hiphop" target="dirtysouthrap"></edge>
+      <edge id="474" source="hiphop" target="miamibass"></edge>
+      <edge id="475" source="progressivehop" target="abstracthiphop"></edge>
+      <edge id="476" source="turntablism" target="progressivehop"></edge>
+      <edge id="477" source="turntablism" target="abstracthiphop"></edge>
+      <edge id="478" source="westcoastrap" target="gfunk"></edge>
+      <edge id="479" source="electro" target="electrofunk"></edge>
+      <edge id="480" source="electro" target="freestyle"></edge>
+      <edge id="481" source="electro" target="nuelectro"></edge>
+      <edge id="484" source="dirtysouthrap" target="crunk"></edge>
+      <edge id="486" source="dirtysouthrap" target="miamibass"></edge>
+      <edge id="489" source="miamibass" target="riofunk"></edge>
+      <edge id="490" source="miamibass" target="floridabreaks"></edge>
+      <edge id="491" source="acidbreaks" target="chemicalbreaks"></edge>
+      <edge id="492" source="bigbeat" target="anthembreaks"></edge>
+      <edge id="493" source="chemicalbreaks" target="bigbeat"></edge>
+      <edge id="495" source="floridabreaks" target="nuskoolbreaks"></edge>
+      <edge id="496" source="funkybreaks" target="tribalbreaks"></edge>
+      <edge id="497" source="funkybreaks" target="bigbeat"></edge>
+      <edge id="498" source="funkybreaks" target="acidbreaks"></edge>
+      <edge id="500" source="nuskoolbreaks" target="progressivebreaks"></edge>
+      <edge id="501" source="nuskoolbreaks" target="darkbreaks"></edge>
+      <edge id="508" source="jungle" target="raggajungle"></edge>
+      <edge id="511" source="idm" target="glitch"></edge>
+      <edge id="512" source="idm" target="experimentaljungle"></edge>
+      <edge id="513" source="industrialdnb" target="experimentaljungle"></edge>
+      <edge id="515" source="darkcore" target="hardstep"></edge>
+      <edge id="516" source="darkcore" target="darkstep"></edge>
+      <edge id="518" source="drumnbass" target="jumpup"></edge>
+      <edge id="519" source="drumnbass" target="neurofunk"></edge>
+      <edge id="520" source="hardstep" target="techstep"></edge>
+      <edge id="521" source="jazzstep" target="liquidfunk"></edge>
+      <edge id="522" source="jazzstep" target="atmosphericjungle"></edge>
+      <edge id="524" source="neurofunk" target="trancestep"></edge>
+      <edge id="525" source="oldskoolravehardcore" target="rave"></edge>
+      <edge id="526" source="oldskoolravehardcore" target="happyhardcore"></edge>
+      <edge id="527" source="oldskoolravehardcore" target="darkcore"></edge>
+      <edge id="528" source="techstep" target="darkstep"></edge>
+      <edge id="529" source="techstep" target="industrialdnb"></edge>
+      <edge id="530" source="subjungle" target="oldskoolravehardcore"></edge>
+      <edge id="531" source="subjungle" target="jazzstep"></edge>
+      <edge id="532" source="subjungle" target="drumnbass"></edge>
+      <edge id="533" source="raggajungle" target="subjungle"></edge>
+      <edge id="534" source="raggajungle" target="oldskoolravehardcore"></edge>
+      <edge id="537" source="industrial" target="industrialdnb"></edge>
+      <edge id="538" source="soundcollage" target="glitch"></edge>
+      <edge id="539" source="ambienttechno" target="idm"></edge>
+      <edge id="540" source="hardcore" target="newbeat"></edge>
+      <edge id="541" source="happyhardcore" target="freeform"></edge>
+      <edge id="542" source="happyhardcore" target="trancecore"></edge>
+      <edge id="544" source="happygabber" target="happyhardcore"></edge>
+      <edge id="546" source="trancecore" target="freeform"></edge>
+      <edge id="548" source="digitalhardcore" target="metalcore"></edge>
+      <edge id="549" source="gabber" target="noizecore"></edge>
+      <edge id="550" source="gabber" target="terrorcore"></edge>
+      <edge id="553" source="noizecore" target="terrorcore"></edge>
+      <edge id="554" source="noizecore" target="digitalhardcore"></edge>
+      <edge id="555" source="powerelectronics" target="noizecore"></edge>
+      <edge id="556" source="rave" target="gabber"></edge>
+      <edge id="559" source="rave" target="rotterdam"></edge>
+      <edge id="560" source="rotterdam" target="gabberhouse"></edge>
+      <edge id="561" source="rotterdam" target="nustylegabber"></edge>
+      <edge id="562" source="rotterdam" target="happygabber"></edge>
+      <edge id="565" source="terrorcore" target="metalcore"></edge>
+      <edge id="566" source="terrorcore" target="speedcore"></edge>
+      <edge id="567" source="newbeat" target="rave"></edge>
+      <edge id="568" source="newbeat" target="acidhouse"></edge>
+      <edge id="569" source="newbeat" target="ebm"></edge>
+      <edge id="570" source="ebm" target="powerelectronics"></edge>
+      <edge id="571" source="downtempo" target="musiqueconcrete"></edge>
+      <edge id="572" source="ambient" target="newage"></edge>
+      <edge id="573" source="ambient" target="ambienthouse"></edge>
+      <edge id="574" source="ambient" target="electronicpsychedelia"></edge>
+      <edge id="575" source="ambient" target="minimalism"></edge>
+      <edge id="576" source="electronicclassical" target="newwave"></edge>
+      <edge id="577" source="electronicclassical" target="earlysynth"></edge>
+      <edge id="578" source="frenchpop" target="synthpop"></edge>
+      <edge id="579" source="minimalism" target="electronicclassical"></edge>
+      <edge id="580" source="electronicpsychedelia" target="electronicclassical"></edge>
+      <edge id="581" source="earlysynth" target="frenchpop"></edge>
+      <edge id="582" source="earlysynth" target="newwave"></edge>
+      <edge id="583" source="musiqueconcrete" target="minimalism"></edge>
+      <edge id="584" source="musiqueconcrete" target="soundcollage"></edge>
+      <edge id="585" source="musiqueconcrete" target="industrial"></edge>
+      <edge id="586" source="acidjazz" target="downbeat"></edge>
+      <edge id="587" source="acidjazz" target="nujazz"></edge>
+      <edge id="588" source="ambientbreaks" target="illbient"></edge>
+      <edge id="589" source="ambientbreaks" target="acidjazz"></edge>
+      <edge id="590" source="ambientbreaks" target="triphop"></edge>
+      <edge id="591" source="downbeat" target="triphop"></edge>
+      <edge id="592" source="illbient" target="abstracthiphop"></edge>
+      <edge id="593" source="illbient" target="acidjazz"></edge>
+      <edge id="594" source="illbient" target="nujazz"></edge>
+      <edge id="598" source="ambienttechno" target="minimaltechno"></edge>
+      <edge id="599" source="ambienttrance" target="ambientpsy"></edge>
+      <edge id="604" source="ambienthouse" target="ambienttechno"></edge>
+      <edge id="605" source="ambienthouse" target="ambientbreaks"></edge>
+      <edge id="606" source="ambienthouse" target="ambienttrance"></edge>
+      <edge id="607" source="ethereal" target="darkambient"></edge>
+      <edge id="608" source="newage" target="ethereal"></edge>
+      <edge id="609" source="newage" target="worldbeat"></edge>
+    </edges>
+  </graph>
+</gexf>
