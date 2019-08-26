@@ -36,13 +36,6 @@ If you are a longtime visitor of this guide, read the tutorial anyway, or go pok
 - [Sounds](#sounds)
 	- [Hoover](#hoover)
 	- [MC](#mc)
-- [Disclaimer](#disclaimer)
-- [Credits](#credits)
-
-------------------------------------------------------------
-
-# The Guide:
-
 - [House](#house)
 	- [Stupid: Stupid House](#stupid-stupid-house)
 	- [Deep: Deep House](#deep-deep-house)
@@ -51,12 +44,12 @@ If you are a longtime visitor of this guide, read the tutorial anyway, or go pok
 	- [Funky: Funky House](#funky-funky-house)
 	- [Latin: Latin House](#latin-latin-house)
 	- [Anthem: Anthem House](#anthem-anthem-house)
-	- [Epic: 'Dance Mix'](#epic-dance-mix)
+	- [Epic: Epic House](#epic-epic-house)
 	- [Eurobeat](#eurobeat)
-	- [Eurodance: Europop, Euro, Club House, Handbag](#eurodance-europop-euro-club-house-handbag)
+	- [Eurodance](#eurodance)
 	- [Happy: Happy House](#happy-happy-house)
 	- [Jpop](#jpop)
-	- [Nu Italo](#nu-italo)
+	- [Nu Italo: Nu Italo Disco](#nu-italo-nu-italo-disco)
 	- [Vocal: Vocal House](#vocal-vocal-house)
 	- [Techno Dance](#techno-dance)
 	- [Italo: Italo Disco](#italo-italo-disco)
@@ -75,15 +68,15 @@ If you are a longtime visitor of this guide, read the tutorial anyway, or go pok
 	- [Speed Garage](#speed-garage)
 	- [Synthtron](#synthtron)
 	- [Tech: Tech House](#tech-tech-house)
-	- [Tribal](#tribal)
+	- [Tribal: Tribal House](#tribal-tribal-house)
 	- [Dub](#dub)
-	- [Brit: Uk House, English House, Not Progressive](#brit-uk-house-english-house-not-progressive)
+	- [Brit: Brit House](#brit-brit-house)
 - [Trance](#trance)
-	- [Buttrock Goa: Heavy Metal Goa](#buttrock-goa-heavy-metal-goa)
+	- [Buttrock Goa](#buttrock-goa)
 	- [Death: Death Trance](#death-death-trance)
-	- [Goa: Hippie Trance](#goa-hippie-trance)
-	- [Psychedelic: Psytrance, Psychedelic Goacore](#psychedelic-psytrance-psychedelic-goacore)
-	- [Psytekk: Minimal Psytrance, Augh!!!!!!!](#psytekk-minimal-psytrance-augh)
+	- [Goa: Goa Trance](#goa-goa-trance)
+	- [Psychedelic: Psychedelic Trance](#psychedelic-psychedelic-trance)
+	- [Psytekk](#psytekk)
 	- [EBM: Ebm](#ebm-ebm)
 	- [Electro Industrial: Electro-Industrial](#electro-industrial-electro-industrial)
 	- [Futurepop](#futurepop)
@@ -96,25 +89,25 @@ If you are a longtime visitor of this guide, read the tutorial anyway, or go pok
 	- [Industrial](#industrial)
 	- [Hard: Hard Trance](#hard-hard-trance)
 	- [Hard Acid: Hard Acid Trance](#hard-acid-hard-acid-trance)
-	- [NRG: Nu Nrg, Hard Nrg, Hard Dance](#nrg-nu-nrg-hard-nrg-hard-dance)
-	- [Hardstyle: Really Hard Trance, Hard Dance](#hardstyle-really-hard-trance-hard-dance)
-	- [Anthem: Mctrance, Stadium Trance, Arena Trance](#anthem-mctrance-stadium-trance-arena-trance)
+	- [NRG](#nrg)
+	- [Hardstyle](#hardstyle)
+	- [Anthem: Anthem Trance](#anthem-anthem-trance)
 	- [Dream: Dream Trance](#dream-dream-trance)
 	- [Epic: Epic Trance](#epic-epic-trance)
 	- [Ibiza: Ibiza Trance](#ibiza-ibiza-trance)
-	- [Progressive: Progressive House???](#progressive-progressive-house-1)
+	- [Progressive: Progressive House](#progressive-progressive-house-1)
 	- [Symphonic: Symphonic Trance](#symphonic-symphonic-trance)
-	- [Dutch: Super Saw Mega Trance, Fake Trance](#dutch-super-saw-mega-trance-fake-trance)
+	- [Dutch: Dutch Trance](#dutch-dutch-trance)
 	- [Booty ???: Booty Trance???](#booty--booty-trance)
 	- [Break: Breaktrance](#break-breaktrance)
 	- [Dark: Dark Trance](#dark-dark-trance)
-	- [Deep: Housey Trance....Or Trancey House](#deep-housey-tranceor-trancey-house)
+	- [Deep: Deep Trance](#deep-deep-trance)
 	- [Tech: Tech Trance](#tech-tech-trance)
 	- [Tribal: Tribal Trance](#tribal-tribal-trance)
 	- [Acid](#acid)
-	- [Classic: Trance](#classic-trance)
+	- [Classic: Classic Trance](#classic-classic-trance)
 	- [German: German Trance](#german-german-trance)
-	- [Hi NRG: Hi Nrg](#hi-nrg-hi-nrg)
+	- [Hi NRG](#hi-nrg)
 - [Techno](#techno)
 	- [Bangin’: Bangin' Techno](#bangin-bangin-techno)
 	- [Deep: Deep Techno](#deep-deep-techno)
@@ -124,7 +117,7 @@ If you are a longtime visitor of this guide, read the tutorial anyway, or go pok
 	- [Classic: Classic Techno](#classic-classic-techno)
 	- [Detroit: Detroit Techno](#detroit-detroit-techno)
 	- [Detroit House](#detroit-house)
-	- [Acid](#acid-1)
+	- [Acid: Acid Techno](#acid-acid-techno)
 	- [Casiocore](#casiocore)
 	- [German: German Techno](#german-german-techno)
 	- [Hard: Hard Techno](#hard-hard-techno)
@@ -172,7 +165,7 @@ If you are a longtime visitor of this guide, read the tutorial anyway, or go pok
 - [Jungle](#jungle)
 	- [Experimental: Experimental Jungle](#experimental-experimental-jungle)
 	- [Glitch](#glitch)
-	- [IDM: Idm](#idm-idm)
+	- [IDM](#idm)
 	- [Industrial: Industrial Dnb](#industrial-industrial-dnb)
 	- [Atmospheric: Atmospheric Jungle](#atmospheric-atmospheric-jungle)
 	- [Darkcore](#darkcore)
@@ -184,23 +177,23 @@ If you are a longtime visitor of this guide, read the tutorial anyway, or go pok
 	- [Neurofunk](#neurofunk)
 	- [Oldskool: Oldskool Rave Hardcore](#oldskool-oldskool-rave-hardcore)
 	- [Techstep](#techstep)
-	- [Jungle](#jungle-1)
+- [Jungle](#jungle-1)
 	- [Ragga: Ragga Jungle](#ragga-ragga-jungle)
 	- [Liquid Funk](#liquid-funk)
 	- [Trancestep](#trancestep)
 - [Hardcore](#hardcore)
-	- [Happy: Happycore](#happy-happycore)
-	- [Happy Gabber: Bouncy Techno](#happy-gabber-bouncy-techno)
+	- [Happy: Happy Hardcore](#happy-happy-hardcore)
+	- [Happy Gabber](#happy-gabber)
 	- [Nu Style Gabber](#nu-style-gabber)
 	- [Trancecore](#trancecore)
-	- [Freeform: Acidcore](#freeform-acidcore)
+	- [Freeform](#freeform)
 	- [Digital: Digital Hardcore](#digital-digital-hardcore)
 	- [Gabber](#gabber)
 	- [Gabber House](#gabber-house)
 	- [Metalcore](#metalcore)
 	- [Noizecore](#noizecore)
 	- [Power Electronics](#power-electronics)
-	- [Rave: Hardcore](#rave-hardcore)
+	- [Rave](#rave)
 	- [Rotterdam](#rotterdam)
 	- [Speedbass](#speedbass)
 	- [Speedcore](#speedcore)
@@ -214,11 +207,11 @@ If you are a longtime visitor of this guide, read the tutorial anyway, or go pok
 	- [Psychedelia: Electronic Psychedelia](#psychedelia-electronic-psychedelia)
 	- [Synth: Early Synth](#synth-early-synth)
 	- [Musique Concrete](#musique-concrete)
-	- [Acid Jazz: Rare Groove, Jazzdance](#acid-jazz-rare-groove-jazzdance)
+	- [Acid Jazz](#acid-jazz)
 	- [Ambient Breaks](#ambient-breaks)
-	- [Downbeat: Not Exactly Trip Hop, Not Exactly Acid Jazz](#downbeat-not-exactly-trip-hop-not-exactly-acid-jazz)
+	- [Downbeat](#downbeat)
 	- [Illbient](#illbient)
-	- [Trip Hop: Dub Hop, Brit Hop](#trip-hop-dub-hop-brit-hop)
+	- [Trip Hop](#trip-hop)
 	- [Nu Jazz](#nu-jazz)
 	- [Ambient Psy](#ambient-psy)
 	- [Ambient Techno](#ambient-techno)
@@ -226,10 +219,12 @@ If you are a longtime visitor of this guide, read the tutorial anyway, or go pok
 	- [Dark Ambient](#dark-ambient)
 	- [Electronica](#electronica)
 	- [Sound Collage](#sound-collage)
-	- [Worldbeat: Ethnic](#worldbeat-ethnic)
+	- [Worldbeat](#worldbeat)
 	- [Ambient House](#ambient-house)
 	- [Ethereal](#ethereal)
-	- [New Age: Easy Listening](#new-age-easy-listening)
+	- [New Age](#new-age)
+- [Disclaimer](#disclaimer)
+- [Credits](#credits)
 
 <!-- /MarkdownTOC -->
 
@@ -500,8 +495,8 @@ Most every popular sound in electronic music has come about because of a mistake
 The Master of Ceremonies first got his start as a conductor of sorts, introducing the musical talent and becoming the host of the party. The practice started off fairly benign in--where else--Jamaica, where the MC would add his voice as a freestyle adlib singer, becoming part of the music. Then it was exported to New York where it became Hip Hop, and as time went on Hip Hop MCs decided that they were more important than the music, and then later on declared that they were more important than everything. Jungle and Breaks MCs tried to do the same, with limited amounts of success and bravado. But the important part to remember is that an MC is not supposed to transcend the music or even compete with it. That's when everything goes to shit. The original Jamaicans didn't do that. They understood that the object was to liven the party atmosphere, not to become the centre of attention. They were simply Toastmasters, which is something that modern MCs rarely do anymore. Toasting. I like that word. Who toasts anymore? It seems like every freestyler today is trying too hard to be some sharp-tongues, insult-armed "lyrical assassin" rather than someone who actually wants to improve the quality of the party.
 
 ------------------------------------------------------------
-
 # House
+
 
 House is the most soulful genre. It's also the simplest, the oldest, the warmest, and where electronic music is concerned, easily the most human-sounding, making it the most popular, commanding the most producers, artists, labels, DJs, fans, and subgenres. The whole of top40 pop music gets its hooks, gimmicks, lines and melodies from house music (and vice versa). That is why it stands as the world's perennial party music, and it will probably stay that way until the end of time. Or until someone finds a more catchy beat than the 4/4 bassdrum.
 
@@ -548,8 +543,8 @@ And arguments can be made that there is very likely a strain of House for every 
 I suppose The KLF are to be responsible for this, when they released their 'Stadium House' trilogy in 89. But more or less Anthem House is really just the less-used, broke-ass cousin of Anthem Trance, evoking images of 'hands in the air' cheering about positively nothing in giant soccer stadiums and british superclubs with thousands of other people who would normally be annoying the hell out of you if you weren't on such great drugs. Gang vocals, cheering noises, and catchy melodies. This is the kind of music that's like really rich chocolate: tasty in small doses; will make you sick to your stomach if you're inundated with too much of it. Trance crackers, take note.
 
 
-## Epic: 'Dance Mix'
-*aka:  Epic House* in the Europop group, emerged in 90s
+## Epic: Epic House
+*aka:  'Dance Mix'* in the Europop group, emerged in 90s
 
 Pretty interchangeable with Eurodance and Epic Trance, except for one idiot feature: the abject rape and decimation of fine 80s tunes and classic ballads by making trite, derivative "dance" mixes of them. Stupid. Just stupid stupid stupid. Listening to these tunes makes you yearn for the originals way more than you'd ever want to dance in a club to them. From "Total Eclipse of the Heart" to "Keep Me Hanging On" to a cutesy version of the Hamsterdance song (yes, I said HAMSTERDANCE, fuck dammit. Go P2P for it yourself, and brace yourself for the horror of horrors). If there is any redeeming feature of Epic House that exists, I haven't seen it yet. This genre is absolutely shameless and without remorse. It is a gimmicky vehicle for cheap radio one hit wonders through upgraded nostalgia, and is completely devoid of originality, substance and value whatsoever. Whoever makes this shit should be shot.
 
@@ -560,8 +555,8 @@ in the Europop group,
 With Jpop and Eurodance as its parents, Eurobeat is truly in a class of its own, with maybe Happy Hardcore as its stupid step-sister. Unlike other genres, Eurobeat knows what its limitations are. It's not trying to save the world or convert everyone over to its spastic, sped-up euro disney cheese. It doesn't foster any illusions about its tweaker formula and erratic sensibilities. And for that you kind of have to respect it. It's role is to be the background music for funny fitness competitions on TV, and it's perfectly happy with that. It's also good wakeup music.
 
 
-## Eurodance: Europop, Euro, Club House, Handbag
-*aka:  Eurodance* in the Europop group, emerged in 90s
+## Eurodance
+*aka:  Europop, Euro, Club House, Handbag* in the Europop group, emerged in 90s
 
 The reason why it's called Handbag in parts not American is because girly flocks wearing tight capri pants and tube tops or something would colesce in clubs to dance to this music around piles of their purses and handbags on the dance floor. I've never actually seen that happen, but it's certainly believable. Eurodance is the undisputed king of creative cheese: that is, cheesy dance music that is far from annoying. It's dedication to silly, spastic fun, with buff dancers running around and funny raps about dancing, love, and the love of dancing has made an artform out of the lighter side of music. Where other genres in the same vein failed due to their pompous delivery and overblown self-important schmaltz, Eurodance got it right: pop music as it is, was, and should be. Nothing more.
 
@@ -578,8 +573,8 @@ The official music genre of Dance Dance Revolution, this is by far the most syru
 Is anyone even surprised that this kind of stuff would come from Japan? That whole country is like Bizarro world. They do everything we do, just in a really strange way. It reminds me of that scene in "Who Framed Roger Rabbit" where they go near Toontown, and you can see clouds of smoke and yelling and fighting and all sorts of haywire shit happening above the horizon to signify the complete and total lunacy of the place. Japan is just like that. The whole world continuously scratches its head at the far east, then sits back and watches to see what wacky thing the Japanese will do next. I mean, I'm sure the culture is swell once you get past all the incest and pedophilia and giant robots and all, but after that--huh? Japan is super crazy place, 100 PERCENT! Note: there's actually two forms of Jpop. The faster kind which gives the hardiest Dance Dance Revolution masters a run for their money, which is indistinguishable from Eurobeat, and the more bubblegum kind, called Shibuya-kei. You can tell which is which.
 
 
-## Nu Italo
-*aka:  Nu Italo Disco* in the Europop group, emerged in 90s
+## Nu Italo: Nu Italo Disco
+*aka:  Nu Italo* in the Europop group, emerged in 90s
 
 Not really an upgrade of 80s Italo Disco, but its made in the same place, so I guess the name is appropriate. Slower, thicker beat than Eurodance, but its signifying and most addictive feature is the VOCODERS!! Love those lovely, oscillating vocoders! You can never have enough vocoders. Hell, the whole reason why most of the songs don't have any actual lyrics but just nonsense human melodies (la da bee dee doo da lee da) is because they sound so cool with vocoders. Rediscovered by Daft Punk legend Thomas Bangalter (the purveyor of everything 80s), used lavishly by everyone in his wake. This genre has had one monster hit: Eiffel 65's "Blue", but just because it's way overplayed doesn't mean you should discount the entire genre. There's some wicked-ass stuff here.
 
@@ -652,6 +647,7 @@ Every song will contain one or more of the following samples: "If you got a bigg
 
 ## Dark: Dark House
 
+
 It seems to be a domain largely of "progressive" (read: Brit House) producers who don't want to be too pretentious. More characteristically, though, it seems the whole of western popular music itself has turned very passionate (which is to say, tragic and somber), moody, abrasive and short-fused in the wake of the terrorist attacks, not just electronic music. Even a happy-go-lucky genre like house couldn't help but feel somewhat sinister and serious for awhile. That's where this music comes from. Even if the concept of "dark house" is like a water-repellent sponge.
 
 
@@ -680,6 +676,7 @@ How did this music get past the censors? Who greenlighted this project at the Of
 
 
 ## Synthtron
+*aka:  Electroclash, Glitchcore, Nu Synthpop, Glitz, Euroclash, Synthcore, Electropop, Robotrash, Synthpunk, Futurepop, who knows what else*  emerged in 90s
 
 You know a genre is really popular in the music press when it quickly garners more names than it does actual artists or labels. The reason for this is because every major player in the music press wants to lay claim to discovering something so kitsch and trendy by giving it their own pet term for it--a foreshadow of things to come as music continues to fragment into social niches. I am no different, which is why I call it 'Synthtron', because Electroclash sounds like the stupidest name I've ever heard. Though it may more be appropriately applied to the grittier, guitar-infused punk artists (Chicks on Speed, Fischerspooner, Add N to (X), Orgy), I can't see it being a justifiable term for their House-bred contemporaries (Felix da Housekat, Miss Kitten and the Hacker, Ladytron, Adult., Who da Funk, Northern Lite) who are, once again, following the wake of pioneers Thomas Bangalter and Les Rythmes Digitales, who were spearheading this retro 80s trend back in 1996. Heh. Synthpop with upgraded equipment. Who could've seen that coming?
 
@@ -690,8 +687,8 @@ You know a genre is really popular in the music press when it quickly garners mo
 You'd think that a hybrid genre combining the best qualities of House and Techno would be totally rad, but it's not. In actual fact, Tech House comes out mostly as a dull, monotonous drone (something Tech House was the undisputed king of until only recently, when the technique of making boring music was surpassed by the pretentious Brit House scene calling itself only "progressive"), with barely enough going for it to make it interesting. It's like it decided to combine the worst qualities of Techno and House. Why the hell it would do that, I don't know. But it's been around, like, forever, and people keep making it, so someone somewhere has to be listening/buying/dancing/spinning all those Tech House records. I have yet to find anyone though (Tripwire, shut up).
 
 
-## Tribal
-*aka:  Tribal House*  emerged in 90s
+## Tribal: Tribal House
+*aka:  Tribal*  emerged in 90s
 
 I'm probably splitting hairs here by describing each and every flavour of tribal when it could be much more easily sorted out as just one percussive whole, but some people have really narrow tastes, so this guide is not for them. Tribal House is mostly a west coast thing, where we still have trees out here for hippies to hang out in and throw free parties in the forests during the summer (when the weather cooperates). Plenty of bongs and bongo drums for everybody. 
 
@@ -702,20 +699,20 @@ I'm probably splitting hairs here by describing each and every flavour of tribal
 This kind of stuff's been around at least for 30 years. Take reggae, remove the lyrics and harmonies. What you have left is what those lovable Jamaicans like to call the dub. Yeah: Dub. Sheesh, sounds like one of those pet words stoners always come up with in their spare time. Add a beat to it and it becomes Dub House. It was the first ever tool for DJs--a groove to lay down under all the anthems and floorfillers--somehow making it a genre in its own right. Now it's influenced everything else as well. There's probably a million and one sub genres of this--ambient dub, techno dub, dub dub--but I'm too lazy to find out what they got going for them. But god bless those wacky Jamaicans and their wonderful detail to rhythm.
 
 
-## Brit: Uk House, English House, Not Progressive
-*aka:  Brit House*  emerged in 00s
+## Brit: Brit House
+*aka:  Uk House, English House, Not Progressive*  emerged in 00s
 
 It's almost as if England (and maybe Europe as well) had been collectively stuffing its face full of sweet, syrupy, cavity-inflicting cookie cutter McTrance for 3 years (96-99), and then suddenly got sick to its stomach and threw it all up. Or maybe it was just Britain's major DJs who got sick of the anthem schlock, and vowed never to spin it ever again. And appropriately, where they commanded, the people, like polite little sheep, obeyed. Then Sasha and Digweed and their ilk wanted to be taken seriously so they started moving into...this sound. Whatever you want to call it, it doesn't matter; it serves its purpose, which is to be anti-anthem. And then as if to REALLY show everyone how above-it-all they were, they gave it a really pretentious name out of an adjective: Progressive. Progressive what? Fuck if I know, after 3 years trance snobs are still arguing over that part. Since it means absolutely nothing, then, I'm calling it Brit House, because if anyone could make house (trance?) music this boring and monotonous, it's the British.
 
-------------------------------------------------------------
 
 # Trance
+
 
 Trance is the most emotional genre. It can make you cry, make you shout, make you cheer, and make you celebrate absolutely nothing of substance except pure, ecstatic bliss. This is interesting, when at one time it was very repetitive and hypnotic (hence its label 'trance') and was very easy to get lost in whilst divulging in aforementioned emotions. But now it's quite difficult to get entranced due mostly to the fact that the genre has devolved into such trite, derivative junk that even the biggest culprits of it are having trouble lying about how interesting it is. If you ignore the cliched, breakdown-build-anthem template side of the genre that is so canned and predictable you can set your watch to it, trance is still pretty fun. Unless you're trying to be a Sasha worshipping pretentious snob not partaking in that, in which case you don't even want to admit you're listening to trance anymore.
 
 
-## Buttrock Goa: Heavy Metal Goa
-*aka:  Buttrock Goa* in the Psy group, emerged in 90s
+## Buttrock Goa
+*aka:  Heavy Metal Goa* in the Psy group, emerged in 90s
 
 There's enough sub-subgenres of psychedelic-goa-israeli-mediterranean-middle eastern trance (ie: anything not euro, which inherently makes it far more interesting) to warrant its own trance section altogether, and in compliance with the true ethos of trance it should very well get one. And maybe someday it will. But for now, I'll just list my favourites and/or most prominant ones. Psychedelic trance envelopes all of that. And Buttrock Goa is easily the best one. Heavy metal and trance go so well together.
 
@@ -726,20 +723,20 @@ in the Psy group,
 Dark Trance and Death Trance are pretty interchangeable. The only real difference (and it's a minor one...oh, but isn't this entire guide?) is that Death Trance artists seemed to be ported over from Hardcore a lot, whereas Dark Trance artists are ported over from Goa. But not always. Speaking of Goa, this music sounds a lot like it and can be mixed with it really well, and it scares the hippies away too, so it gets the big*thumbs up* by me.
 
 
-## Goa: Hippie Trance
-*aka:  Goa Trance* in the Psy group, emerged in 90s
+## Goa: Goa Trance
+*aka:  Hippie Trance* in the Psy group, emerged in 90s
 
 For what it's worth, the only trance genre that still has some integrity left. Goa is just too complicated, too dark, too brooding, and too ominous to ever have popular appeal, and it's doubtful that it ever will....and that's just the way hippies like it. Imported from India, duty free, where it is so hot the DJs don't even bother mixing or else their faces melt off (and that's BEFORE you drop acid). There are a million and one splinter genres to this too (hard goa, progressive goa, psyfunk, ambient goa, etc...), but I'm only putting down the most prevalent. As for the rest, it's terrific stuff, if all the annoying, superficial hindu and buddhist iconography doesn't annoy the hell out of you. Goa would be the best genre ever, if it weren't for the fucking hippies.
 
 
-## Psychedelic: Psytrance, Psychedelic Goacore
-*aka:  Psychedelic Trance* in the Psy group, emerged in 90s
+## Psychedelic: Psychedelic Trance
+*aka:  Psytrance, Psychedelic Goacore* in the Psy group, emerged in 90s
 
 The difference between Psychedelic and Goa Trance is really negligible, and if you ask anyone involved they'll readily say that there is no difference, much the same way that junglists will say there is no difference between Jungle and Drum n Bass (even though there is). To put it succinctly, Psychedelic Trance removes the hindu/middle-eastern influences and melodies and full-on blasts you with mindfuck music...teleport zappers, star trek tweeps, nintendo twerps, theremin squeels, feedback hums and radio antennae frequency squelches. Well...Goa might have all that stuff too. Hmmmm. Let's say this instead: Goa is more organic, and Psy is more cybernetic. But they're both futuristic sci-fi music. Okay, fine: they are the same damn thing. But there's just so much good music here to only squeeze in one genre. And if you think I'm done here, wait until you check out Psytekk. It's like HR Giger on acid.
 
 
-## Psytekk: Minimal Psytrance, Augh!!!!!!!
-*aka:  Psytekk* in the Psy group, emerged in 90s
+## Psytekk
+*aka:  Minimal Psytrance, Augh!!!!!!!* in the Psy group, emerged in 90s
 
 Psychedelic Trance isn't total horror. In latter years it actually came to be pretty goofy stuff, with the most bizarre samples inserted, like babies crying, people burping and sneezing, and other avant-garde musical interludes. The less sensible, however, ventured into this sonic territory, and I have to tell you: this is, bar none, the most evil, depressing, gut-wrenching, "no hope for mankind's impending war against the machines" music in the world. Like most genres, best--and also best for your acid trip--in small doses. But subject yourself to a whole night of this terror and you'll WANT the madness to leave your head by the morning, and you're damn prepared to end it yourself with your brain firmly smushed into the nearest brick wall. I sincerely think this is a secret government torture weapon that accidently escaped to the public. No one can be this sadistic, can they?
 
@@ -816,20 +813,20 @@ in the Hard Dance group,
 Hard. Acid. Trance. It's kind of actually like Goa, only without all the hippy shit. That makes it better by default. Pretty interchangeable with Hard Acid Techno, though the major difference seems to be where this genre seeks to fill dancefloors, the techno variant will scheme ways to FLATTEN dancefloors. Either way, they are the twin masters at making the little 303 box squeel with glee. Like Progressive Trance's patenting of the breakdown-build-anthem formula, Hard Acid Trance can also lay claim to a similar-styled gimmick for quick, cheap, instant acclaim: the "drop the music for one or two bars, and then bring it all back motherfucker" technique. And like Progressive Trance, the formula was used credibly here, but then overused to the point of ad nausium by its offspring--namely, NRG.
 
 
-## NRG: Nu Nrg, Hard Nrg, Hard Dance
-*aka:  Nrg* in the Hard Dance group, emerged in 90s
+## NRG
+*aka:  Nu Nrg, Hard Nrg, Hard Dance* in the Hard Dance group, emerged in 90s
 
 It's actually really decent in small doses. Being forced to endure an entire set of it will grate on you, however, and having to go through an ENTIRE NIGHT of it--as I was victim to, many many times--gets excruciatingly mundane. The problem is the music just doesn't let up--ever--and no, you stupid ravers, that is not a good thing. Parties build on tension and release; NRG's go-go-go ethic just flatlines the entire experience, with track after track after track of the same idiotic shit. There are a group of genres that pride themselves under the monicker Hard Dance (which includes Happy Hardcore, Trancecore, Freeform, and Stupid House) and are harbingers of a culture infatuated with its own attitude that, given the chance, will set your teeth on edge even more than the music will. Best to just ignore them. They're too high on crystal and nordic-tracking to NRG music to pay much attention anyway.
 
 
-## Hardstyle: Really Hard Trance, Hard Dance
-*aka:  Hardstyle* in the Hard Dance group, emerged in 00s
+## Hardstyle
+*aka:  Really Hard Trance, Hard Dance* in the Hard Dance group, emerged in 00s
 
 As what usually happens in the creation of new genres, you take one specific thing that makes another genre cool, and revolve your new genre entirely around it. So this is what happens when artists go "hey, that thunderous beat and bassline and squelching synthline sounds really cool". Whamo, there you go: new genre (or nu, I should say). Eventually, Nu Style Gabber producers started noticing it, so they dived right in, thinking "hey, no problem. We can make this shit too." What's the difference between them? About 30 bpm. Play your Nu Style Gabber records at -8, and Hardstyle is born. But it's still not hard enough to be included among the Hardcore genres. Though maybe that Hard Dance subgroup.
 
 
-## Anthem: Mctrance, Stadium Trance, Arena Trance
-*aka:  Anthem Trance* in the Eurotrance group, emerged in 90s
+## Anthem: Anthem Trance
+*aka:  McTrance, Stadium Trance, Arena Trance* in the Eurotrance group, emerged in 90s
 
 Progressive Trance actually had a pretty good idea. There's nothing wrong with some tension and release in your song. That's what people listen to music for. To bring the music down to a crawl before exploding out with a crescending climax is one of the best tricks in music. And besides, if the DJ's too stupid and inept to figure out how to provide adequate tension and release during his sets through careful track selection and record management, why not do it for him, essentially removing any skill he thought he might've needed to have in order to be a good DJ. Breakdowns, builds, and memorable melodies are not a new thing in trance. But what Anthem Trance did was completely and totally abuse and pervert them. Where Progressive Trance used them to somewhate accentuate the moment (like say a lull before the main synth kicks back in), Anthem Trance used them for the track's entire purpose. This cookie cutter, by-the-numbers formula dominated the english club scene and trance, once the quirky kind of music with only a niche market, reformed itself into a neverending series of pop jingles and by doing so supplaunted house as the most popular dance music in the world.
 
@@ -852,8 +849,8 @@ Epic Trance is the gateway genre into the world of rave for most people, so if y
 This is the only genre I would trust with any uplifting, euphoric melodies. There's a stark contrast between this and the forced-upon, pompous schlock that seeps out of the Epic Trance. I'm not sure why, but without ever having been there this music seems to capture the mood of a soft, Mediterranean sunset perfectly. Soft and wistful music without being trite and limp. It's probably because of its use of string instruments, like spanish guitars and mandolins and other Mediterraneany things, like oceans, birds, and other things borrowed from Ambient Trance. This genre is actually much, much older. It came out of Balearic House in the 80s, and named after the Spanish island that is now an expensive, overcrowded trashy tourist trap.
 
 
-## Progressive: Progressive House???
-*aka:  Progressive Trance* in the Eurotrance group, emerged in 90s
+## Progressive: Progressive House
+*aka:  Progressive House???* in the Eurotrance group, emerged in 90s
 
 Progressive is a pretty pretentious word to begin with, so if you're bold enough to actually call your genre anything like that you better have something pretty fucking impressive, groundbreaking and forward-thinking to call it that. Like, music that will make you fly or breathe underwater or something. Since that's the case, Progressive Trance is easily the most misnamed genre in the history of music. In the annals of trance, it made huge leaps backwards. Most oldskool trance enthusiasts admit that they stopped listening to trance right after Progressive Trance came around (legend states around 96 or so). The genre doesn't actually do anything new or inventive. But what it DID do was codify--that is, write in literal stone--the trance template of breakdown-build-anthem, an infused pop gimmick that all of a sudden made this strange, space-age music suddenly acceptable to the sonically docile masses. No longer long, unwieldy, repetitive and unresponsive, trance became a familiarity, an image, associating itself (and its artists) with all the trappings that keep the pop music world intact. It all went downhill from here.
 
@@ -864,8 +861,8 @@ Progressive is a pretty pretentious word to begin with, so if you're bold enough
 I can't decide if this is trance with orchestrations behind it, or swelling orchestral scores that include a drum machine (or some kind of trancey rhythm section), or trance that samples orchestral strings, or maybe it's just another stupid name in Epic Trance's nitpickingly long list of accolades. I know what it is NOT, though: crappy remixes of film and classical pieces (yeah, I'm looking at you DJ Sakin, Cygnus X and William Orbit, you turds). However much of it is out there, I can't tell. But I'll put it up when I find some worthy enough to be called "symphonic".
 
 
-## Dutch: Super Saw Mega Trance, Fake Trance
-*aka:  Dutch Trance* in the Eurotrance group, emerged in 00s
+## Dutch: Dutch Trance
+*aka:  Super Saw Mega Trance, Fake Trance* in the Eurotrance group, emerged in 00s
 
 If I roll my eyes any harder, they're going to fall right out of their sockets. As a good friend of mine once said: "Come on. Get on with it already. I can only hold my arms in the air for so long." Let it be said that electronic music NEVER learns how to 'leave the audience wanting more'. Instead, like a spoiled, immature little child, it shamelessly and greedily exploits any whiff of success it sees, to cartoonish extremes. Which is why we have this. Yeah, I know. It sounds like a really bad and corny Hollywood love scene, doesn't it? Somehow, a mutant form of trance evolved from Epic drenched itself in the breakdown-build-anthem formula and senselessly driven it to new, insane levels of assinine. In doing so, it stopped becoming trance. Some songs have ridiculously long and drawn out breakdowns, lasting well over 3 minutes or almost half the length of the entire fucking track. Each new release tries to outdo last week's hit anthem, reaching higher and higher, making the genre louder, fuller, and more exalted and grandiose. Good god, does this ever suck. The way megatrance producers shamelessly cash in on a particular sound is insulting sometimes. How can anyone take this trite, derivative garbage seriously? What the hell is this, anyway? It's bombastic melodrama; a pompous, over-the-top, monstrously grotesque caricature of what trance used to be. The final betrayal. Trance is dead. Ferry Corsten killed it.
 
@@ -878,16 +875,18 @@ Wouldn't it be great if this genre existed? It would be the one redeeming featur
 
 ## Break: Breaktrance
 
+
 Like rats scrambling from a sinking ship, Progressive Trance and Anthem Trance producers escaped the banality of the builds, breakdowns and chorus melodies when it was declared by the genre's elite (read: Sasha and Digweed) as being thoroughly uncool to keep playing the stuff. So they latched onto the other genres as a way to stay ahead of the pack. Break Trance (Breakbeat), Tech Trance (Techno) and Deep Trance (House) are such genres created in the wake of the Great Anthem crash.
 
 
 ## Dark: Dark Trance
 
+
 Trance crackers might be aghast at the thought that a blissful genre like trance could actually be.....*gulp*.....DARK....but in truth dark, evil-sounding trance was around before all the flighty, angelic crud. Trance, in its very basic form, is very cold and unfeeling stuff. Staccato synthlines, twitchy pulses, the subservience to technology. It's no wonder the underground rivetheads picked up and understood this sound before the mainstream maaaah-sive club patrons did.
 
 
-## Deep: Housey Trance....Or Trancey House
-*aka:  Deep Trance*  emerged in 90s
+## Deep: Deep Trance
+*aka:  Housey Trance....Or Trancey House*  emerged in 90s
 
 Like rats scrambling from a sinking ship, Progressive Trance and Anthem Trance producers escaped the banality of the builds, breakdowns and chorus melodies when it was declared by the genre's elite (read: Sasha and Digweed) as being thoroughly uncool to keep playing the stuff. So they latched onto the other genres as a way to stay ahead of the pack. Break Trance (Breakbeat), Tech Trance (Techno) and Deep Trance (House) are such genres created in the wake of the Great Anthem crash.
 
@@ -910,24 +909,26 @@ Technically all trance is tribal at a ritualistic level, it being the one musica
 This, along with Classic Trance (they both pretty much came out about the same time, and are interchangeable, as Classic Trance was mostly acid anyway), best represents what REAL Trance is supposed to feel like. Trippy. Fluent. Hypnotic. Very long and repetitive. Once trance got ahold of the 303, dinner was served. The squiggly rhythm box is tailor-made for sci-fi soundscapes and oscillating patterns, and it's a shame to think that the Acid Trance churned out a decade ago was more thoughtful and interesting than the canned sounds coming out today. Not drug music, but best appreciated by drugs. If Retro trends have anything to say about it, Acid Trance will once again be cool to listen to in about.....7 years. One can only hope.
 
 
-## Classic: Trance
-*aka:  Classic Trance*  emerged in 80s
+## Classic: Classic Trance
+*aka:  Trance*  emerged in 80s
 
 Not a genre (that I know of) yet, but it might as well be. Trance is old enough to have one now, like House and Techno are. And the reason why is because this music encapsulates what I think of when I hear the word trance. Music that rewards paying attention and looking inward, on a meditative level. Music that you can get lost in. Parties that last several days, and songs that last 8 hours. You don't hear that anymore. Today Trance is either a sequence of disjointed, disaffected, unrelated predictable anthems laid out one after the other (hardly entrancing), or is completely overshadowed and drowned out by the posturing and hero-worship of people who really do nothing more than operate a glorified stereo.
 
 
 ## German: German Trance
 
+
 DIES IST TECHNO SEX!! OONCE OONCE OONCE OONCE OONCE OONCE OONCE OONCE! This is the goofiest, poppiest trance music that exists, but like its very eurocentric sister Eurodance (which emerged around the same time), it's not all that bad. Primarily for two reasons: 1) Acid and 2) It doesn't seem to take itself too seriously, and if it does bombard you with pompous anthems, they're merely to speed things along. That is, not dwelling on heavy, uplifting, emotional shmaltz. But especially the acid. From this genre came two offspring: one took just the acid and became Hard Acid Trance. The other took just the bouncey basslines and became NRG. There's nothing wrong with straight-ahead, dancey pop beats. Music is never meant to change your life or give you a new car; it's escapism pure and simple. Sometimes I wish trance would understand how stupid it's making itself look by even trying to be something else.
 
 
-## Hi NRG: Hi Nrg
+## Hi NRG
+
 
 I'm completely confused as to what this is or was or is trying to be. Part Italo Disco, part Synthpop, part EBM, part Electro Boogie, all 80s. And any one of the artists or labels or songs here could easily be classified under the others. So this is like the jumping off point for other things. The signifying feature seems to be that it's like any ordinary 80s pop-dance, only heavy on those buzzing, spitting synths that have since become the ubiquetous trademark feature of this whole genre (no, not the anthems, dumbass). I guess you could call it proto-trance. In much the same way that a cow is proto-food.
 
-------------------------------------------------------------
 
 # Techno
+
 
 Techno is the depressing, gritty dystopian genre, a musical personification of the industrial, recession-sacked automotive industries of Detroit in the late 80s.The term was lifted from Alvin Toffler's book "The Third Wave", and by 1990 it had become the music press' fancy word for everything electronic. With that said, it makes sense that the best stuff isn't coming from that city anymore, since the word hardly represents the music--even when used in the proper context. But what it lacks in soul it more than makes up in purity of sound and a mythology so romantic that it can't possibly figure out what to do with itself anymore.
 
@@ -983,8 +984,8 @@ If, by chance, you are on the 313 list and you disagree with what I've said here
 The Detroit guys weren't completely oblivious to what was going on around them in New York and Chicago at the time. In fact, on many occasions, they (well, okay, it was really just Derrick May and Kevin Saunderson) tried to recreate the bumpin', soulful house grooves of their sister cities, but their tracks still came out sounding kind of sinister and mechanical. Not warm and friendly like house, but cold and impersonal......like techno! This early movement was classified as Detroit's House sound (hence: Detroit House), but it's really proto tech-house. In much the same way that dinosaurs are proto-birds. In other words: extinct long ago, and still much more interesting than anything current.
 
 
-## Acid
-*aka:  Acid Techno*  emerged in 90s
+## Acid: Acid Techno
+*aka:  Acid*  emerged in 90s
 
 If Acid House started the whole lovey-dovey, second Summer of Love, Hippie Culture The Sequel: This Time It's Ecstasy, happy face and dayglo clothing scene, then Acid Techno sought to destroy it. And it damn near did, showcasing the versatility of the 303--where one form of music saw it as lukewarm and druggy, another saw it as sour and remorseless. All of this, however, is really just a prelude to the real king of acid music: Hard Acid Techno.
 
@@ -997,6 +998,7 @@ Casiocore. As in...the music of actual 80s Casio keyboards. This may be a growin
 
 ## German: German Techno
 
+
 You'd think they'd be really good at it, what with Kraftwerk starting the whole unfeeling, mechanicalistic techno paradigm in the first place. But in truth German Techno sounds a lot like Tech Trance. Or Techno Trance. Trancey techno, if you will. If it's the full-on, hardened percussive stuff you're looking for, you're better off skipping this and just heading over to the Swedish guys, who do it a lot better. There is a really abrasive, swedish-techno-sounding sub-subgenre, however, that has emerged called "Schranz" (whatever the hell that means). It is particularly good. You can tell which ones are which. Or maybe you can't.
 
 
@@ -1008,10 +1010,12 @@ Party culture's second generation took the harder, more obscene elements of Rave
 
 ## Hard Acid: Hard Acid Techno
 *aka:  Acid, Filthy Acid Techno*  emerged in 90s
+
 Here we go: the genre that reveals all the awesome, destructive power of the little silver box. Hard as fuck acid techno. Acid that'll kick your ass so hard you'll be shitting shoes for a month. This is the kind of music everyone listens to before doing something destructive. Sports teams listen to it before a big game, politicians listen to it before a speech, armies listen to it before they go to war, kids listen to it before they clean their rooms. I bet God was listening to it before he made humans.
 
 
 ## Industrial: Industrial Techno
+
 
 Techno and industrial actually go pretty well together, since they both worship mechanicalism and abrasive technology so much. When most people think of "industrial techno", however, they probably think of the commercial stuff that makes teenagers shoot their classmates. Well....no. That's not industrial techno. This is. Pay attention, stupid media people.
 
@@ -1036,15 +1040,18 @@ I don't think this was such a good idea. The inhumanity of machine presses with 
 
 ## Swedish: Swedish Techno
 
+
 This is what people should think of when they DO hear the word "techno". Something completely and totally machine-oriented, using drum patterns and rhythms as melody. After awhile, it actually begins to sound like it, too. Cool eh? If the Americans don't watch out their European counterparts are going to start making their music better than them (if they aren't already). And Americans hate it when they get upstaged. Sweden already conquers the world's pop music (90 percent of all boy band/popgirl producers are swedish). They also make great furniture, produce kickass hockey players, and have good looking women. Gee. Is there anything that country CAN'T do? I want to move there someday.
 
 
 ## Tribal: Tribal Techno
-*aka:   Tribal*  emerged in 90s
+*aka:  Tribal*  emerged in 90s
+
 If you're wondering what the difference is between Tribal House, Trance and Techno, no one really cares. Tribal is Tribal, for that is how any sane record store or music pool will catalogue things. But here's a handy maxim to carry along to make sense of the redundant: Tribal House has a groove, Tribal Trance has a synth (and, more often than not, wailing middle eastern/hindu chant), Tribal Techno has a percussion. Though not always. Tribal rarely gets the respect it deserves.
 
 
 ## Euro: Euro Techno
+
 
 Kind of a hodgepodge of stuff, really, because at the time standards hadn't settled in yet (read as: musicians weren't boring and unoriginal hacks ripping off each other's concepts). This is the post-acid house era music (by 1989 the word "acid house party" was already old and busted; the new hotness was the word "Rave"). But before the mental mantasm of hoover-driven rave tunes had shown up, there was this. Not quite house. Not quite techno. Not quite ambient. What was it? Not sure. Call it techno. Everything was being called techno anyway. Only with a slightly "euro" feel to it. Hence: eurotechno. 
 
@@ -1057,11 +1064,12 @@ Video Game Music. Since our entire generation grew up playing Super Mario Bros. 
 
 ## Experimental: Experimental Techno
 
+
 And then eventually someone comes across the not-so-brilliant realization that if you pretty much loop anything, like a car door slamming or a dog barking (these are actual tracks), it becomes music. Well, duh. But then why go on to say that you are embarking on something progressive and forward-thinking simply because no one else on the planet sees the inherent musicality in scratching tree bark or distorted club soda fizz. And while I commend those willing to noodle around with all sorts of soundscapes and sonic textures, Experimental Techno is really a hit-n-miss genre. Mostly it's miss. Like peeing into a test tube. Every track that has a stroke of brilliance hardly makes up for the hours and hours of sludge that these producers churn out on a daily basis.
 
-------------------------------------------------------------
 
 # Breakbeat
+
 
 Breakbeat is the genre with the most history and, arguably, the most success, which explains why, in this day and age, it is the most fractured music with the most hangups with just about everything else. It's problem has to do with the fact that it now tries too much to sound like itself, using prestige and tradition to get by where talent and ingenuity can not. For what it's worth, the most interesting sounds coming out of Breakbeat can mostly be found on mainstream Top40 radio rather than the romantic underground scene it claims to have ties to.
 
@@ -1188,15 +1196,18 @@ The West Coast sound. Techy breaks, digital, skippitty-skip-skip breaks, hence t
 
 ## Dark: Dark Breaks
 
+
 They're actually not all that dark, but they're moody, gritty, and not all that clean and smooth. Pretty much a segment genre of Nuskool Breaks that take its hard driving basslines to logical extremes. Most subgenres seem to be bred that way: they take the single most popular element of another genre, and then revel in it. To an almost cartoonish extent (for perfect examples of this, listen to Rave and Oldskool Rave Hardcore...and Epic Trance). This would be like figuring out that the most pleasing part of your morning cereal is the sugar you put in it, so why not skip the bran flakes and have nothing but milk and sugar for now on. Less is more. Except in this case, because Dark Breaks is actually pretty good.
 
 
 ## Florida: Florida Breaks
 
+
 Florida Breaks is like Funky Breaks but without the funk. Yet it has more bass (though not as much bass as Miami Bass' bass). And then added are samples, sirens and whistles (ugh, whistles....*shudder*) and also overblown egos. Ballcaps and hoodies everywhere. Every major genre has at least one big 'jibtek' genre that is immensely popular only among skinny, pale teenagers hiked up on amphetamines. In House, it's Stupid House (obviously). In Trance, it's NRG. For Breaks, its this here. The Florida sound. If you honestly remove all the newbie ravers and their friends offering them drugs, this genre does not exist, and Icey is flipping burgers instead. That's it.
 
 
 ## Funky: Funky Breaks
+
 
 Funky Breaks...that is, REAL Funky Breaks, never gets the respect it deserves. Like Chemical Breaks, it seems to have fallen by the way side back in the last century and now everyone either plays Nu Skool or Florida Breaks, and again that's just a crying shame. Look how many god damn genres there are here, people. For fucks sakes, if you're a breaks DJ, try playing something NEW for once. Or OLD, if it comes to that. DIVERSIFY. How can you morons call yourselves DJs when you neglect most of the music that's out there?!?
 
@@ -1239,6 +1250,7 @@ A style that's been around at least since the late 80s, this is what you get whe
 
 ## Electro Funk
 
+
 This music fucking kicks ass!!! This is also Dr. Dre's secret stash. Whenever he's stuck for a drop or a hook in a groove, he will undoubtedly return to the well--the electro funk period of the early 80s--and rip off something by Zapp and Roger. Thomas Bangalter too. The kings of the vocoders and talk boxes are here! What differentiates it from electro? Well, less emphasis on the rapping/hip hopping, and greater emphasis on its direct parent: DA FUNK! And the beat is less syncopated; it's actually a 4/4 groove (shouldn't this be in the House section then?) By the 80s, big horn section funk bands were out, and synthesizers were in. Let robot funk reign supreme!
 
 
@@ -1247,9 +1259,9 @@ This music fucking kicks ass!!! This is also Dr. Dre's secret stash. Whenever he
 
 For the most part, this is really just Anthem Trance remixed with breakbeats by breakbeat producers. That's different than Breaktrance, which is Anthem Trance producers making breakbeats that sound trancey. Understand? Neither do I. Still, this is the genre people will get into when they've gotten to the point where they feel they are much too mature and sophisticated to be listening to that childish, cheesy trance music with all the 16 year old, glowstick-wielding poptarts anymore. Well, either this or Jump Up jungle.
 
-------------------------------------------------------------
 
 # Jungle
+
 
 Jungle is the sole aggressor of the genres. It is also the only genre that might lay claim to having been invented solely in the 90s, even though it's not. The antithesis to the bright, flashy schmaltz that some of the other genres exhibit, the black sheep of the electronic family is rough, abrasive, crusty, dirty, and full of swaggering machismo. Even its namesake speaks of raw, primitive militarism, lending fashion and behavior tips to its aficionados. The cleaner variant of Jungle, Drum n Bass, a term invented by the music press before there was a sound to signify it (one of the few genres where the actual name predated the existence of the music), is very formulaic, clean and smoothed out, and hence trendy to those who like to be junglists but the cut-up sounds of jungle just aren't palatable to them.
 
@@ -1266,7 +1278,7 @@ This stuff is so fucked up, sometimes my head explodes when I listen to it. A ca
 If the naysayers have been complaining a lot that electronic music just sounds like a cd skipping over and over again, you can now show them this genre as verifiable proof that YES--indeed, that is what the music is doing. clicks, cuts, scratchy, sped-up samples, and everything but the kitchen sink. This is sound collage music, put together with all the skill and ingenuity of a 5 year old finger painting. And Glitchcore rules for that stupid fact alone.
 
 
-## IDM: Idm
+## IDM
 *aka:  “Intelligent“ “Dance“ “Music“, Artcore* in the Braindance group, emerged in 90s
 
 This is the oddest named genre in the entire world, since it's not easily danceable, it's not certifiably intelligent, and it's arguable as to whether it constitutes as actual music. This is the realm of the uber-pretentious electronic music afficionados, with razor-thin eclectic tastes, who spend most of their waking energy arguing about what IDM is and what IDM isn't. But I guess that depends on what your definition of 'is' is. That's why it's the one genre that doesn't have any kind of cohesive sound. That's also why some of them despise the term "Intelligent Dance Music". So just ignore them. It is fun to listen to, after all.
@@ -1292,6 +1304,7 @@ This is about the first genre that tried to make sense of all the spastic breakb
 
 ## Darkstep
 
+
 Not to be confused with Darkcore, which is the early 90s progenitor of dark, fast, evil jungle. This is DarkSTEP, which is the late 90s progenitor of dark, fast, evil jungle. The beats are more percolating and rolling, and the basslines just growl and bark at you....you swear they're actually saying something, if you could speak canine. Any music genre that eats junglists for breakfast while insulting your mother has got to be a good one. Probably the best name ever to make this kind of music: Dieselboy. Heh. 
 
 
@@ -1303,6 +1316,7 @@ Jungle lite. When the genre finally smoothed over some of its erratic edges, onl
 
 ## Hardstep
 
+
 Don't confuse Hardstep with Darkstep, though you might as well call it Darkerstep. This is the mid-90s precursor to Techstep, when the familiar two-step drum pattern (boom cha, boom-cha) started infiltrating all areas of the genre, which coincided with the replacing of the word 'jungle' with 'drum n bass' in scenester circles and self-important music magazines. Have I said the word 'step' enough?
 
 
@@ -1313,6 +1327,7 @@ Every genre has its token "vocal" subgenre where all the divas like to holler to
 
 
 ## Jump Up
+
 
 Every song is exactly the same!!!! EVERY GOD DAMN FUCKING SONG!!! The only thing that changes is the stupid rolling basslines--and not by much. Heh. This is worse than Anthem Trance in its predictability, its formulaicness, its dilapidated sense of value or worth. I once thought of making an Aphrodite music generator where you choose your hip hop sample, your intro scratch, and then your bassline, hit the "mix" button and away you go: insta jump up tune. Making music out of templates is boring, guys. Stop it already.
 
@@ -1331,10 +1346,12 @@ History has since given it the name Oldskool Rave Hardcore, but back then it was
 
 ## Techstep
 
+
 Yeah, like who couldn't see this one coming? Two-step at its finest, with the ole "buzzing beehive" background noise. Junglists like this one a lot. Even the poser ones in their lil hoodies wearing those 3/4 length flood pants like a bunch of fucking twats. Yeah, you know who I'm talking about. The kind of kids who, if Ecko made its own ice cream they would start eating it just to say it's better than all other ice cream. Yeah. They all like this a lot, though not as much as Jump Up.
 
 
-## Jungle
+# Jungle
+
 
 Tone down the silliness of Oldskool Rave Hardcore and maybe add a string section or two--sans Jamaican vocals--and you have Jungle, the raw, uncut purity of the sound before it developed all those "steps" cookie cutter drum preset patterns. More than the other genres (even techno), Jungle artists tend to be all over the map. They will release a soulful Jazzy track one week, and then an evil, growling track the next. They don't worry about pet genres or niche sounds too much. Everything is fair game. 
 
@@ -1356,21 +1373,21 @@ In the early going of the 21st century, the one form of music that's been the mo
 
 This is just waaaay too much fun to be ignored!! It makes you dance and laugh. Finally, a jungle genre that's not trying to be hardcore and edgier than thou. Silly, happy party music. What's wrong with that? Enough attitude, let's get down and boogie. Life isn't all machine guns and urban warfare, you tarts. Take your damn hoodies off and stay awhile. Trancestep is going to show you the way, since all things Synthron-Electroclash-robotglamsynthcorepop were blowing up in the new millenium, some keen dnb artists decided to ride the wave, only inserting the two-step drum pattern where applicable. The result is this: Trancestep. Jungle's final redemption! Well, okay, so only John B is doing it. The rest sound too much like Neurofunk, but keep in mind this genre is relatively new, so just wait for more tracks to come out. Hopefully.
 
-------------------------------------------------------------
 
 # Hardcore
+
 
 Hardcore is the musical genre with bi-polar disorder: one half is blistering, sadistic anger, a seething uncontrollable rage that seeks to ruin and wreck everything that exists, including everyone else's fun time. It is hardcore's mission to inundate the world with pointless, seering sonic hell, insisting every chance it gets that it will never be defeated, can not be killed, and refuses to go away no matter how much people want it to. The other half of hardcore is way too silly and stupid to take such anger seriously anymore.
 
 
-## Happy: Happycore
-*aka:  Happy Hardcore* in the Hard Dance group, emerged in 90s
+## Happy: Happy Hardcore
+*aka:  Happycore* in the Hard Dance group, emerged in 90s
 
 Happy Hardcore is like the spoiled little sibling of the Hardcore family, who got all the breaks, all the looks, all the money, all the chicks and all the successes of life without having to work for it. Just about despised by every other genre, Happy Hardcore is the most popular Hardcore music of all, with its signature chipmunk vocals and silly sing-a-long anthems and shameless hug-a-thon optimism that pisses everybody off to no end. This is the core realm of the candy ravers. Some of the stuff feels so godawfully childish that I feel like a pedophile just listening to it, but its not all bad. Truth be known: ALL the world's Happy Hardcore is made by only 12 guys, who have more pseudonyms than a shark has teeth, and who churn it out at such a feverish pace you'd almost think that there's probably a program that makes it for them. Just randomize the key values, get Sugar from YTV to sing the lyrics, and away you go.
 
 
-## Happy Gabber: Bouncy Techno
-*aka:  Happy Gabber* in the Hard Dance group, emerged in 90s
+## Happy Gabber
+*aka:  Bouncy Techno* in the Hard Dance group, emerged in 90s
 
 It's basically gabber, but with those off-beat circus-like Happy Hardcore stabs. Or it's gabber with really silly and awful lyrics (which shouldn't be confused as the cutesy girl sing-a-long Happy Hardcore lyrics) or samples and quotes that are really really really.......dumb. So I guess like Happy Hardcore, only not so happy. It's more like stupid. But fun! And cheesy, but not as cheesy as Gabber House. Ummmmm....yeah. It's the MOR of Hardcore genres.
 
@@ -1387,13 +1404,14 @@ in the Hard Dance group,
 Trancecore and Freeform artists, labels, compilations and music do a lot of bleeding, so don't feel ashamed if you can't tell the difference between the two. Basically, if its hard and driving and trying to fuck you up, it's probably Freeform...and if it's uplifting and epic, then it's a Trancecore track you're listening to. Be on the lookout for recycled anthems from Anthem and Epic Trance (as well as that nauseating "NOT Trance" shite). It's actually pretty tolerable, probably because there's no room nor time for 3-minute long breakdowns in Hardcore.
 
 
-## Freeform: Acidcore
-*aka:  Freeform* in the Hard Dance group, emerged in 00s
+## Freeform
+*aka:  Acidcore* in the Hard Dance group, emerged in 00s
 
 What a meaningless name for a music genre. Fucking FREEFORM?!?!? What the hell does that mean? That could be anything, from chaotic dissonance to a Beatles jam session. But it mostly chooses to be re-constituted Happy Hardcore and Trancecore, mixed in with lots of acid. But in a "free" form of way, or something. It's basically just the next level for the never-say-die world of childish ritalin happy beats. Freeform is a lot like Happy Hardcore, but without all the cheese. Or like really fast Progressive Trance, but without all the annoying anthems. Or like NRG, but without all the stupid. 
 
 
 ## Digital: Digital Hardcore
+
 
 Punk-infused Hardcore. It's really just the sound of one guy (Alec Empire) and then maybe others who come into contact with him. It's also got that radical, anti-authoritarian edge that angsty rebellious teenager types seem to love so much. Basically thrash metal with drum machines. If you can make out what anyone is saying in any of their tracks, you've gotten further along in it than I have. Though on cool summer days some Atari Teenage Riot can be very refreshing!
 
@@ -1412,6 +1430,7 @@ Holy shit is this ever cheesy. What is this even doing in Hardcore? It sounds li
 
 ## Metalcore
 
+
 Metalcore is, like Symphonic Trance, one of those obscure genres, in that no label or artist (that I know of) deals in it exclusively, but every once in awhile something will come out. I'm still trying to decide whether it's just heavy metal bands using thundering drum machines (gotta love that distorted 909 bass beat), or gabber producers using guitar samples ala Buttrock Goa. Hardcore and Heavy Metal are kin, after all, in much the same way that cheese and butter are kin.
 
 
@@ -1427,8 +1446,8 @@ Noisecore is not music insomuch as it is anti-music. It is a recreation of the s
 Ah yes, the official genre named by Tim 'The Toolman' Taylor. He even provided pads and leads for a few of the tracks too, using his trusty Binford cordless screw saw drill wrenching spork. He asked Al to track some vocals, and he replied with "I don't think so, Tim". Seriously though, this is where noize gets its inspiration: the avant-garde industrial experimentalism of the 80s. Since then, no new ground has really been covered, so instead of going for originality, producers have elected to go for volume. There's actually several subtle styles within this infinitesimally small community (Power Noise being one of them), but....let's be honest, here: it isn't necessary to put those genres up, is it? It's not like you're springing at the chance to listen to them. Just take comfort in the fact that they're there, and people actually like the stuff.
 
 
-## Rave: Hardcore
-*aka:  Rave*  emerged in 90s
+## Rave
+*aka:  Hardcore*  emerged in 90s
 
 Techno-rave: Big booming bass, big booming hoovers, big booming stadiums. If New Beat was set up to challenge the ecstasy-induced lovey-dovey acid house honeymoon that rave culture was enjoying, then this was determined to crush it. The music just kept getting harder and faster. The effect: get out there, get off your head, and make some fucking noise! The innocent "acid house parties" were gone, replaced by the unbridled, unorganized chaos of the one-night free-for-all, a bachanale so wild, insane and fucked up beyond any understanding that it could only be summed up in the genre that gave the culture its namesake and an identity to be reckoned with: RAVE. Spiral Tribe represent!
 
@@ -1441,10 +1460,12 @@ Gabber, or 'Gabba' as it's affectiontely known, is Dutch or Flemish or some fuck
 
 ## Speedbass
 
+
 What is Speedbass? Your guess is as good as mine. As near as I can figure, it is defined as the genre that has no official definition. These tracks are the first tracks I pulled off the random downloads section of speedbass.net (for ALL your speedbass needs!) and they're as good a representation of the genre as any. Emerging from the mid 90s as a kind of west coast hardcore collective type thing, Speedbass seems to be mostly satirical music, and ranks beside glitch in its gleeful rape, stealing and butchering of pop music tracks. These guys are the best. They're the kind of cool mofos that you'd want to hang out for a weekend at their place, drink beer and make weird, stupid music.
 
 
 ## Speedcore
+
 
 This isn't music, this is just a gigantic dick-wagging, more-hardcore-than-thou staring contest between Hardcore producers to see which of them can be assaulted with "BPM = 1000" on their drum machines and not flinch. I can't possibly think of any drug that would make you want to dance this fast. Or even headbang to it. I get a headache after two minutes of doing that anyway. I guess that's why 90 percent of the tracks are 30 seconds long. It's the music equivalent of holding your breath; that is, if done for long enough, you will pass out.
 
@@ -1460,9 +1481,9 @@ Fast (sometimes), but not as fast as Speedcore. All evilness comes here. Hell aw
 
 You see, in 1988 there was all this lovey dovey acid house shit going on, and even though the music was not as flamboyant and upbeat as it is today, it still wasn't sinister and mean enough for some people, so they took to perverting it with an industrial edge, making it harder, nastier, and also very kinky and provocative, and that fit in just right with the new "rave" movement kicking things into high gear in 1989. Legend purports that this music emerged when some DJ accidently played an acid house record at 33 RPM (not 45, its intended speed). This slowed things really down, to like 100 BPM, and it made the music really sinister and drolling. The trend caught on, and soon producers were making up for its ultra-slow house groove by making the beat harder, fuller, and louder, like a clanging hammer on an anvil. This is one of the greater ironies about Hardcore: that at it's origin it was actually the slowest dance music in existence.
 
-------------------------------------------------------------
 
 # Downtempo
+
 
 Downtempo isn't dance music, it is listening music. For 40 years it has dedicated itself to the exploration of new audio textures and undiscovered sonic soundscapes, often inventing whole instruments and sound kaleidoscopes in its push for novelty. Because of this, the other genres have made a habit of consistently and constantly raiding the atmospheric mood and ambience of Downtempo to employ in their own eclectic styles. But though it doesn't actively seek the spotlight as much as the others, Downtempo will remain as the genre that was here first and will probably be here at the end, since it is the only one driven solely by an insatiable desire for innovation.
 
@@ -1509,8 +1530,8 @@ Hands up how many of you remember Little Thinker cassette tapes? Boy, that's an 
 Musique Concrete. I guess this is as far back as you can go without wanting to define what defines electronic music. The idea behind this is that since every musical theory that exists has already been done before, the only thing left to explore is non-musical music theory. Fortunately, just in time for the post-war experimentalist crowd hellbent on exploring the most non-musical music ever was the emergence of technology with which to make all sorts of non-music music with. Things like magnetic tape and transistors and vacuum tubes. But if you want to know where all that shit came from, go read the tutorial. I personally think that the guys, being musicians first and technologists second, got their hands on all sorts of musical equipment that they didn't know how to use, but they were intellectual enough to bullshit their way through using it by pretending their post-modern crap compositions were really nouveau "art". Of course, in 20 years the tables would be turned: electronic music would be made by science and math nerds who didn't know a shred about music. There's probably a poignant lesson to be learned from all this, but I can't think of one without sounding like a pretentious fucktool.
 
 
-## Acid Jazz: Rare Groove, Jazzdance
-*aka:  Acid Jazz* in the Chillout group, emerged in 90s
+## Acid Jazz
+*aka:  Rare Groove, Jazzdance* in the Chillout group, emerged in 90s
 
 Another one of those confusedly named genres as it is neither Acid nor Jazz. Well, sort of. Sandwiched between Deep House and Trip Hop, this is the Downtempo genre with soul. And groove. And rhythm. And funk. And Jazz. This kind of music is best meant for late-night coffee houses and alternative culture eateries where the waitresses are all short-haired lesbians, the coffee comes in tall glasses, and there's a small smokey stage where a crowd of intellectuals wearing dark-brimmed glasses are listening to some guy in a turtle neck reciting crappy poetry like a bunch of pretentious post-ginsbergian beatnicks. Ooh yeah! Gotsta love that post-modern poetry.
 
@@ -1521,8 +1542,8 @@ in the Chillout group,
 It's really hard to discern exactly what constitutes Ambient Breaks when most of the music is claimed by either the Illbient or Trip Hop or even the Worldbeat crowd. That makes this, by comparison, smaller than the other Ambient genres. That, and also the fact that the breaks scene is much too snobby to admit that it's music can be associated with something calming and melodic like ambient. That's why Jungle doesn't have one. Atmospheric is about as close as it's willing to get. So where would one normally find Ambient Breaks? Why, in car commercials and movie soundtracks, of course.
 
 
-## Downbeat: Not Exactly Trip Hop, Not Exactly Acid Jazz
-*aka:  Downbeat* in the Chillout group, emerged in 90s
+## Downbeat
+*aka:  Not Exactly Trip Hop, Not Exactly Acid Jazz* in the Chillout group, emerged in 90s
 
 Yet another sub-tempo genre. Stuff that's not cool cat daddy-o or saxaphoney enough for Acid Jazz, yet not drearily drolling enough (nor from Bristol) to be Trip Hop. This was huge in the mid 90s. And then it tapered off, like most things do. I don't even know if it's called Downbeat or not. But I'm calling it here, because it has to fit somewhere, and putting the music in either of the other genres is just wrong. It's funny how I'll get emails about this now; half of them saying I'm being way too scrutinizing and specific, and the other half complaining that I'm not being specific enough because I missed Ambient Down Dub Hopcore. Sheesh.
 
@@ -1533,8 +1554,8 @@ in the Chillout group,
 In the electronic music industry, much like every other industry, success never goes to the inventor, but to the exploiter of the invention. Illbient was coined by DJ Olive, who just happens to be a laidback, low-profile, soft-spoken kind of guy, and that does no good in a world where marketers like to take credit for everything. So big, boisterous DJ Spooky pushed him aside and claimed the genre for himself instead. The rest is infamous and pretentious history. The Turntablists like this one a lot....for when the beats just aren't slow enough, they want to bring them down to a crawl. Or a slither. Like a snail across a desert. Or like a music guide maker searching for a clumsy metaphor. Why? Because it's ILL, y0! Jesus, what a stupid word. Who comes up with slang these days, anyway? How did "sick", "bad" and "ill" become compliments? Before long, street kids will be going up to one another: "man, you are a fucking asshole!" "hey, thanx dood."
 
 
-## Trip Hop: Dub Hop, Brit Hop
-*aka:  Trip Hop* in the Chillout group, emerged in 90s
+## Trip Hop
+*aka:  Dub Hop, Brit Hop* in the Chillout group, emerged in 90s
 
 The British music press really only call it this. Everywhere else it's just seen as another welcome addition to the post-hip hop, downtempo breakbeat movement. Everything ambienty and jazzy included. Only this is reeeeeeeaaaaaalllly slooooooooooowww, with female vocals that don't sing insomuch as they just droll around like they quaffed too many quaaludes. Bristol seems to churn out artists the way Seattle churns out grunge bands. I don't find it as fun as the others, though. Leave it to the brits to dullify yet another promising strain of music.
 
@@ -1553,21 +1574,25 @@ Ambient Psy. More like Ambient*SIGH*. Ha ha ha.  This is what happens when Psy T
 
 ## Ambient Techno
 
+
 Ambient and Techno actually go pretty well together. It's a common feature in this scene to see polar opposites attract one another like a magnet. So Techno producers actually put out subdued, minimal, soft melodic compositions all the time, often under not-so-secretive pseudonyms. Also: these tracks make excellent intro pieces for techno sets, as a kind of "calm before the storm" setting before the all-out polyrhythmic assault begins. Cool, eh?
 
 
 ## Ambient Trance
+
 
 Ambient Trance sounds a lot like Minimal Trance, if a Minimal Trance genre existed. Or like Ibiza Trance, only not so...organic. It could also be Ambient Techno or Ambient House, but with this many hair-splitting Ambient genres, who the hell's counting? Would that trance DJs pay attention to this stuff more often, their sets might actually be interesting for once. And that's saying something for a form of music more likely to put you to sleep then make you want to dance all night.
 
 
 ## Dark Ambient
 
+
 You know that creepy surreal music during the end credits of Apocalypse Now? That's like proto Dark Ambient. Halloween music. Horror movie music. Where Ambient is sweet and zen-like in it's mood, Dark Ambient is abrasive and mean-spirited. This is what they call Ambient music in hell. Creepy sound effects and evil movie soundtracks and the like. I think a good idea would be to put prisoners in a doorless cell with this playing 24 hours a day and totally freak them out. Or maybe lock the doors of a chill room (if it has doors) at a party, trapping everyone inside, and subject them to this. Bad trips ensue. Oh yes. Yes, that would do very nicely.
 
 
 ## Electronica
 *aka:  Electronic Music, Edm*  emerged in 90s
+
 Electronica does not exist. Not as a genre or a description. It was coined by the North American music press to refer to the second wave of electronic music's explosion in the late 90s, and exists purely as a marketing buzzword, not any actual quantifiable branch of music (the first wave of electronic music, incidentally, they called 'techno', and, having driven the word into the ground beyond all sense of meaning, they couldn't keep using it if they wished to re-market the music). Daft Punk, Fatboy Slim, Prodigy's 'Fat of the Land', Chemical Brothers and other big-time stars of that period were all called "electronica" at one point or another, but the person who really popularized it in the public consciousness was Madonna and her shallow, William Orbit-produced piss-poor attempt at appropriating trance music as something she invented (Ray of Light). She used that word all the damn time in interviews. God I hate her. So yeah: There is no such thing as electronica. I want each and every one of you to stop calling it that, because it makes you sound like a god damn retard. If you want to talk about the music as a whole, simply call it what it is: "electronic music" (or EDM--Electronic Dance Music--for the club/rave stuff). This is a PSA from the Official Electronic Music Genre Standards and Classifications Consortium.
 
 
@@ -1577,13 +1602,14 @@ Electronica does not exist. Not as a genre or a description. It was coined by th
 To the anarchistic, culture jamming, kopyright liberating post-punk pranksters who make it known that music is free, sampling is an end in itself, not a means. It is both art, canvas, paint and brush. But it is more than just a form of music. It is an ideology, encapsulated within the fundamental belief that art is an expression, not property. It is to be explored, not controlled. Yet this simple recognition of the aesthetic worshipping of sonic liberty has made it the most illegal music in the world. But you know what? They don't care. They will sample anything they damn well please. You can not stop them. They will sample your hit single. They will sample you complaining about sampling your hit single. They will sample you trying to stop them from sampling your hit single. And when you sue them, they will sample that too. They will take anything that fuels culture and powers society, and appropriate it for their own uses. To them, anything you say is simply raw material.
 
 
-## Worldbeat: Ethnic
-*aka:  Worldbeat*  emerged in 90s
+## Worldbeat
+*aka:  Ethnic*  emerged in 90s
 
 Everything that doesn't fit into Western Civilization, with a nice tempo. Or artists who go into the deepest African jungles to sample the noises or go live with the lip-stretching tribe of Borneo to learn the clicking languages of the natives and come back and make music from it in an attempt to convince the rest of us that they are "cultured". Yes, ever since the Beatles visited the Maharishi and came back with sitar strings noosed around their necks, musicians have been relentlessly experimentative with finding out what other cultures think about music, and then exploiting it. This isn't a bad thing, it's just an apparent thing. Just don't ever pretend that you are some ethnically tolerant, globally conscious individual because you bought a Pure Moods cd.
 
 
 ## Ambient House
+
 
 As history would have it, Ambient House is pretty much synonymous with the early 90s Ambient revitalization of Ambient stuff pioneered in the 70s by Eno and company and pussified into New Age and ethnic world music in the 80s, but I'm going to take a more literal route (as I am with everything else on here): it's Ambient with a House beat. The artists and tracks might often be confused for Ambient Trance or Ambient Techno, but they're not. No, I won't explain what the difference is. If this is the last genre you've come to and you can't figure it out for yourself by now, I'm through explaining this stupid electronic music shit to you. Go bug a local DJ about it instead. It's not like anyone else is really going to care at this point.
 
@@ -1594,8 +1620,8 @@ As history would have it, Ambient House is pretty much synonymous with the early
 Ethereal is like Ambient for goths, and technically not electronic music (half the time), but it's important in the development of New Age, Dark Ambient, Darkwave, and other related styles. Ethereal music is a lot of whining and chanting and pagan/wiccan/celtic type stuff, which totally rules if all the mother earth priestesses look like Shannon Doherty and Fairuza Balk. It is also incredibly operatic, melodramatic, dark and morbid....even for goths. 
 
 
-## New Age: Easy Listening
-*aka:  New Age*  emerged in 80s
+## New Age
+*aka:  Easy Listening*  emerged in 80s
 
 New Age. Wow. What can be said about New Age. To start, this likes to cling onto the western post-modern meditative-yoga-pilates-tai chi new age baby boomer pop philosophies trend and not let go (hence the name: New Age). That should give you a hint right there that anyone who thinks The Celestine Prophecy is a good book has the worst taste in music. Unlike Ambient, there is singing here, not all of which are celtic chants, choir crooning or aboriginal jibber-jabber (that's mostly Worldbeat stuff anyway). New Age is floaty, dreamy, and effeminate--even the stuff made by the guys (who have no genitals, by the way). If you have trouble finding it in your local music store, that's because it's in the ADULT CONTEMPORARY section....yeah, beside Celine Dion and Phil Collins, Jesus Christ. The music itself isn't actually all that bad, but the people who listen to it are fucking tools. It's really hard to find a New Age composer these days that you wouldn't wanna rather give a swift kick in the shins.
 

@@ -4,32 +4,30 @@ Structured Data from v2.5 of Ishkur's Guide to Electronic Music. I wanted to pre
 
 # Genres: [View](genres.csv)
 
-~|node|title|aka|type|group|decade|file
----|---|---|---|---|---|---|---
-count|187|187|128|187|96|180|187
-unique|156|183|127|7|15|6|187
-top|Tribal|Hardcore|Tribal|Trance|Hard Dance|90s|hardcore
-freq|4|2|2|37|10|121|1
+-|node|title|aka|type|scene|decade|file|description
+-|---|---|---|---|---|---|---|---
+count|187|187|129|187|96|180|187|187
+unique|156|185|125|7|15|6|187|185
+top|Tribal|Jungle|Tribal|Trance|Hard Dance|90s|hardcore|Like rats...
+freq|4|2|4|37|10|121|1|3
 
 # Network: [View](links.csv)
 
-A genre can be associated with another, edges are undirected but `source` and `target` nodes are loosely based on the decade
+A genre can be associated with another, edges are undirected but `source` and `target` nodes are loosely based on the decade.
 
-~|source|target
----|---|---
-count|188|8
-unique|187|8
-top|house|dub
-freq|2|1
-
-Data is incomplete.
+-|source|target
+-|---|---
+count|305|249
+unique|187|170
+top|hiphop|acidhouse
+freq|7|4
 
 # Tracks: [View](tracks.csv)
 
 Each genre node has a number of representative tracks.
 
-~|file|number|artist|track
----|---|---|---|---
+-|file|number|artist|track
+-|---|---|---|---
 count|1178|1178.0|1178|1176
 unique|179| |1151|1157
 top|italodisco| |Dj Funk|Yeah
@@ -42,13 +40,14 @@ min| |1.0| |
 75%| |6.0| | 
 max| |11.0| | 
 
-
 ## Data Cleaning Steps:
 
 * Load up http://techno.org/electronic-music-guide/ with dev tools on.
 * Click on everything that loads resources (each main page and genre)
-* Extract HAR files: https://github.com/azu/har-extractor
-* Extract SWF Files texts (tracks): https://github.com/jindrapetrik/jpexs-decompiler
+* Extract HAR files: https://github.com/azu/har-extractor 
+`har-extractor techno.org.har`
+* Extract SWF Files texts (tracks): https://github.com/jindrapetrik/jpexs-decompiler 
+`ffdec.sh -export text "swf_data/breakbeat" "raw_data/breakbeat.swf"`
 * Extract connections: SWF is a nightmare. Connections extractred manually.
 
 ## Data Dictionary:
@@ -58,7 +57,7 @@ max| |11.0| |
   - `title`: What loads in description box.
   - `aka`: If available, aka label.
   - `type`: Main section, eg: house, techno, hardcore etc.
-  - `group`: The "group" the genres are in, eg: "funk".
+  - `scene`: The "scene" the genres are in, eg: "funk".
   - `decade`: 70s, 80s, 90s, etc. Roughly, some nodes are on the border in swf
   - `file`: Name of swf and txt file with description.
   - `description`: The text description of the genre.
