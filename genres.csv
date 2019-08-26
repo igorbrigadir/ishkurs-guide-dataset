@@ -1,4 +1,4 @@
-node,title,aka,type,group,decade,file
+node,title,aka,type,scene,decade,file
 House,House,,House,,,house
 Stupid,Stupid House,"Party House, Uk Hard House?!?!? Good God, No",House,Hard Dance,90s,stupidhouse
 Deep,Deep House,Jazz House,House,Funk,90s,deephouse
@@ -7,12 +7,12 @@ French,French House,"Filter House, Tekfunk",House,Funk,90s,frenchhouse
 Funky,Funky House,,House,Funk,90s,funkyhouse
 Latin,Latin House,,House,Funk,90s,latinhouse
 Anthem,Anthem House,"Stadium House, Arena House",House,Europop,90s,anthemhouse
-Epic,'Dance Mix',Epic House,House,Europop,90s,epichouse
+Epic,Epic House,'Dance Mix',House,Europop,90s,epichouse
 Eurobeat,Eurobeat,,House,Europop,90s,eurobeat
-Eurodance,"Europop, Euro, Club House, Handbag",Eurodance,House,Europop,90s,eurodance
+Eurodance,Eurodance,"Europop, Euro, Club House, Handbag",House,Europop,90s,eurodance
 Happy,Happy House,,House,Europop,90s,happyhouse
 Jpop,Jpop,Shibuya-Kei,House,Europop,90s,jpop
-Nu Italo,Nu Italo,Nu Italo Disco,House,Europop,90s,nuitalodisco
+Nu Italo,Nu Italo Disco,Nu Italo,House,Europop,90s,nuitalodisco
 Vocal,Vocal House,Diva House,House,Europop,90s,vocalhouse
 Techno Dance,Techno Dance,Techno,House,Europop,80s,technodance
 Italo,Italo Disco,Italo,House,Eurodisco,80s,italodisco
@@ -29,17 +29,17 @@ Hard,Hard House,"Real Hard House, Chicago Hard House",House,,90s,hardhouse
 Microhouse,Microhouse,"Minimal House, Glitchy Tech House",House,,90s,microhouse
 Progressive,Progressive House,Progressive House,House,,90s,progressivehouse
 Speed Garage,Speed Garage,The Worst Music In The World,House,,90s,speedgarage
-Synthtron,Synthtron,,House,,90s,synthtron
+Synthtron,Synthtron,"Electroclash, Glitchcore, Nu Synthpop, Glitz, Euroclash, Synthcore, Electropop, Robotrash, Synthpunk, Futurepop, who knows what else",House,,90s,synthtron
 Tech,Tech House,Techno-House,House,,90s,techhouse
-Tribal,Tribal,Tribal House,House,,90s,tribalhouse
+Tribal,Tribal House,Tribal,House,,90s,tribalhouse
 Dub,Dub,Dub House,House,,70s,dubhouse
-Brit,"Uk House, English House, Not Progressive",Brit House,House,,00s,ukhouse
+Brit,Brit House,"Uk House, English House, Not Progressive",House,,00s,ukhouse
 Trance,Trance,,Trance,,,trance
-Buttrock Goa,Heavy Metal Goa,Buttrock Goa,Trance,Psy,90s,buttrockgoa
+Buttrock Goa,Buttrock Goa,Heavy Metal Goa,Trance,Psy,90s,buttrockgoa
 Death,Death Trance,,Trance,Psy,90s,deathtrance
-Goa,Hippie Trance,Goa Trance,Trance,Psy,90s,goatrance
-Psychedelic,"Psytrance, Psychedelic Goacore",Psychedelic Trance,Trance,Psy,90s,psychedelictrance
-Psytekk,"Minimal Psytrance, Augh!!!!!!!",Psytekk,Trance,Psy,90s,psytekk
+Goa,Goa Trance,Hippie Trance,Trance,Psy,90s,goatrance
+Psychedelic,Psychedelic Trance,"Psytrance, Psychedelic Goacore",Trance,Psy,90s,psychedelictrance
+Psytekk,Psytekk,"Minimal Psytrance, Augh!!!!!!!",Trance,Psy,90s,psytekk
 EBM,Ebm,"Electronic Body Music, Industrial Dance",Trance,Industrial,90s,ebm
 Electro Industrial,Electro-Industrial,"Agro-Industrial, Post Industrial",Trance,Industrial,90s,electroindustrial
 Futurepop,Futurepop,"Futuresynth, Industrial Synthpop",Trance,Industrial,90s,futurepop
@@ -52,25 +52,25 @@ Goth,Goth,"Goth Rock, Trad Goth",Trance,Industrial,70s,goth
 Industrial,Industrial,,Trance,Industrial,70s,industrial
 Hard,Hard Trance,,Trance,Hard Dance,90s,hardtrance
 Hard Acid,Hard Acid Trance,,Trance,Hard Dance,90s,hardacidtrance
-NRG,"Nu Nrg, Hard Nrg, Hard Dance",Nrg,Trance,Hard Dance,90s,nrg
-Hardstyle,"Really Hard Trance, Hard Dance",Hardstyle,Trance,Hard Dance,00s,hardstyle
-Anthem,"Mctrance, Stadium Trance, Arena Trance",Anthem Trance,Trance,Eurotrance,90s,anthemtrance
+NRG,NRG,"Nu Nrg, Hard Nrg, Hard Dance",Trance,Hard Dance,90s,nrg
+Hardstyle,Hardstyle,"Really Hard Trance, Hard Dance",Trance,Hard Dance,00s,hardstyle
+Anthem,Anthem Trance,"McTrance, Stadium Trance, Arena Trance",Trance,Eurotrance,90s,anthemtrance
 Dream,Dream Trance,Dream House,Trance,Eurotrance,90s,dreamtrance
 Epic,Epic Trance,,Trance,Eurotrance,90s,epictrance
 Ibiza,Ibiza Trance,Balearic House,Trance,Eurotrance,90s,ibizatrance
-Progressive,Progressive House???,Progressive Trance,Trance,Eurotrance,90s,progressivetrance
+Progressive,Progressive House,Progressive House???,Trance,Eurotrance,90s,progressivetrance
 Symphonic,Symphonic Trance,Something Else?,Trance,Eurotrance,90s,symphonictrance
-Dutch,"Super Saw Mega Trance, Fake Trance",Dutch Trance,Trance,Eurotrance,00s,nottrance
+Dutch,Dutch Trance,"Super Saw Mega Trance, Fake Trance",Trance,Eurotrance,00s,nottrance
 Booty ???,Booty Trance???,Ghetto Trance???,Trance,,90s,bootytrance
 Break,Breaktrance,,Trance,,90s,breaktrance
 Dark,Dark Trance,,Trance,,90s,darktrance
-Deep,Housey Trance....Or Trancey House,Deep Trance,Trance,,90s,deeptrance
+Deep,Deep Trance,Housey Trance....Or Trancey House,Trance,,90s,deeptrance
 Tech,Tech Trance,Techno Trance,Trance,,90s,techtrance
 Tribal,Tribal Trance,Tribal,Trance,,90s,tribaltrance
 Acid,Acid,Acid Trance,Trance,,80s,acidtrance
-Classic,Trance,Classic Trance,Trance,,80s,classictrance
+Classic,Classic Trance,Trance,Trance,,80s,classictrance
 German,German Trance,,Trance,,80s,germantrance
-Hi NRG,Hi Nrg,,Trance,,80s,hinrg
+Hi NRG,Hi NRG,,Trance,,80s,hinrg
 Techno,Techno,,Techno,,,techno
 Bangin’,Bangin' Techno,Bumpity Bumpity Boom,Techno,Detroit,90s,bangintechno
 Deep,Deep Techno,,Techno,Detroit,90s,deeptechno
@@ -80,7 +80,7 @@ Minimal,Minimal Techno,,Techno,Detroit,90s,minimaltechno
 Classic,Classic Techno,Detroit Techno,Techno,Detroit,80s,classictechno
 Detroit,Detroit Techno,,Techno,Detroit,80s,detroittechno
 Detroit House,Detroit House,The New Dance Sound Of Detroit!,Techno,Detroit,80s,detroithouse
-Acid,Acid,Acid Techno,Techno,,90s,acidtechno
+Acid,Acid Techno,Acid,Techno,,90s,acidtechno
 Casiocore,Casiocore,Push The 'Demo' Button On Your Keyboard,Techno,,90s,casiocore
 German,German Techno,,Techno,,90s,germantechno
 Hard,Hard Techno,"Hardcore Techno, Tekno, Teknival",Techno,,90s,hardtechno
@@ -90,7 +90,7 @@ Italian,Italian Techno,Italo Techno,Techno,,90s,italiantechno
 Jtek,Jtek,"J Techno, Japanese Techno",Techno,,90s,jtek
 Latin,Latin Techno,Ltech?,Techno,,90s,latintechno
 Swedish,Swedish Techno,,Techno,,90s,swedishtechno
-Tribal,Tribal Techno, Tribal,Techno,,90s,tribaltechno
+Tribal,Tribal Techno,Tribal,Techno,,90s,tribaltechno
 Euro,Euro Techno,,Techno,,80s,eurotechno
 VGM,Vgm,"Chiptunes, Video Game Music, Nintendo",Techno,,80s,vgm
 Experimental,Experimental Techno,,Techno,,00s,experimentaltechno
@@ -128,7 +128,7 @@ Anthem,Anthem Breaks,"Stadium Breaks, Arena Breaks",Breakbeat,,00s,anthembreaks
 Jungle,Jungle,,Jungle,,,jungle
 Experimental,Experimental Jungle,"Experimental, Drilln Bass",Jungle,Braindance,90s,experimentaljungle
 Glitch,Glitch,"Cd Skipping, Glitchcore",Jungle,Braindance,90s,glitch
-IDM,Idm,"“Intelligent“ “Dance“ “Music“, Artcore",Jungle,Braindance,90s,idm
+IDM,IDM,"“Intelligent“ “Dance“ “Music“, Artcore",Jungle,Braindance,90s,idm
 Industrial,Industrial Dnb,Industrial Drum N Bass,Jungle,Braindance,90s,industrialdnb
 Atmospheric,Atmospheric Jungle,"Ambient Jungle, Trip Jungle",Jungle,,90s,atmosphericjungle
 Darkcore,Darkcore,Darkside,Jungle,,90s,darkcore
@@ -145,18 +145,18 @@ Ragga,Ragga Jungle,Dancehall Jungle,Jungle,,80s,raggajungle
 Liquid Funk,Liquid Funk,Disco Jungle?,Jungle,,00s,liquidfunk
 Trancestep,Trancestep,Electrostep,Jungle,,00s,trancestep
 Hardcore,Hardcore,,Hardcore,,,hardcore
-Happy,Happycore,Happy Hardcore,Hardcore,Hard Dance,90s,happyhardcore
-Happy Gabber,Bouncy Techno,Happy Gabber,Hardcore,Hard Dance,90s,happygabber
+Happy,Happy Hardcore,Happycore,Hardcore,Hard Dance,90s,happyhardcore
+Happy Gabber,Happy Gabber,Bouncy Techno,Hardcore,Hard Dance,90s,happygabber
 Nu Style Gabber,Nu Style Gabber,,Hardcore,Hard Dance,90s,nustylegabber
 Trancecore,Trancecore,,Hardcore,Hard Dance,90s,trancecore
-Freeform,Acidcore,Freeform,Hardcore,Hard Dance,00s,freeform
+Freeform,Freeform,Acidcore,Hardcore,Hard Dance,00s,freeform
 Digital,Digital Hardcore,,Hardcore,,90s,digitalhardcore
 Gabber,Gabber,"Ny Style Hardcore, Hardcore",Hardcore,,90s,gabber
 Gabber House,Gabber House,Cheese,Hardcore,,90s,gabberhouse
 Metalcore,Metalcore,,Hardcore,,90s,metalcore
 Noizecore,Noizecore,"Breakcore, Noize, Drop A Cat On The Equipment",Hardcore,,90s,noizecore
 Power Electronics,Power Electronics,Power Noise,Hardcore,,90s,powerelectronics
-Rave,Hardcore,Rave,Hardcore,,90s,rave
+Rave,Rave,Hardcore,Hardcore,,90s,rave
 Rotterdam,Rotterdam,"Gabba, European Hardcore",Hardcore,,90s,rotterdam
 Speedbass,Speedbass,,Hardcore,,90s,speedbass
 Speedcore,Speedcore,,Hardcore,,90s,speedcore
@@ -170,11 +170,11 @@ Minimalism,Minimalism,,Downtempo,Electronic Pioneers,60s-70s,minimalism
 Psychedelia,Electronic Psychedelia,"Psychedelic Rock, Space Rock, Krautrock",Downtempo,Electronic Pioneers,60s-70s,electronicpsychedelia
 Synth,Early Synth,Electronic Music,Downtempo,Electronic Pioneers,60s-70s,earlysynth
 Musique Concrete,Musique Concrete,"Avant-Garde, Modern Composition, Atonal",Downtempo,Electronic Pioneers,50s,musiqueconcrete
-Acid Jazz,"Rare Groove, Jazzdance",Acid Jazz,Downtempo,Chillout,90s,acidjazz
+Acid Jazz,Acid Jazz,"Rare Groove, Jazzdance",Downtempo,Chillout,90s,acidjazz
 Ambient Breaks,Ambient Breaks,,Downtempo,Chillout,90s,ambientbreaks
-Downbeat,"Not Exactly Trip Hop, Not Exactly Acid Jazz",Downbeat,Downtempo,Chillout,90s,downbeat
+Downbeat,Downbeat,"Not Exactly Trip Hop, Not Exactly Acid Jazz",Downtempo,Chillout,90s,downbeat
 Illbient,Illbient,,Downtempo,Chillout,90s,illbient
-Trip Hop,"Dub Hop, Brit Hop",Trip Hop,Downtempo,Chillout,90s,triphop
+Trip Hop,Trip Hop,"Dub Hop, Brit Hop",Downtempo,Chillout,90s,triphop
 Nu Jazz,Nu Jazz,"Fusion, Electro-Jazz",Downtempo,Chillout,00s,nujazz
 Ambient Psy,Ambient Psy,"Ambient Goa, Downtempo Psy, Psy Chillout",Downtempo,,90s,ambientpsy
 Ambient Techno,Ambient Techno,,Downtempo,,90s,ambienttechno
@@ -182,7 +182,7 @@ Ambient Trance,Ambient Trance,,Downtempo,,90s,ambienttrance
 Dark Ambient,Dark Ambient,,Downtempo,,90s,darkambient
 Electronica,Electronica,"Electronic Music, Edm",Downtempo,,90s,electronica
 Sound Collage,Sound Collage,"Tape Music, Sound Sculpting, Sampling",Downtempo,,90s,soundcollage
-Worldbeat,Ethnic,Worldbeat,Downtempo,,90s,worldbeat
+Worldbeat,Worldbeat,Ethnic,Downtempo,,90s,worldbeat
 Ambient House,Ambient House,,Downtempo,,80s,ambienthouse
 Ethereal,Ethereal,"Neo-Classical, Neo-Folk, Ambient Goth ",Downtempo,,80s,ethereal
-New Age,Easy Listening,New Age,Downtempo,,80s,newage
+New Age,New Age,Easy Listening,Downtempo,,80s,newage
