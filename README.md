@@ -2,14 +2,16 @@
 
 Structured Data from v2.5 of Ishkur's Guide to Electronic Music. I wanted to preserve the information in the guide, without relying on flash, and have a good dataset to experiment with. Extracted largely manually, if you spot a missing data point, let me know. This is a relatively small dataset, but might be interesting to use as an example in hirarchical community detection, or some other network analysis.
 
+![](gephi_data/genres.svg?sanitize=true)
+
 # Genres: [View](genres.csv)
 
--|node|title|aka|type|scene|decade|file|description
+-|genre|node|title|aka|type|scene|decade|description
 -|---|---|---|---|---|---|---|---
-count|187|187|129|187|96|180|187|187
-unique|156|185|125|7|15|6|187|185
-top|Tribal|Jungle|Tribal|Trance|Hard Dance|90s|hardcore|Like rats...
-freq|4|2|4|37|10|121|1|3
+count|187|187|187|129|187|96|180|187
+unique|187|156|185|125|7|15|6|185
+top|hardcore|Tribal|Jungle|Tribal|Trance|Hard Dance|90s|Like rats...
+freq|1|4|2|4|37|10|121|3
 
 # Network: [View](links.csv)
 
@@ -44,29 +46,30 @@ max| |11.0| |
 
 * Load up http://techno.org/electronic-music-guide/ with dev tools on.
 * Click on everything that loads resources (each main page and genre)
-* Extract HAR files: https://github.com/azu/har-extractor 
+* Extract HAR files wiht [Har Extractor](https://github.com/azu/har-extractor) 
 `har-extractor techno.org.har`
-* Extract SWF Files texts (tracks): https://github.com/jindrapetrik/jpexs-decompiler 
+* Extract SWF Files texts (tracks) with [JPEXS](https://github.com/jindrapetrik/jpexs-decompiler). 
 `ffdec.sh -export text "swf_data/breakbeat" "raw_data/breakbeat.swf"`
 * Extract connections: SWF is a nightmare. Connections extractred manually.
+* Visualisation made in [Gephi](https://gephi.org/). Layout is Yifan Hu Proportional, with some manual adjustments.
 
 ## Data Dictionary:
 
 * `genres.csv` Data:
+  - `genre`: Name of swf and txt file with description.
   - `node`: The visible label on the button, sometimes different to Title.
   - `title`: What loads in description box.
   - `aka`: If available, aka label.
   - `type`: Main section, eg: house, techno, hardcore etc.
   - `scene`: The "scene" the genres are in, eg: "funk".
   - `decade`: 70s, 80s, 90s, etc. Roughly, some nodes are on the border in swf
-  - `file`: Name of swf and txt file with description.
   - `description`: The text description of the genre.
 
 * `edges.csv` Data:
-  - `source,target`: source and target are based on `file` name without extension. An undirected link between nodes (in the guide, dashed lines link across genres, and solid lines within genres).
+  - `source,target`: source and target are based on `genre`. An undirected link between nodes (in the guide, dashed lines link across genres, and solid lines within genres).
   
 * `tracks.csv` Data:
-  - `file`: matches `genres.csv`
+  - `genre`: matches `genres.csv`
   - `number`: Order in playlist (Does not match the SWF order)
   - `artist`: Artist
   - `track`: Track Title
