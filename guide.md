@@ -36,6 +36,10 @@ If you are a longtime visitor of this guide, read the tutorial anyway, or go pok
 - [Sounds](#sounds)
 	- [Hoover](#hoover)
 	- [MC](#mc)
+- [Disclaimer](#disclaimer)
+- [Credits](#credits)
+------------------------------------------------------------
+- [The Guide](#the-guide)
 - [House](#house)
 	- [Stupid: Stupid House](#stupid-stupid-house)
 	- [Deep: Deep House](#deep-deep-house)
@@ -223,8 +227,6 @@ If you are a longtime visitor of this guide, read the tutorial anyway, or go pok
 	- [Ambient House](#ambient-house)
 	- [Ethereal](#ethereal)
 	- [New Age](#new-age)
-- [Disclaimer](#disclaimer)
-- [Credits](#credits)
 
 <!-- /MarkdownTOC -->
 
@@ -495,6 +497,48 @@ Most every popular sound in electronic music has come about because of a mistake
 The Master of Ceremonies first got his start as a conductor of sorts, introducing the musical talent and becoming the host of the party. The practice started off fairly benign in--where else--Jamaica, where the MC would add his voice as a freestyle adlib singer, becoming part of the music. Then it was exported to New York where it became Hip Hop, and as time went on Hip Hop MCs decided that they were more important than the music, and then later on declared that they were more important than everything. Jungle and Breaks MCs tried to do the same, with limited amounts of success and bravado. But the important part to remember is that an MC is not supposed to transcend the music or even compete with it. That's when everything goes to shit. The original Jamaicans didn't do that. They understood that the object was to liven the party atmosphere, not to become the centre of attention. They were simply Toastmasters, which is something that modern MCs rarely do anymore. Toasting. I like that word. Who toasts anymore? It seems like every freestyler today is trying too hard to be some sharp-tongues, insult-armed "lyrical assassin" rather than someone who actually wants to improve the quality of the party.
 
 ------------------------------------------------------------
+
+# Disclaimer
+
+Standard Business Professional Service Enterprise Multimedia Epress Deluxe Special
+Epansion Advanced Championship Edition Suite Version.5 Build r23
+
+This guide is a non-technical, irreverent critique of electronic dance music. Its purpose is to entertain before it informs. I suppose it could be used as a credited resource or educational primer, but that's not recommended since I made most of it up. Several biases here are celebrated lavishly, because downcasting people for their taste in music is close-minded. Ecept if their taste in music sucks.
+
+DO NOT ask me for samples or mp3s. DO NOT send me samples or mp3s.
+DO NOT ask me where to get samples or mp3s. I will not send you any.
+
+And no more emails please. If you want to bitch about the guide or discuss its merits and faults, do so on my web forum(http://www.ishkur.com/community), and I or one of the people there will be sure to address your concerns in a polite and cordial manner.
+
+www.ishkur.com
+
+-------------------------------------------
+
+# Credits
+
+This guide, its construction, ideas, copy, design, layout, and everything else created by [Ishkur](http://www.ishkur.com/). Sound files, samples, and music are © the respective artists, and if they dare approach me with an army of lawyers crying about using their music I'll be forced to complain very vocally about them on my website. Seriously, you guys. You're getting free eposure here. Don't be a bunch of jerks over this.
+
+Shoutouts to:
+Ari and the [Digitally Imported](https://www.di.fm/) kru for being cool-ass mofos and hosting this behemoth of a bandwidth hog.
+Del and the [Tranceaddicts](http://www.tranceaddict.com/) for being such good sports throughout all the tongue-in-cheek razzing.
+
+Creative help to:
+*discogs.com*: the ultimate trainspotters resource
+
+*allmusic.com*: the new version sucks, guys. And why haven't you established an "Electronic Music" category yet (and stop calling it Electronica!!!)! It's not 'New Age'. It's certainly bigger than that inbred trainwreck cracker twang that calls itself country. If you need help, I nominate myself as a creative consultant.
+
+*Pretentious Elitists*: just shut the hell up, alright.
+
+*Google*: what would the internet be like without Google? Anarchy, that's what.
+
+*Maaz*: the non-North American perspective, and the map which inspired me to upgrade to a v2.0 in the first place. Than for the tips.
+
+------------------------------------------------------------
+
+# The Guide:
+
+------------------------------------------------------------
+
 # House
 
 
@@ -1624,43 +1668,3 @@ Ethereal is like Ambient for goths, and technically not electronic music (half t
 *aka:  Easy Listening*  emerged in 80s
 
 New Age. Wow. What can be said about New Age. To start, this likes to cling onto the western post-modern meditative-yoga-pilates-tai chi new age baby boomer pop philosophies trend and not let go (hence the name: New Age). That should give you a hint right there that anyone who thinks The Celestine Prophecy is a good book has the worst taste in music. Unlike Ambient, there is singing here, not all of which are celtic chants, choir crooning or aboriginal jibber-jabber (that's mostly Worldbeat stuff anyway). New Age is floaty, dreamy, and effeminate--even the stuff made by the guys (who have no genitals, by the way). If you have trouble finding it in your local music store, that's because it's in the ADULT CONTEMPORARY section....yeah, beside Celine Dion and Phil Collins, Jesus Christ. The music itself isn't actually all that bad, but the people who listen to it are fucking tools. It's really hard to find a New Age composer these days that you wouldn't wanna rather give a swift kick in the shins.
-
-
-------------------------------------------------------------
-
-# Disclaimer
-
-Standard Business Professional Service Enterprise Multimedia Epress Deluxe Special
-Epansion Advanced Championship Edition Suite Version.5 Build r23
-
-This guide is a non-technical, irreverent critique of electronic dance music. Its purpose is to entertain before it informs. I suppose it could be used as a credited resource or educational primer, but that's not recommended since I made most of it up. Several biases here are celebrated lavishly, because downcasting people for their taste in music is close-minded. Ecept if their taste in music sucks.
-
-DO NOT ask me for samples or mp3s. DO NOT send me samples or mp3s.
-DO NOT ask me where to get samples or mp3s. I will not send you any.
-
-And no more emails please. If you want to bitch about the guide or discuss its merits and faults, do so on my web forum(http://www.ishkur.com/community), and I or one of the people there will be sure to address your concerns in a polite and cordial manner.
-
-www.ishkur.com
-
--------------------------------------------
-
-# Credits
-
-This guide, its construction, ideas, copy, design, layout, and everything else created by [Ishkur](http://www.ishkur.com/). Sound files, samples, and music are © the respective artists, and if they dare approach me with an army of lawyers crying about using their music I'll be forced to complain very vocally about them on my website. Seriously, you guys. You're getting free eposure here. Don't be a bunch of jerks over this.
-
-Shoutouts to:
-Ari and the [Digitally Imported](https://www.di.fm/) kru for being cool-ass mofos and hosting this behemoth of a bandwidth hog.
-Del and the [Tranceaddicts](http://www.tranceaddict.com/) for being such good sports throughout all the tongue-in-cheek razzing.
-
-Creative help to:
-*discogs.com*: the ultimate trainspotters resource
-
-*allmusic.com*: the new version sucks, guys. And why haven't you established an "Electronic Music" category yet (and stop calling it Electronica!!!)! It's not 'New Age'. It's certainly bigger than that inbred trainwreck cracker twang that calls itself country. If you need help, I nominate myself as a creative consultant.
-
-*Pretentious Elitists*: just shut the hell up, alright.
-
-*Google*: what would the internet be like without Google? Anarchy, that's what.
-
-*Maaz*: the non-North American perspective, and the map which inspired me to upgrade to a v2.0 in the first place. Than for the tips.
-
-------------------------------------------------------------
