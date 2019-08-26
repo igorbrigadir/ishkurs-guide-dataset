@@ -1,3 +1,0 @@
-artist: HARDFLOOR
---- RECORDSEPARATOR ---
-track: ACPERIENCE

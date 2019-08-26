@@ -1,3 +1,0 @@
-artist: SASH
---- RECORDSEPARATOR ---
-track: ENCORE UN FOIS

@@ -1,3 +1,0 @@
-artist: AVALANCHE
---- RECORDSEPARATOR ---
-track: ACID ATTACK

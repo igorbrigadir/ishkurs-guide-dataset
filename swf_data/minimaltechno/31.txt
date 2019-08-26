@@ -1,3 +1,0 @@
-artist: MIKE INK
---- RECORDSEPARATOR ---
-track: ORANGE

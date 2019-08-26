@@ -1,3 +1,0 @@
-artist: NINE INCH NAILS
---- RECORDSEPARATOR ---
-track: WISH

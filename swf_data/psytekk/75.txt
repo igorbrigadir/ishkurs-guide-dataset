@@ -1,3 +1,0 @@
-artist: SPIRALLIANZ
---- RECORDSEPARATOR ---
-track: SIDEWINDER

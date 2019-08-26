@@ -1,3 +1,0 @@
-artist: NOSTRUM
---- RECORDSEPARATOR ---
-track: MONASTERY

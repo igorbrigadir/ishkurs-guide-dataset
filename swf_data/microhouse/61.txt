@@ -1,3 +1,0 @@
-artist: LOSOUL
---- RECORDSEPARATOR ---
-track: SYNCHRO

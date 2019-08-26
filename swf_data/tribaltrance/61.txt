@@ -1,3 +1,0 @@
-artist: HEAD HONCHO
---- RECORDSEPARATOR ---
-track: MEDICENE

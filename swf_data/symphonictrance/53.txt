@@ -1,3 +1,0 @@
-artist: CRESCENDO
---- RECORDSEPARATOR ---
-track: ARE YOU OUT THERE

@@ -1,3 +1,0 @@
-artist: CASCADE
---- RECORDSEPARATOR ---
-track: TRANSCEND

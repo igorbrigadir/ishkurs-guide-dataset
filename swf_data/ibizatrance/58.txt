@@ -1,3 +1,0 @@
-artist: MIRO
---- RECORDSEPARATOR ---
-track: PARADISE

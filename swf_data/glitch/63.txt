@@ -1,3 +1,0 @@
-artist: ELECTRIC COMPANY
---- RECORDSEPARATOR ---
-track: AS AM I

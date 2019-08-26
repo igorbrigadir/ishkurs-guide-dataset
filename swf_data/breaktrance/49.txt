@@ -1,3 +1,0 @@
-artist: GENERAL MIDI
---- RECORDSEPARATOR ---
-track: FURTHER

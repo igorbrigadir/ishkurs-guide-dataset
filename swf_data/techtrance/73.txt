@@ -1,3 +1,0 @@
-artist: DER DRITTE RAUM
---- RECORDSEPARATOR ---
-track: HALE BOPP

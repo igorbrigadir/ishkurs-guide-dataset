@@ -1,3 +1,0 @@
-artist: STOCK, HAUSEN & WALKMAN
---- RECORDSEPARATOR ---
-track: V.A.

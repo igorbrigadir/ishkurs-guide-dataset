@@ -1,3 +1,0 @@
-artist: HEADBANGER
---- RECORDSEPARATOR ---
-track: PSYCHO GAME

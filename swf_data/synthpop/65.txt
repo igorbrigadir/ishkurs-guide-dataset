@@ -1,3 +1,0 @@
-artist: A FLOCK OF SEAGULS
---- RECORDSEPARATOR ---
-track: I RAN (SO FAR AWAY)

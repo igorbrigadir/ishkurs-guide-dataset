@@ -1,3 +1,0 @@
-artist: CONVERTER
---- RECORDSEPARATOR ---
-track: BLAST FURNACE

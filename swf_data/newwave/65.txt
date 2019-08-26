@@ -1,3 +1,0 @@
-artist: TELEX
---- RECORDSEPARATOR ---
-track: L'AMOUR TOUJOUR

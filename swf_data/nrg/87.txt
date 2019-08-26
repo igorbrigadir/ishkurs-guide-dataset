@@ -1,3 +1,0 @@
-artist: LAB 4
---- RECORDSEPARATOR ---
-track: BARDIG

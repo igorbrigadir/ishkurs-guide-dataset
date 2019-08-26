@@ -1,0 +1,35 @@
+{
+	"type": "FeatureCollection",
+	"features": [		
+		
+		{ "type": "Feature", "properties": { "name": "Bass"}, "geometry": { "type": "Point", "coordinates": [11000, 19038] } },
+		{ "type": "Feature", "properties": { "name": "Hip Hop"}, "geometry": { "type": "Point", "coordinates": [7500, 18110 ] } },
+		{ "type": "Feature", "properties": { "name": "Electro"}, "geometry": { "type": "Point", "coordinates": [9500, 17375 ] } },
+		{ "type": "Feature", "properties": { "name": "Techno"}, "geometry": { "type": "Point", "coordinates": [10000, 16725] } },
+		{ "type": "Feature", "properties": { "name": "Hardcore"}, "geometry": { "type": "Point", "coordinates": [12000, 15700] } },
+		{ "type": "Feature", "properties": { "name": "Drum n Bass"}, "geometry": { "type": "Point", "coordinates": [12000, 14650] } },
+		{ "type": "Feature", "properties": { "name": "Breakbeat"}, "geometry": { "type": "Point", "coordinates": [11500, 13650] } },
+		{ "type": "Feature", "properties": { "name": "Acid"}, "geometry": { "type": "Point", "coordinates": [11000, 13000] } },
+		{ "type": "Feature", "properties": { "name": "House"}, "geometry": { "type": "Point", "coordinates": [10500, 12350] } },
+		{ "type": "Feature", "properties": { "name": "Tech House"}, "geometry": { "type": "Point", "coordinates": [11000, 11500] } },
+		{ "type": "Feature", "properties": { "name": "Progressive"}, "geometry": { "type": "Point", "coordinates": [11000, 10850] } },
+		{ "type": "Feature", "properties": { "name": "Garage/Deep House"}, "geometry": { "type": "Point", "coordinates": [9000, 10300] } },
+		{ "type": "Feature", "properties": { "name": "UK Garage"}, "geometry": { "type": "Point", "coordinates": [14500, 9750] } },
+		{ "type": "Feature", "properties": { "name": "Urban"}, "geometry": { "type": "Point", "coordinates": [7000, 9100] } },
+		{ "type": "Feature", "properties": { "name": "Downtempo"}, "geometry": { "type": "Point", "coordinates": [7000, 8400] } },
+		{ "type": "Feature", "properties": { "name": "Chill Out"}, "geometry": { "type": "Point", "coordinates": [8600, 7600] } },
+		{ "type": "Feature", "properties": { "name": "Ambient"}, "geometry": { "type": "Point", "coordinates": [8600, 7200] } },
+		{ "type": "Feature", "properties": { "name": "Pioneers"}, "geometry": { "type": "Point", "coordinates": [3000, 7400] } },
+		{ "type": "Feature", "properties": { "name": "Chiptune"}, "geometry": { "type": "Point", "coordinates": [9000, 6400] } },
+		{ "type": "Feature", "properties": { "name": "Intelligent Dance Music"}, "geometry": { "type": "Point", "coordinates": [12600, 5700] } },
+		{ "type": "Feature", "properties": { "name": "Industrial/Goth"}, "geometry": { "type": "Point", "coordinates": [8000, 4785] } },
+		{ "type": "Feature", "properties": { "name": "Psy Trance"}, "geometry": { "type": "Point", "coordinates": [12000, 3920] } },
+		{ "type": "Feature", "properties": { "name": "Trance"}, "geometry": { "type": "Point", "coordinates": [12500, 3465] } },
+		{ "type": "Feature", "properties": { "name": "Hard Dance"}, "geometry": { "type": "Point", "coordinates": [13000, 2765] } },
+		{ "type": "Feature", "properties": { "name": "Eurotrance"}, "geometry": { "type": "Point", "coordinates": [13000, 2147] } },
+		{ "type": "Feature", "properties": { "name": "Europop"}, "geometry": { "type": "Point", "coordinates": [12000, 1577] } },
+		{ "type": "Feature", "properties": { "name": "Eurodisco"}, "geometry": { "type": "Point", "coordinates": [9000, 985] } },
+		{ "type": "Feature", "properties": { "name": "Eurotrash"}, "geometry": { "type": "Point", "coordinates": [15000, 360] } }
+
+	]
+}

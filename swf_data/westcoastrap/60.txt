@@ -1,3 +1,0 @@
-artist: ICE CUBE
---- RECORDSEPARATOR ---
-track: WICKED

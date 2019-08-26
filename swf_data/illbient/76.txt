@@ -1,3 +1,0 @@
-artist: NEOTROPIC
---- RECORDSEPARATOR ---
-track: NORTHWEST 37TH

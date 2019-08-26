@@ -1,3 +1,0 @@
-artist: ENIGMA
---- RECORDSEPARATOR ---
-track: RETURN TO INNOCENCE

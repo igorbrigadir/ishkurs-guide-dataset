@@ -1,3 +1,0 @@
-artist: JON THE DENTIST
---- RECORDSEPARATOR ---
-track: GLOBAL PHASES

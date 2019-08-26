@@ -1,3 +1,0 @@
-artist: EXCESSION
---- RECORDSEPARATOR ---
-track: AFFECTED

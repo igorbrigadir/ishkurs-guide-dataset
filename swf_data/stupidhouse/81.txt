@@ -1,3 +1,0 @@
-artist: JONESY
---- RECORDSEPARATOR ---
-track: INDEPENDANCE

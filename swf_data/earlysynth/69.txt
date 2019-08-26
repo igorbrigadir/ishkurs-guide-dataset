@@ -1,3 +1,0 @@
-artist: HEINZ FUNK
---- RECORDSEPARATOR ---
-track: MENUETT

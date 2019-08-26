@@ -1,3 +1,0 @@
-artist: BANG!
---- RECORDSEPARATOR ---
-track: SHOOTING STAR

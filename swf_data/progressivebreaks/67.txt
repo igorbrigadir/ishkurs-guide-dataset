@@ -1,3 +1,0 @@
-artist: PETTER
---- RECORDSEPARATOR ---
-track: THESE DAYS

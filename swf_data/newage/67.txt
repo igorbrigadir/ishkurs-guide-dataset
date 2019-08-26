@@ -1,3 +1,0 @@
-artist: JOHN TAYLOR
---- RECORDSEPARATOR ---
-track: L'AUTRE MOI

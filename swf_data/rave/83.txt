@@ -1,3 +1,0 @@
-artist: T99
---- RECORDSEPARATOR ---
-track: ANASTASIA

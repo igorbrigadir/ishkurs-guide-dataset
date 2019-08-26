@@ -1,3 +1,0 @@
-artist: 1200 MICS
---- RECORDSEPARATOR ---
-track: ACID OR NOTHING

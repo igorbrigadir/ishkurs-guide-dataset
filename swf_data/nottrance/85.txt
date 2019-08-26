@@ -1,3 +1,0 @@
-artist: 4 STRINGS
---- RECORDSEPARATOR ---
-track: DAYTIME

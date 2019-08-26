@@ -1,3 +1,0 @@
-artist: C-MOS
---- RECORDSEPARATOR ---
-track: YOUNG

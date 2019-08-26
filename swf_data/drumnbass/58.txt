@@ -1,3 +1,0 @@
-artist: GROOVERIDER
---- RECORDSEPARATOR ---
-track: ON THE DOUBLE

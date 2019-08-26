@@ -1,3 +1,0 @@
-artist: ROBERT MILES
---- RECORDSEPARATOR ---
-track: CHILDREN

@@ -1,3 +1,0 @@
-artist: DRYFT
---- RECORDSEPARATOR ---
-track: X11

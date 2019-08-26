@@ -1,3 +1,0 @@
-artist: VOODOOAMT
---- RECORDSEPARATOR ---
-track: NACHTSCHICHT

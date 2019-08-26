@@ -1,3 +1,0 @@
-artist: SECOND PROTOCOL
---- RECORDSEPARATOR ---
-track: BASSLICK

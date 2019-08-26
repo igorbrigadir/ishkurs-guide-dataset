@@ -1,3 +1,0 @@
-artist: HEXSTATIC
---- RECORDSEPARATOR ---
-track: NINJA TUNE

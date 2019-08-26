@@ -1,3 +1,0 @@
-artist: STEVE REICH
---- RECORDSEPARATOR ---
-track: PULSES

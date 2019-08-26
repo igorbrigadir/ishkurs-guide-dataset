@@ -1,3 +1,0 @@
-artist: OVERRIDER
---- RECORDSEPARATOR ---
-track: TIME BOMB

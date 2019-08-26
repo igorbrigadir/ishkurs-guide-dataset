@@ -1,3 +1,0 @@
-artist: SPOOKY
---- RECORDSEPARATOR ---
-track: SCHMOO

@@ -1,3 +1,0 @@
-artist: SNOOP DOGGY DOGG
---- RECORDSEPARATOR ---
-track: WHAT'S MY NAME

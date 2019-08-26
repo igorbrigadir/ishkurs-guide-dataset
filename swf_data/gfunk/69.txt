@@ -1,3 +1,0 @@
-artist: COOLIO
---- RECORDSEPARATOR ---
-track: FANTASTIC VOYAGE

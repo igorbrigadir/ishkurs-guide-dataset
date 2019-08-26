@@ -1,3 +1,0 @@
-artist: DE NIRO
---- RECORDSEPARATOR ---
-track: MIND OF MAN

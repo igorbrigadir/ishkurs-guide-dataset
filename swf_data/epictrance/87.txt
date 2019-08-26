@@ -1,3 +1,0 @@
-artist: VINCENT DE MOOR
---- RECORDSEPARATOR ---
-track: FLY AWAY

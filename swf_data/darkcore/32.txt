@@ -1,3 +1,0 @@
-artist: Q PROJECT
---- RECORDSEPARATOR ---
-track: CHAMPION SOUND

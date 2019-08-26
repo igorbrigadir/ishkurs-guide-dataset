@@ -1,3 +1,0 @@
-artist: MONOLAKE
---- RECORDSEPARATOR ---
-track: INDEX

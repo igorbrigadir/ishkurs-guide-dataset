@@ -1,3 +1,0 @@
-artist: GOLDIE
---- RECORDSEPARATOR ---
-track: TIMELESS

@@ -1,3 +1,0 @@
-artist: SMILE.DK
---- RECORDSEPARATOR ---
-track: BUTTERFLY

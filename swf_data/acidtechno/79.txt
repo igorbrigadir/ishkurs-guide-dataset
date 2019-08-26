@@ -1,3 +1,0 @@
-artist: CHOICE
---- RECORDSEPARATOR ---
-track: ACID EIFFEL
