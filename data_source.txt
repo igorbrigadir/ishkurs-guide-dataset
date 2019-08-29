@@ -1,3 +1,0 @@
-http://music.ishkur.com/?query=ChicagoHouse
-http://music.ishkur.com/content.php?g=Microfunk
-http://music.ishkur.com/musicbox.php?x=13736&y=1404&match=genre
