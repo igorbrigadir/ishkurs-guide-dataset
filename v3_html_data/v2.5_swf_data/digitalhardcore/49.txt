@@ -1,0 +1,3 @@
+artist: EC8OR
+--- RECORDSEPARATOR ---
+track: I DON'T WANT TO BE PART OF THIS

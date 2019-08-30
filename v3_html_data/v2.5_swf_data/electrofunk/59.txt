@@ -1,0 +1,3 @@
+artist: GEORGE CLINTON
+--- RECORDSEPARATOR ---
+track: ATOMIC DOG

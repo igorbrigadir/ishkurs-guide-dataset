@@ -1,0 +1,3 @@
+artist: SHANNON
+--- RECORDSEPARATOR ---
+track: LET THE MUSIC PLAY

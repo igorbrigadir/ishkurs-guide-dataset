@@ -1,0 +1,3 @@
+artist: THE KLF
+--- RECORDSEPARATOR ---
+track: IT'S GRIM UP NORTH

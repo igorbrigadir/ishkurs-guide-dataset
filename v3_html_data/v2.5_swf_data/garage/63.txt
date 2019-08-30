@@ -1,0 +1,3 @@
+artist: BLAZE
+--- RECORDSEPARATOR ---
+track: IF YOU SHOULD NEED A FRIEND

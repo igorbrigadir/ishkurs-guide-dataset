@@ -1,0 +1,3 @@
+artist: LOOP GURU
+--- RECORDSEPARATOR ---
+track: PAPASUS

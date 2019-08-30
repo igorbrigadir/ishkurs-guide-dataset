@@ -1,0 +1,3 @@
+artist: MYSTIC FORCE
+--- RECORDSEPARATOR ---
+track: CLEARLIGHT

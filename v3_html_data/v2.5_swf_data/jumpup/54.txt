@@ -1,0 +1,3 @@
+artist: MULDER
+--- RECORDSEPARATOR ---
+track: THE HARD WAY

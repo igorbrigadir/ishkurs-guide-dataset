@@ -1,0 +1,3 @@
+artist: PROGRAM 2
+--- RECORDSEPARATOR ---
+track: THE TRIP

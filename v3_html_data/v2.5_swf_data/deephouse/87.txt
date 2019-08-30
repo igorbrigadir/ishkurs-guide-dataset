@@ -1,0 +1,3 @@
+artist: TERRY LEE BROWN JR.
+--- RECORDSEPARATOR ---
+track: TERRY'S HOUSE

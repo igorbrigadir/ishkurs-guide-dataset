@@ -1,0 +1,3 @@
+artist: GIGI D'AGOSTINO
+--- RECORDSEPARATOR ---
+track: STAR

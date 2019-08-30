@@ -1,0 +1,3 @@
+artist: OMNI TRIO
+--- RECORDSEPARATOR ---
+track: RENEGADE SNARES

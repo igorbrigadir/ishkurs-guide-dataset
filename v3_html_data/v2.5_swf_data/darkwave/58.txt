@@ -1,0 +1,3 @@
+artist: CLAN OF XYMOX
+--- RECORDSEPARATOR ---
+track: STRANGERS

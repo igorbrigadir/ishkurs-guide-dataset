@@ -1,0 +1,3 @@
+artist: ADAM STARR
+--- RECORDSEPARATOR ---
+track: BAD ACID JESUS

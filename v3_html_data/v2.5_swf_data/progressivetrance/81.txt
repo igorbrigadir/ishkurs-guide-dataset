@@ -1,0 +1,3 @@
+artist: BT
+--- RECORDSEPARATOR ---
+track: FLAMING JUNE

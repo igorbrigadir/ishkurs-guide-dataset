@@ -1,0 +1,3 @@
+artist: SALT 'N' PEPA
+--- RECORDSEPARATOR ---
+track: LET'S TALK ABOUT SEX

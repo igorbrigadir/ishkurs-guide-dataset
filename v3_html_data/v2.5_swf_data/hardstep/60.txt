@@ -1,0 +1,3 @@
+artist: BIOSTACIS
+--- RECORDSEPARATOR ---
+track: GAMMA RAY

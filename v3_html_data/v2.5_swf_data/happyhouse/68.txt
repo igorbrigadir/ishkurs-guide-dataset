@@ -1,0 +1,3 @@
+artist: AQUA
+--- RECORDSEPARATOR ---
+track: ROSES ARE RED

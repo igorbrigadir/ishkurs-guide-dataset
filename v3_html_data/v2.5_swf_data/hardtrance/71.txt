@@ -1,0 +1,3 @@
+artist: COSMIC GATE
+--- RECORDSEPARATOR ---
+track: THE TRUTH

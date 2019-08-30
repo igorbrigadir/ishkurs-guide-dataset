@@ -1,0 +1,3 @@
+artist: KLAUS SCHULZE
+--- RECORDSEPARATOR ---
+track: VELVET VOYAGE

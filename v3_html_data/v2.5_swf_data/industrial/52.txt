@@ -1,0 +1,3 @@
+artist: SPK
+--- RECORDSEPARATOR ---
+track: TWILIGHT OF THE IDOLS

@@ -1,0 +1,3 @@
+artist: ABSTRACT
+--- RECORDSEPARATOR ---
+track: THE MESSAGE

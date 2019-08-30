@@ -1,0 +1,3 @@
+artist: BLOCKHEAD
+--- RECORDSEPARATOR ---
+track: TRIPTYCH PART ONE

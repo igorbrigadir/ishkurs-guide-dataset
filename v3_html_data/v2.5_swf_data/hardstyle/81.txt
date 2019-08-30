@@ -1,0 +1,3 @@
+artist: PAVO & ZANY
+--- RECORDSEPARATOR ---
+track: SHUTTERSPEED

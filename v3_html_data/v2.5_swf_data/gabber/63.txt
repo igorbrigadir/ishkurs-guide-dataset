@@ -1,0 +1,3 @@
+artist: PARIAH
+--- RECORDSEPARATOR ---
+track: ID

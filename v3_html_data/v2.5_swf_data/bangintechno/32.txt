@@ -1,0 +1,3 @@
+artist: FRANKIE BONES
+--- RECORDSEPARATOR ---
+track: GET THIS STR-8

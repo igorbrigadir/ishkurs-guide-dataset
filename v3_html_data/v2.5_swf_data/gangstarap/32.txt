@@ -1,0 +1,3 @@
+artist: WU-TANG CLAN
+--- RECORDSEPARATOR ---
+track: TRIUMPH

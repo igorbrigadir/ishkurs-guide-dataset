@@ -1,0 +1,3 @@
+artist: SATOSHI TOMIIE
+--- RECORDSEPARATOR ---
+track: LOVE TRAFFIC

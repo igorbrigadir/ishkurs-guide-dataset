@@ -1,0 +1,3 @@
+artist: LOCK 'N' LOAD
+--- RECORDSEPARATOR ---
+track: BLOW YA MIND

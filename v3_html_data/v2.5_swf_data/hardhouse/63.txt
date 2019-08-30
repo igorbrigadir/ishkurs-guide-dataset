@@ -1,0 +1,3 @@
+artist: MARK V AND POOGIE BEAR
+--- RECORDSEPARATOR ---
+track: WAR

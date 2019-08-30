@@ -1,0 +1,3 @@
+artist: ABOVE THE LAW
+--- RECORDSEPARATOR ---
+track: BLACK SUPERMAN

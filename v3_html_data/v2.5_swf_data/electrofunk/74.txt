@@ -1,0 +1,3 @@
+artist: RICK JAMES
+--- RECORDSEPARATOR ---
+track: BAD MAMMA JAMMA

@@ -1,0 +1,3 @@
+artist: THE KLF
+--- RECORDSEPARATOR ---
+track: MADRUGADA ETERNA

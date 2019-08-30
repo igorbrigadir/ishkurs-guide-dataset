@@ -1,0 +1,3 @@
+artist: BIGOD 20
+--- RECORDSEPARATOR ---
+track: AMERICA

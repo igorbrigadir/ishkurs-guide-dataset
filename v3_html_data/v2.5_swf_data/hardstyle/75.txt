@@ -1,0 +1,3 @@
+artist: HIGH VOLTAGE
+--- RECORDSEPARATOR ---
+track: BOMBS AWAY

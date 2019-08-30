@@ -1,0 +1,3 @@
+artist: TAKAATI ITOH
+--- RECORDSEPARATOR ---
+track: TAP

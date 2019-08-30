@@ -1,0 +1,3 @@
+artist: TETSU INOUE
+--- RECORDSEPARATOR ---
+track: Q-TIP

@@ -1,0 +1,3 @@
+artist: SCOTT MAJESTIC
+--- RECORDSEPARATOR ---
+track: ACID DREAMS

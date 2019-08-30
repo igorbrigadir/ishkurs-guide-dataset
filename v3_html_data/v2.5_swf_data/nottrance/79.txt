@@ -1,0 +1,3 @@
+artist: DJ TATANA
+--- RECORDSEPARATOR ---
+track: WORDS

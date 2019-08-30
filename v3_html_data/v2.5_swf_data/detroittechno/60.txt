@@ -1,0 +1,3 @@
+artist: KENNY LARKIN
+--- RECORDSEPARATOR ---
+track: SOUL MAN

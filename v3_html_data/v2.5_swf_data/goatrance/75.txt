@@ -1,0 +1,3 @@
+artist: CYDONIA
+--- RECORDSEPARATOR ---
+track: ANIMALS

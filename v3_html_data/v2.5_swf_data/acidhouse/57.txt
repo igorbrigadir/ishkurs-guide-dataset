@@ -1,0 +1,3 @@
+artist: FAST EDDIE
+--- RECORDSEPARATOR ---
+track: ACID THUNDER

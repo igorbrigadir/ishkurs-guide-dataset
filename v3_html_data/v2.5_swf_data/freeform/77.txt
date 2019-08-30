@@ -1,0 +1,3 @@
+artist: FADE
+--- RECORDSEPARATOR ---
+track: THE FUTURE

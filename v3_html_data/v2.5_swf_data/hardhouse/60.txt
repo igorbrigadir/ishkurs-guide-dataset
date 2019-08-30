@@ -1,0 +1,3 @@
+artist: DJ BAM BAM
+--- RECORDSEPARATOR ---
+track: BLOW YOUR MIND

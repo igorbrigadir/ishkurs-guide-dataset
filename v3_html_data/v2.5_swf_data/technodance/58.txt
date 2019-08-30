@@ -1,0 +1,3 @@
+artist: M/A/R/R/S
+--- RECORDSEPARATOR ---
+track: PUMP UP THE VOLUME

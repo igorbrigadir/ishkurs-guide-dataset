@@ -1,0 +1,3 @@
+artist: BRAIN BUG
+--- RECORDSEPARATOR ---
+track: RAIN

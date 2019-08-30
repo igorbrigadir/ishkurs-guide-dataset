@@ -1,0 +1,3 @@
+artist: DETRITUS
+--- RECORDSEPARATOR ---
+track: EQUILIBRIUM

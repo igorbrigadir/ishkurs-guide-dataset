@@ -1,0 +1,3 @@
+artist: FEAR FACTORY
+--- RECORDSEPARATOR ---
+track: T-1000

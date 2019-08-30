@@ -1,0 +1,3 @@
+artist: NEW ORDER
+--- RECORDSEPARATOR ---
+track: BLUE MONDAY

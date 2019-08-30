@@ -1,0 +1,3 @@
+artist: GENE FARRIS
+--- RECORDSEPARATOR ---
+track: GO BUMP IN THE NIGHT
