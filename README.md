@@ -4,6 +4,8 @@ Structured Data from v2.5 and v3 of Ishkur's Guide to Electronic Music. I wanted
 
 # The 2019 v3 HTML Version:
 
+![](v3_gephi_data/genres.svg?sanitize=true)
+
 ## Genres: [View](v3_genres.csv)
 
 -|slug|scene|genre|emerged|aka
