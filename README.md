@@ -100,19 +100,12 @@ freq|7|4
 
 Each genre node has a number of representative tracks.
 
--|file|number|artist|track
+-|genre|number|artist|track
 -|---|---|---|---
-count|1178|1178.0|1178|1176
-unique|179| |1151|1157
-top|italodisco| |Dj Funk|Yeah
-freq|11| |5|3
-mean| |4.136672325976231| | 
-std| |2.3338584552859998| | 
-min| |1.0| | 
-25%| |2.0| | 
-50%| |4.0| | 
-75%| |6.0| | 
-max| |11.0| | 
+count|1178|1178|1178|1176
+unique|179|11|1151|1157
+top|italodisco|1|Dj Funk|Yeah
+freq|11|179|5|3
 
 ## Data Cleaning Steps:
 
