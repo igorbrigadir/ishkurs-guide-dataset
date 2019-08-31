@@ -2,9 +2,79 @@
 
 Structured Data from v2.5 and v3 of Ishkur's Guide to Electronic Music. I wanted to preserve the information in the guide, without relying on flash or html, and have a good dataset to experiment with. Extracted largely manually, if you spot a missing data point, let me know. This is a relatively small dataset, but might be interesting to use as an example in hirarchical community detection, or some other network analysis. v2.5 and v3 differ quite a lot, but there is some overlap.
 
+# The 2019 v3 HTML Version:
+
+## Genres: [View](v3_genres.csv)
+
+-|slug|scene|genre|emerged|aka
+-|---|---|---|---|---
+count|166|166|166|166|166
+unique|166|28|166|28|165
+top|electroclash|Drum n Bass|US Deep House|early 90s|Hardstep
+freq|1|12|1|27|2
+
+## Network: [View](v3_links.csv)
+
+Directed. With time intervals. A genre can split, end or spawn a new one. Genres also have "self loops" for the duration of their "influence". Every edge has a start and end year. Links between genres and years are indicative only.
+
+-|source|target|start|end
+-|---|---|---|---
+count|352|352|352|352
+unique|166|166|49|45
+top|experimental|jumpup|1993|2019
+freq|9|4|21|145
+
+## Tracks: [View](v3_tracks.csv)
+
+-|slug|scene|genre|year|artist|title
+-|---|---|---|---|---|---
+count|11317|11317|11317|11317|11317|11317
+unique|166|28|166|65|9594|10724
+top|synthpop|House|Synthpop|2000|Eat Static|Move Your Body
+freq|256|812|256|445|6|6
+
+## Data Cleaning Steps:
+
+* http://music.ishkur.com/ in dev tools to extract json requests.
+* Most of the useful things are in json files `gcpoly.json`, `scenelabels.json` in Geo Json format.
+* Genres were grouped and sorted manually in `sorted_genres.jsonl`
+* Polygons define genre "sections" per year.
+* Network is again manually re-constructed from background images. v3 Network is Directed, by year.
+
+## Data Dictionary:
+
+* `v3_genres.csv`
+  - `slug`: Slugified genre label, matches `v3_links` and `v3_tracks`.
+  - `scene`: Plain text label for the "Scene"
+  - `genre`: Plain text label of the genre.
+  - `emerged`: Text description of decade. eg: "mid to late 70s"
+  - `aka`: Also known as, alternative names for genre.
+
+* `v3_links.csv`
+  - `source`: Slugified genre label where an edge starts. 
+  - `target`: Slugified genre label where an edge ends. Self loops define genre lifetimes.
+  - `start`: Year where the edge starts from the `source`
+  - `end`: Year where the edge `target` finishes, or in a self-loop, where the genre "bar" ends.
+
+* `v3_tracks.csv`
+  - `slug`: Slugified genre label, matches `v3_links` and `v3_genres`.
+  - `scene`: Plain text label for the "Scene"
+  - `genre`: Plain text label of the genre.
+  - `year`: Year from chart.
+  - `artist`: Track Artist.
+  - `title`: Track Title.
+
+* `v3_guide.md`: All the genre descriptions turned into markdown. Does not include embedded media, or links. Does not include additional parts (Help, FAQ, How to etc.)
+
+* `v3_json_data`: JSON Files loaded by guide. Coordinates of clickable links.
+* `v3_html_data`: HTML Data loaded for each genre and tracklist.
+* `preprocessing`: Contains scripts used to process json, extract text, format CSVs etc.
+
+# The 2005 v2.5 Flash Version: 
+
 ![](v2.5_gephi_data/genres.svg?sanitize=true)
 
-# Genres: [View](v2.5_genres.csv)
+## Genres: [View](v2.5_genres.csv)
 
 -|genre|node|title|aka|type|scene|decade|description
 -|---|---|---|---|---|---|---|---
@@ -13,9 +83,9 @@ unique|187|156|185|125|7|15|6|185
 top|hardcore|Tribal|Jungle|Tribal|Trance|Hard Dance|90s|Like rats...
 freq|1|4|2|4|37|10|121|3
 
-# Network: [View](v2.5_links.csv)
+## Network: [View](v2.5_links.csv)
 
-A genre can be associated with another, edges are undirected but `source` and `target` nodes are loosely based on the decade.
+Undirected. A genre can be associated with another, edges are undirected but `source` and `target` nodes are loosely based on the decade.
 
 -|source|target
 -|---|---
@@ -24,7 +94,7 @@ unique|187|170
 top|hiphop|acidhouse
 freq|7|4
 
-# Tracks: [View](v2.5_tracks.csv)
+## Tracks: [View](v2.5_tracks.csv)
 
 Each genre node has a number of representative tracks.
 
@@ -41,33 +111,6 @@ min| |1.0| |
 50%| |4.0| | 
 75%| |6.0| | 
 max| |11.0| | 
-
-# The 2019 v3 HTML Version:
-
-## Data Cleaning Steps:
-
-* Most of the useful things are in json files `gcpoly.json`, `scenelabels.json` in Geo Json format.
-* Genres were grouped and sorted manually in `sorted_genres.jsonl`
-* Polygons define genre "sections" per year.
-* Network is again manually re-constructed from background images. v3 Network is Directed, by year.
-
-## Data Dictionary:
-
-* `v3_genres.csv`
-  -
-  -
-* `v3_links.csv`
-  -
-  -
-* `v3_tracks.csv`
-  -
-  -
-
-* `v3_json_data`: JSON Files loaded by guide. Coordinates of clickable links.
-* `v3_html_data`: HTML Data loaded for each genre and tracklist.
-* `preprocessing`: Contains scripts used to process json, extract text, format CSVs etc.
-
-# The 2005 v2.5 Flash Version:
 
 ## Data Cleaning Steps:
 
@@ -98,8 +141,8 @@ max| |11.0| |
 * `v2.5_tracks.csv` Data:
   - `genre`: matches `genres.csv`
   - `number`: Order in playlist (Does not match the SWF order)
-  - `artist`: Artist
-  - `track`: Track Title
+  - `artist`: Track Artist.
+  - `track`: Track Title.
 
 * `v2.5_guide.md` Data:
   - This is all the text in the "Tutorial", "Equipment", Credits, Disclaimer etc.
