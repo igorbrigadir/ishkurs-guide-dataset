@@ -1,3 +1,0 @@
-artist: BARON
---- RECORDSEPARATOR ---
-track: MEET THE CREEPER

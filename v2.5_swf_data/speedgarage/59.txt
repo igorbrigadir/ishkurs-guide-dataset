@@ -1,3 +1,0 @@
-artist: MR. SPRING
---- RECORDSEPARATOR ---
-track: VOYAGER 1.56

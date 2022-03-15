@@ -1,3 +1,0 @@
-artist: MODEL 500
---- RECORDSEPARATOR ---
-track: FUTURE

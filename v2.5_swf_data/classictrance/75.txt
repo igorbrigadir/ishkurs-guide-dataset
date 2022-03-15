@@ -1,3 +1,0 @@
-artist: COMMANDER TOM
---- RECORDSEPARATOR ---
-track: THE VULCAN

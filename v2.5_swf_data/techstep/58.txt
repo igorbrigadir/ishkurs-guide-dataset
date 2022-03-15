@@ -1,3 +1,0 @@
-artist: BAD COMPANY
---- RECORDSEPARATOR ---
-track: THE NINE

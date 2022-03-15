@@ -1,3 +1,0 @@
-artist: BJORK
---- RECORDSEPARATOR ---
-track: ARMY OF ME

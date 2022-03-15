@@ -1,3 +1,0 @@
-artist: THE ALLIANCE
---- RECORDSEPARATOR ---
-track: ACTION

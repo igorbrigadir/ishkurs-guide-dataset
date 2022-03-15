@@ -1,3 +1,0 @@
-artist: XZIBIT
---- RECORDSEPARATOR ---
-track: FRONT 2 BACK

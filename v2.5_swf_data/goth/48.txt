@@ -1,3 +1,0 @@
-artist: BAUHAUS
---- RECORDSEPARATOR ---
-track: DANCING

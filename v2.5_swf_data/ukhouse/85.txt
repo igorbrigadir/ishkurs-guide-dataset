@@ -1,3 +1,0 @@
-artist: TUNGSTEN
---- RECORDSEPARATOR ---
-track: CARBINE

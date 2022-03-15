@@ -1,3 +1,0 @@
-artist: SUN PROJECT
---- RECORDSEPARATOR ---
-track: AT THE EDGE OF TIME

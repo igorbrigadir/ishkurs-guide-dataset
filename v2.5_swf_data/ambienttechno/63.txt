@@ -1,3 +1,0 @@
-artist: APHEX TWIN
---- RECORDSEPARATOR ---
-track: XTAL

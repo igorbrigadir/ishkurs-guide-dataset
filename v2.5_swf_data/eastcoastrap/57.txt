@@ -1,3 +1,0 @@
-artist: SLICK RICK
---- RECORDSEPARATOR ---
-track: MONA LISA

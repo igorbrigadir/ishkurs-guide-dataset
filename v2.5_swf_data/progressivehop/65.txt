@@ -1,3 +1,0 @@
-artist: SLUG, EYEDEA & SOLE
---- RECORDSEPARATOR ---
-track: SAVIOR

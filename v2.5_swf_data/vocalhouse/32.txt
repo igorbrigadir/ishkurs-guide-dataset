@@ -1,3 +1,0 @@
-artist: 49ERS
---- RECORDSEPARATOR ---
-track: TOUCH ME

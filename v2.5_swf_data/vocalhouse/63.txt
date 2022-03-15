@@ -1,3 +1,0 @@
-artist: BLACK BOX
---- RECORDSEPARATOR ---
-track: RIDE ON TIME

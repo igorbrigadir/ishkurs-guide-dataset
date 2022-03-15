@@ -1,3 +1,0 @@
-artist: FKY
---- RECORDSEPARATOR ---
-track: ALPOTO

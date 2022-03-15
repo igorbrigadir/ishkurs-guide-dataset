@@ -1,3 +1,0 @@
-artist: APOLLO 440
---- RECORDSEPARATOR ---
-track: VANISHING POINT

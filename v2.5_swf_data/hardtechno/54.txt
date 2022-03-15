@@ -1,3 +1,0 @@
-artist: BANDITOS
---- RECORDSEPARATOR ---
-track: WALDED

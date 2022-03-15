@@ -1,3 +1,0 @@
-artist: PANACEA
---- RECORDSEPARATOR ---
-track: MOTION SICKNESS

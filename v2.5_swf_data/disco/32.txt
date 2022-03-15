@@ -1,3 +1,0 @@
-artist: LIPPS, INC.
---- RECORDSEPARATOR ---
-track: FUNKYTOWN

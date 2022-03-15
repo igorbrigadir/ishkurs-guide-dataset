@@ -1,3 +1,0 @@
-artist: A TRIBE CALLED QUEST
---- RECORDSEPARATOR ---
-track: MIDNIGHT

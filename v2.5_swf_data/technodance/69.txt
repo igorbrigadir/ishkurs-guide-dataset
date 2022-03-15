@@ -1,3 +1,0 @@
-artist: S'EXPRESS
---- RECORDSEPARATOR ---
-track: THEME FROM S'EXPRESS

@@ -1,3 +1,0 @@
-artist: UNDERWORLD
---- RECORDSEPARATOR ---
-track: THING IN A BOOK

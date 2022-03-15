@@ -1,3 +1,0 @@
-artist: COSMOSIS
---- RECORDSEPARATOR ---
-track: AFTERGLOW

@@ -1,3 +1,0 @@
-artist: RANDOM INC.
---- RECORDSEPARATOR ---
-track: LOSING TOUCH

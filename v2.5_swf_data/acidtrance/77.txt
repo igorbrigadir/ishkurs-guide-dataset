@@ -1,3 +1,0 @@
-artist: UNION JACK
---- RECORDSEPARATOR ---
-track: RED HERRING

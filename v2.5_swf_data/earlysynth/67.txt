@@ -1,3 +1,0 @@
-artist: DAVE VOUHAUS
---- RECORDSEPARATOR ---
-track: THREE D

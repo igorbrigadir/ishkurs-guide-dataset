@@ -1,3 +1,0 @@
-artist: FREESTYLE
---- RECORDSEPARATOR ---
-track: IT'S AUTOMATIC

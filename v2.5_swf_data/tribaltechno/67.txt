@@ -1,3 +1,0 @@
-artist: CAVE
---- RECORDSEPARATOR ---
-track: STREETCARNIVAL

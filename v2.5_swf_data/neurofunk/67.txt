@@ -1,3 +1,0 @@
-artist: SYNTHETIX
---- RECORDSEPARATOR ---
-track: LOCKDOWN

@@ -1,3 +1,0 @@
-artist: LEGOWELT
---- RECORDSEPARATOR ---
-track: DISCO ROUT

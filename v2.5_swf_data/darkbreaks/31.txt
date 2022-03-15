@@ -1,3 +1,0 @@
-artist: TANITH
---- RECORDSEPARATOR ---
-track: BRONCO

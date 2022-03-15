@@ -1,3 +1,0 @@
-artist: DOMINION
---- RECORDSEPARATOR ---
-track: 11 HOURS

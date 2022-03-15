@@ -1,3 +1,0 @@
-artist: KINGSIZE
---- RECORDSEPARATOR ---
-track: ACID OR XTC

@@ -1,3 +1,0 @@
-artist: SYNTHAIK
---- RECORDSEPARATOR ---
-track: ARCTURUS

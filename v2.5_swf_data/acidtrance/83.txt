@@ -1,3 +1,0 @@
-artist: BALIL
---- RECORDSEPARATOR ---
-track: PARASIGHT

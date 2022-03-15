@@ -1,3 +1,0 @@
-artist: EN VOGUE
---- RECORDSEPARATOR ---
-track: MY LOVIN'

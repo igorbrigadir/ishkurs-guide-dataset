@@ -1,3 +1,0 @@
-artist: DOUBLE 99
---- RECORDSEPARATOR ---
-track: RIPGROOVE

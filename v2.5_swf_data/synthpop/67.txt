@@ -1,3 +1,0 @@
-artist: WHEN IN ROME
---- RECORDSEPARATOR ---
-track: THE PROMISE

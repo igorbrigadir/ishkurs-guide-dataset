@@ -1,3 +1,0 @@
-artist: LONDON AFTER MIDNIGHT
---- RECORDSEPARATOR ---
-track: KISS

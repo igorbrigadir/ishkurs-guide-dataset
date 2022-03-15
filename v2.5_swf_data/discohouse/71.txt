@@ -1,3 +1,0 @@
-artist: JUNIOR JACK
---- RECORDSEPARATOR ---
-track: MY FEELING

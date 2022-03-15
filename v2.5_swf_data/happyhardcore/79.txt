@@ -1,3 +1,0 @@
-artist: SCOTT BROWN
---- RECORDSEPARATOR ---
-track: ELYSIUM

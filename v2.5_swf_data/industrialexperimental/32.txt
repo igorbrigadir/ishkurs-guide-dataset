@@ -1,3 +1,0 @@
-artist: COIL
---- RECORDSEPARATOR ---
-track: RED SKELETONS

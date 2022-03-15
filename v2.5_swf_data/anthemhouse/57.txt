@@ -1,3 +1,0 @@
-artist: 2 UNLIMITED
---- RECORDSEPARATOR ---
-track: TWILIGHT ZONE

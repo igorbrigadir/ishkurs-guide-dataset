@@ -1,3 +1,0 @@
-artist: ANTARES
---- RECORDSEPARATOR ---
-track: RIDE ON A METEORITE

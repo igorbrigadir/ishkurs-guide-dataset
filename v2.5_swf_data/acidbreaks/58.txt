@@ -1,3 +1,0 @@
-artist: FUNKY ROBOTS
---- RECORDSEPARATOR ---
-track: TB303

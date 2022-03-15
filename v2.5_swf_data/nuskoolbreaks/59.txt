@@ -1,3 +1,0 @@
-artist: TIPPER
---- RECORDSEPARATOR ---
-track: TWISTER

@@ -1,3 +1,0 @@
-artist: SKALPEL
---- RECORDSEPARATOR ---
-track: SO FAR

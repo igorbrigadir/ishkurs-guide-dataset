@@ -1,3 +1,0 @@
-artist: WP ALEX REMARK
---- RECORDSEPARATOR ---
-track: PYRAMID

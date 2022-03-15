@@ -1,3 +1,0 @@
-artist: STAKKER
---- RECORDSEPARATOR ---
-track: HUMANOID

@@ -1,3 +1,0 @@
-artist: RESET
---- RECORDSEPARATOR ---
-track: WINGS OF LOVE

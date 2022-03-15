@@ -1,3 +1,0 @@
-artist: CINDERELLA
---- RECORDSEPARATOR ---
-track: THE REALM

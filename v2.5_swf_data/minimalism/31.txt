@@ -1,3 +1,0 @@
-artist: MIKE OLDFIELD
---- RECORDSEPARATOR ---
-track: TUBULAR BELLS

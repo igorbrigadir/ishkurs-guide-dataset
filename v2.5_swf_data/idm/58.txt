@@ -1,3 +1,0 @@
-artist: AUTECHRE
---- RECORDSEPARATOR ---
-track: ACROYEAR 2

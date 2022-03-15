@@ -1,3 +1,0 @@
-artist: KEN LASZLO
---- RECORDSEPARATOR ---
-track: HEY HEY GUY

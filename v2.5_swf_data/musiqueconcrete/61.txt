@@ -1,3 +1,0 @@
-artist: IANNIS XENAKIS
---- RECORDSEPARATOR ---
-track: CONCRET PH

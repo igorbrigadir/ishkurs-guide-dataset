@@ -1,3 +1,0 @@
-artist: INNER CITY
---- RECORDSEPARATOR ---
-track: BIG FUN

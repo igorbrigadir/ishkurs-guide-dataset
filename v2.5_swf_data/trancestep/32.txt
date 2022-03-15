@@ -1,3 +1,0 @@
-artist: JOHN B
---- RECORDSEPARATOR ---
-track: AMERICAN GIRLS
