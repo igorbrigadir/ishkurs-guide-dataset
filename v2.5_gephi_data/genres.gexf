@@ -587,7 +587,7 @@
         <viz:position x="-3067.0195" y="-2013.8114"></viz:position>
         <viz:color r="226" g="139" b="255"></viz:color>
       </node>
-      <node id="progressivetrance" label="Progressive House">
+      <node id="progressivetrance" label="Progressive Trance">
         <attvalues>
           <attvalue for="type" value="Trance"></attvalue>
           <attvalue for="scene" value="Eurotrance"></attvalue>
